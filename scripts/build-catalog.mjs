@@ -34,9 +34,8 @@ for (const { origin, id, skillPath } of listSkillDirs(path.join(root, "skills"))
     sourceUrl: old.sourceUrl || null,
     path: `skills/${origin}/${id}`,
     worksWith: old.worksWith || ["cursor", "claude-code", "codex", "gemini", "any"],
-    github:
-      old.github ||
-      `https://github.com/orlandoneto/agent-skills/tree/main/skills/${origin}/${id}`,
+    // Sempre espelho orlandoneto — sourceUrl guarda o upstream para crédito
+    github: `https://github.com/orlandoneto/agent-skills/tree/main/skills/${origin}/${id}`,
     download:
       old.download ||
       `https://github.com/orlandoneto/agent-skills/releases/latest/download/${id}.zip`,

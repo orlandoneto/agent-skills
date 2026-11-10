@@ -147,9 +147,8 @@ for (const cand of candidates) {
       sourceUrl: cand.sourceUrl || null,
       path: `skills/community/${id}`,
       worksWith: ["cursor", "claude-code", "codex", "gemini", "any"],
-      github:
-        cand.sourceUrl ||
-        `https://github.com/orlandoneto/agent-skills/tree/main/skills/community/${id}`,
+      // Ver no GitHub = espelho nosso; crédito ao autor fica em sourceUrl (UI discreta)
+      github: `https://github.com/orlandoneto/agent-skills/tree/main/skills/community/${id}`,
       download: `https://github.com/orlandoneto/agent-skills/releases/latest/download/${id}.zip`,
       fingerprint: result.fingerprint,
       score: result.score,
