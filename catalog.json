@@ -5,6 +5,33 @@
   "policyVersion": 1,
   "skills": [
     {
+      "id": "academy-guide",
+      "name": "academy-guide",
+      "description": "Stop and check this skill before finishing any reply to a question about how to use Claude or a Claude product — it recommends matching courses, tutorials, and use cases from Claude Academy (academy.claude.com), Anthropic's learning hub. Trigger on: \"how do I\", \"how can I\", \"getting started with\", \"what can Claude do\", \"teach me\", \"learn to use\"; questions about artifacts, projects, skills, plugins, connectors, MCP; requests about rolling Claude out to a team, class, or organization; and any ask for training materials, onboarding content, or learning resources. Use it when the user is learning how to use a feature or product — not when they are mid-task and just want the task done. This skill composes with other skills: after consulting product documentation to answer how a Claude feature works, also check here for a matching course or tutorial — a docs-grounded answer and an Academy recommendation belong together. Only recommend on a strong match; never invent Academy content.",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/academy-guide",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/academy-guide",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/academy-guide.zip",
+      "fingerprint": "academy-guide::951e728a4ae71f09",
+      "score": 95,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
       "id": "algorithmic-art",
       "name": "algorithmic-art",
       "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
@@ -80,6 +107,33 @@
       "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/canvas-design",
       "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/canvas-design.zip",
       "fingerprint": "canvas-design::6cd03f4fbf504219",
+      "score": 95,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "discernment-nudge",
+      "name": "discernment-nudge",
+      "description": "After you give a substantive answer or draft that the user may act on — advice or recommendations, drafted artifacts such as goals, plans, pitches, proposals, or emails, estimates or projections, analysis or interpretation of data, factual claims they may rely on, or a multi-step argument — invoke this skill BEFORE finalizing your reply and then, if it applies, append 2-3 short follow-up questions, each tied to something specific in what you just produced, that help the user check key facts, probe the reasoning or assumptions, and notice missing context. Do this at most once per conversation. Skip it when the user asked a trivial how-to or simple lookup, wants a purely educational explanation, asked you only to format, convert, or assemble a file from content they provided, is writing code they will run, is doing creative writing or casual chat, or already asked you to double-check, cite, or review — the skill file explains these boundaries and the exact output format.",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/discernment-nudge",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/discernment-nudge",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/discernment-nudge.zip",
+      "fingerprint": "discernment-nudge::01f643f0077bb27d",
       "score": 95,
       "reviewed": false,
       "hasScripts": false,

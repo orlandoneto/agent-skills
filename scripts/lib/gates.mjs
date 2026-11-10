@@ -18,12 +18,23 @@ export function parseFrontmatter(md) {
   const match = String(md).match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
   if (!match) return { meta: {}, body: String(md) };
   const meta = {};
-  for (const line of match[1].split(/\r?\n/)) {
+  const lines = match[1].split(/\r?\n/);
+  for (let i = 0; i < lines.length; i += 1) {
+    const line = lines[i];
     const idx = line.indexOf(":");
     if (idx === -1) continue;
     const key = line.slice(0, idx).trim();
     let value = line.slice(idx + 1).trim();
-    if (
+
+    // YAML folded/literal: description: >-  / |
+    if (value === ">" || value === ">|" || value === ">-" || value === "|" || value === "|-" || value === "|+") {
+      const chunks = [];
+      while (i + 1 < lines.length && /^\s+/.test(lines[i + 1])) {
+        i += 1;
+        chunks.push(lines[i].replace(/^\s+/, ""));
+      }
+      value = chunks.join(" ").trim();
+    } else if (
       (value.startsWith('"') && value.endsWith('"')) ||
       (value.startsWith("'") && value.endsWith("'"))
     ) {

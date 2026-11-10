@@ -30,6 +30,21 @@ license: MIT
   assert.equal(meta.license, "MIT");
 });
 
+test("parseFrontmatter lê description folded >-", () => {
+  const md = `---
+name: folded-skill
+description: >-
+  Linha um da description que precisa passar do minimo
+  e continuar na linha dois sem quebrar o gate.
+license: Apache-2.0
+---
+# Body
+`;
+  const { meta } = parseFrontmatter(md);
+  assert.ok(meta.description.length >= 40);
+  assert.match(meta.description, /Linha um/);
+});
+
 test("score penaliza scripts e premia licença", () => {
   const base = {
     meta: {

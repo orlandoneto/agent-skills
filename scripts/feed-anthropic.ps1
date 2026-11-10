@@ -29,7 +29,9 @@ $allow = @(
   "internal-comms",
   "algorithmic-art",
   "theme-factory",
-  "slack-gif-creator"
+  "slack-gif-creator",
+  "academy-guide",
+  "discernment-nudge"
 )
 
 $community = Join-Path $root "skills\community"

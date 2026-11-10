@@ -112,25 +112,57 @@ async function crawlGithubRepoSkills(source) {
     if (entry.type !== "dir") continue;
     const id = normalizeName(entry.name);
     const rawUrl = `https://raw.githubusercontent.com/${source.repo}/HEAD/${source.path}/${entry.name}/SKILL.md`;
+
+    let hasScriptsFolder = false;
+    try {
+      const childApi = `https://api.github.com/repos/${source.repo}/contents/${source.path}/${entry.name}`;
+      const children = JSON.parse(await fetchText(childApi));
+      if (Array.isArray(children)) {
+        hasScriptsFolder = children.some((c) => c.name === "scripts");
+      }
+    } catch {
+      // se falhar o listing do filho, segue com heurística do SKILL.md
+    }
+
+    // anthropics/skills: repo Apache-2.0; frontmatter costuma dizer "Complete terms in LICENSE.txt"
+    const defaultLicense =
+      source.repo === "anthropics/skills" ? "Apache-2.0" : null;
+
     await ingestRemoteSkill({
       id,
       sourceUrl: entry.html_url || `https://github.com/${source.repo}/tree/HEAD/${source.path}/${entry.name}`,
       rawUrl,
-      license: null,
+      license: defaultLicense,
       sourceId: source.id,
       repo: source.repo,
+      hasScriptsFolder,
     });
   }
 }
 
-async function ingestRemoteSkill({ id, sourceUrl, rawUrl, license, sourceId, repo }) {
+function normalizeLicense(raw, fallback) {
+  const lic = String(raw || "").trim();
+  if (!lic) return fallback || "";
+  if (/complete terms|see license|license\.txt/i.test(lic)) return fallback || lic;
+  return lic;
+}
+
+async function ingestRemoteSkill({
+  id,
+  sourceUrl,
+  rawUrl,
+  license,
+  sourceId,
+  repo,
+  hasScriptsFolder = false,
+}) {
   const base = { id, sourceUrl, rawUrl, sourceId, repo: repo || null };
   try {
     const md = await fetchText(rawUrl);
     const { meta, body } = parseFrontmatter(md);
     const name = meta.name || id;
     const desc = meta.description || "";
-    const lic = (license || meta.license || "").trim();
+    const lic = normalizeLicense(license || meta.license, license);
 
     if (!desc || desc.length < policy.quality.minDescriptionLength) {
       pushReject(base, "description curta / ausente (anti-lixo)");
@@ -148,10 +180,10 @@ async function ingestRemoteSkill({ id, sourceUrl, rawUrl, license, sourceId, rep
       return;
     }
 
-    // Heurística: se o raw SKILL menciona pasta scripts no mesmo nível, marcar manual
-    const hasScriptsHint = /scripts\//i.test(md);
-    if (hasScriptsHint && !policy.security.autoPublishAllowedIfHasScripts) {
-      // ainda pode ir a staging, mas flagged
+    const hasScriptsHint = hasScriptsFolder || /(?:^|\n)\s*scripts\//im.test(md);
+    if (hasScriptsFolder) {
+      pushReject(base, "pasta scripts/ → só review manual (não auto-staging)");
+      return;
     }
 
     const fp = fingerprint({ name, body });
