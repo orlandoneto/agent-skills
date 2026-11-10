@@ -4,5 +4,174 @@
   "maxCandidatesPerDay": 25,
   "note": "Radar apenas. Não publicar automaticamente. Ver docs/QUALITY_GATES.md",
   "candidates": [],
-  "rejected": []
+  "rejected": [
+    {
+      "id": "academy-guide",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/academy-guide",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/academy-guide/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "description curta / ausente (anti-lixo)"
+    },
+    {
+      "id": "algorithmic-art",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/algorithmic-art/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "brand-guidelines",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/brand-guidelines/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "canvas-design",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/canvas-design",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/canvas-design/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "claude-api",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/claude-api",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/claude-api/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "description curta / ausente (anti-lixo)"
+    },
+    {
+      "id": "discernment-nudge",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/discernment-nudge",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/discernment-nudge/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "description curta / ausente (anti-lixo)"
+    },
+    {
+      "id": "doc-coauthoring",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/doc-coauthoring/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "UNKNOWN",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "docx",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/docx",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/docx/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "frontend-design",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/frontend-design/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "internal-comms",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/internal-comms",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/internal-comms/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "mcp-builder",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/mcp-builder/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "pdf",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/pdf",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/pdf/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "pptx",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/pptx",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/pptx/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "skill-creator",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/skill-creator/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "UNKNOWN",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "slack-gif-creator",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/slack-gif-creator/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "theme-factory",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/theme-factory",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/theme-factory/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "web-artifacts-builder",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/web-artifacts-builder/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "webapp-testing",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/webapp-testing/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    },
+    {
+      "id": "xlsx",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/xlsx",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/xlsx/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "license": "Complete terms in LICENSE.txt",
+      "reason": "licença ausente ou fora da allowlist → quarantine"
+    }
+  ]
 }
