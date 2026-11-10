@@ -6,7 +6,7 @@
 ## Pipeline (o que o Orlando pediu)
 
 ```text
-fontes allowlist (Git / seed)
+fontes allowlist (Git / seed) — inclui `addyosmani/agent-skills` + `anthropics/skills`
   → npm run crawl          → staging/candidates-*.json
   → npm run publish-safe   → skills/community/ + catalog.json  (SAFE only)
   → git push

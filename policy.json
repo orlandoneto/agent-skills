@@ -27,12 +27,19 @@
     "rejectIfSameFingerprintExists": true
   },
   "crawler": {
-    "maxCandidatesPerDay": 25,
-    "maxAutoPromotePerDay": 10,
+    "maxCandidatesPerDay": 40,
+    "maxAutoPromotePerDay": 30,
     "maxPublishedCommunity": 200,
     "scheduleTimezone": "America/Sao_Paulo",
     "userAgent": "OntoomSkillCrawler/1.0 (+https://www.ontoom.com.br/skills; respect robots; 1x/day)",
     "sourcesAllowlist": [
+      {
+        "id": "addyosmani-agent-skills",
+        "type": "github-repo-skills",
+        "repo": "addyosmani/agent-skills",
+        "path": "skills",
+        "enabled": true
+      },
       {
         "id": "anthropics-skills",
         "type": "github-repo-skills",
