@@ -52,3 +52,7 @@ npm run pack              # zips locais (CI faz no Release)
 ## Regra de ouro
 
 Se a dúvida é “publico ou não?”, **não publique**. Quarentena > SEO poluído.
+
+## Custo
+
+Zero pago: GitHub público + Releases + Action free. Sem Meili/Algolia/VPS. Ontoom fica na **Vercel Hobby**. Ver rule `zero-custo` no repo ontoom.
