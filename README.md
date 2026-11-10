@@ -24,20 +24,29 @@ policy.json          # gates anti-lixo / licença / scripts / dedupe
 catalog.json         # índice consumido pelo Ontoom
 ```
 
+## Crawler → Git + buscador
+
+Todo dia a Action:
+
+1. Varre fontes allowlist  
+2. `publish-safe` sobe skills SAFE em `skills/community/` + `catalog.json`  
+3. Gera Release com **um ZIP por skill**  
+4. [Ontoom /skills](https://www.ontoom.com.br/skills) lê o catalog e o download aponta para o GitHub  
+
 ## Gates (obrigatório)
 
 Ver [docs/QUALITY_GATES.md](./docs/QUALITY_GATES.md).
 
-- Sem licença allowlist → quarentena  
-- `scripts/` → review manual  
+- Sem licença allowlist → não publica  
+- `scripts/` → **não** auto-publish  
 - Duplicata por fingerprint → rejeita  
-- Crawler ≤ N candidatos/dia → **não** espelha awesome inteiro  
+- Teto `maxAutoPromotePerDay` (default 10)  
 
 ```bash
-npm test          # validate + unit
-npm run crawl     # só staging
-npm run promote -- <id>
-npm run pack      # ZIP por skill em dist/zips/
+npm test
+npm run crawl
+npm run publish-safe   # Git + catalog (buscador)
+npm run pack           # ZIP por skill
 ```
 
 ## Licença

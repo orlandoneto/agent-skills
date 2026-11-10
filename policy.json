@@ -1,7 +1,7 @@
 {
   "$schema": "./policy.schema.json",
   "version": 1,
-  "description": "Gates anti-lixo, licença, malware e duplicata. Crawler = radar, não espelho.",
+  "description": "Gates anti-lixo, licença, malware e duplicata. Crawler publica SAFE no Git+catalog (buscador); scripts ficam em staging.",
   "licenses": {
     "allow": ["MIT", "Apache-2.0", "Apache 2.0", "BSD-2-Clause", "BSD-3-Clause", "CC0-1.0", "Unlicense", "ISC"],
     "deny": ["NONE", "UNKNOWN", "UNLICENSED-PROPRIETARY"],
@@ -15,7 +15,7 @@
   },
   "quality": {
     "minDescriptionLength": 40,
-    "maxSkillMdBytes": 80000,
+    "maxSkillMdBytes": 128000,
     "minSkillMdBytes": 120,
     "requireNameMatchesFolder": true,
     "minScoreToAutoPropose": 40,
@@ -28,7 +28,7 @@
   },
   "crawler": {
     "maxCandidatesPerDay": 25,
-    "maxAutoPromotePerDay": 0,
+    "maxAutoPromotePerDay": 10,
     "maxPublishedCommunity": 200,
     "scheduleTimezone": "America/Sao_Paulo",
     "userAgent": "OntoomSkillCrawler/1.0 (+https://www.ontoom.com.br/skills; respect robots; 1x/day)",

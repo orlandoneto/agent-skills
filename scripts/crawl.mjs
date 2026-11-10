@@ -239,7 +239,7 @@ const payload = {
   date: day,
   policyVersion: policy.version,
   maxCandidatesPerDay: policy.crawler.maxCandidatesPerDay,
-  note: "Radar apenas. Não publicar automaticamente. Ver docs/QUALITY_GATES.md",
+  note: "Candidatos para publish-safe (Action diária). Scripts/licença ruim → rejected. Ver docs/QUALITY_GATES.md",
   candidates,
   rejected,
 };
@@ -248,6 +248,7 @@ writeFileSync(outFile, JSON.stringify(payload, null, 2) + "\n", "utf8");
 console.log(
   `staging: ${candidates.length} candidatos, ${rejected.length} rejeitados → ${path.relative(root, outFile)}`,
 );
+console.log("Próximo: npm run publish-safe → catalog.json + Git + ZIP Release → Ontoom /skills");
 if (candidates.length === 0) {
-  console.log("Nada novo (ok). Crawler não espelha listas inteiras.");
+  console.log("Nada novo para publish-safe (ok).");
 }

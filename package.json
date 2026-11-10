@@ -1,12 +1,13 @@
 {
   "name": "ontoom-agent-skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "description": "Catálogo curado de Agent Skills (Ontoom) — ZIP unitário + gates",
+  "description": "Catálogo curado de Agent Skills (Ontoom) — ZIP unitário + gates + crawl publish-safe",
   "type": "module",
   "scripts": {
     "validate": "node scripts/validate.mjs",
     "crawl": "node scripts/crawl.mjs",
+    "publish-safe": "node scripts/publish-safe.mjs",
     "promote": "node scripts/promote.mjs",
     "pack": "node scripts/pack-zips.mjs",
     "catalog:build": "node scripts/build-catalog.mjs",

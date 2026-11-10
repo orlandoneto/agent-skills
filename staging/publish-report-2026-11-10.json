@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-10",
+  "published": [
+    {
+      "id": "claude-api",
+      "score": 100,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/claude-api"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "doc-coauthoring",
+      "reason": "já publicado (id)"
+    }
+  ],
+  "held": []
+}

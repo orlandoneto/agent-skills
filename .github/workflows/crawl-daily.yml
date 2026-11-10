@@ -1,5 +1,7 @@
 name: crawl-daily
 
+# Varre fontes → publica SAFE no Git (skills + catalog) → ZIP no Release
+# → Ontoom /skills consome catalog.json (download = Release).
 on:
   schedule:
     # ~08:00 America/Sao_Paulo (11:00 UTC) — 1x/dia
@@ -10,25 +12,62 @@ permissions:
   contents: write
 
 jobs:
-  crawl:
+  crawl-publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: Radar only (staging)
+
+      - name: Crawl (staging + candidatos)
         run: npm run crawl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit staging candidates (not published skills)
+
+      - name: Publish SAFE → skills/ + catalog.json
+        run: npm run publish-safe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Rebuild catalog + validate
+        run: |
+          npm run catalog:build
+          npm test
+
+      - name: Commit Git (skills + catalog + staging)
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add staging/
+          git add skills/ catalog.json NOTICE staging/ policy.json || true
           if git diff --staged --quiet; then
-            echo "Sem mudanças em staging/"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Sem mudanças para commit"
             exit 0
           fi
-          git commit -m "chore: staging skill candidates (radar only)"
+          git commit -m "chore: crawl publish-safe skills for Ontoom catalog"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Pack all per-skill ZIPs
+        if: steps.commit.outputs.changed == 'true'
+        run: npm run pack
+
+      - name: Release latest ZIPs (buscador download)
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          TAG="v0.$(date -u +%Y%m%d).$(date -u +%H%M)"
+          # Re-upload ALL zips so /releases/latest/download/<id>.zip continue funcionando
+          gh release create "$TAG" dist/zips/*.zip \
+            --title "$TAG — skills catalog sync" \
+            --notes "Auto publish-safe. Catálogo: https://www.ontoom.com.br/skills
+          Repo: https://github.com/orlandoneto/agent-skills
+          Download = um ZIP por skill (não o monorepo)." \
+            --latest

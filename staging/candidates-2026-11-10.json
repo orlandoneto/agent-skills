@@ -2,8 +2,39 @@
   "date": "2026-11-10",
   "policyVersion": 1,
   "maxCandidatesPerDay": 25,
-  "note": "Radar apenas. Não publicar automaticamente. Ver docs/QUALITY_GATES.md",
-  "candidates": [],
+  "note": "Candidatos para publish-safe (Action diária). Scripts/licença ruim → rejected. Ver docs/QUALITY_GATES.md",
+  "candidates": [
+    {
+      "id": "claude-api",
+      "name": "claude-api",
+      "description": "Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, MCP, agents, caching, token counting, model migration. TRIGGER — read BEFORE opening the target file; don't skip because it \"looks like a one-liner\" — whenever: the prompt names Claude/Anthropic in any form (Claude, Anthropic, Fable, Opus, Sonnet, Haiku, `anthropic`, `@anthropic-ai`, `claude-*`, `us.anthropic.*`, `[1m]`); the user asks about an LLM (pricing/model choice/limits/caching) — never answer from memory; OR the task is LLM-shaped with provider unstated (agent/MCP/tool-definition/multi-agent/RAG/LLM-judge/computer-use; generate/summarize/extract/classify/rewrite/converse over NL; debugging refusals/cutoffs/streaming/tool-calls/tokens). SKIP only when another provider is being worked on (overrides all triggers): OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama named in the query; OR `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'` over the project hits (run this grep FIRST if no provider named — don't Read the file).",
+      "license": "Apache-2.0",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/claude-api",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/claude-api/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "fingerprint": "claude-api::29bcf09e007aa81e",
+      "score": 100,
+      "hasScriptsHint": false,
+      "requiresManualReview": false,
+      "status": "staging",
+      "fetchedAt": "2026-11-10T16:09:33.612Z"
+    },
+    {
+      "id": "doc-coauthoring",
+      "name": "doc-coauthoring",
+      "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+      "license": "Apache-2.0",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/doc-coauthoring/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "fingerprint": "doc-coauthoring::cdc0afd5dccbe073",
+      "score": 100,
+      "hasScriptsHint": false,
+      "requiresManualReview": false,
+      "status": "staging",
+      "fetchedAt": "2026-11-10T16:09:37.307Z"
+    }
+  ],
   "rejected": [
     {
       "id": "academy-guide",
@@ -11,7 +42,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/academy-guide/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "reason": "description curta / ausente (anti-lixo)"
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"academy-guide\"}"
     },
     {
       "id": "algorithmic-art",
@@ -19,8 +50,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/algorithmic-art/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"algorithmic-art\"}"
     },
     {
       "id": "brand-guidelines",
@@ -28,8 +58,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/brand-guidelines/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"brand-guidelines\"}"
     },
     {
       "id": "canvas-design",
@@ -37,16 +66,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/canvas-design/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
-    },
-    {
-      "id": "claude-api",
-      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/claude-api",
-      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/claude-api/SKILL.md",
-      "sourceId": "anthropics-skills",
-      "repo": "anthropics/skills",
-      "reason": "description curta / ausente (anti-lixo)"
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"canvas-design\"}"
     },
     {
       "id": "discernment-nudge",
@@ -54,16 +74,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/discernment-nudge/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "reason": "description curta / ausente (anti-lixo)"
-    },
-    {
-      "id": "doc-coauthoring",
-      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
-      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/doc-coauthoring/SKILL.md",
-      "sourceId": "anthropics-skills",
-      "repo": "anthropics/skills",
-      "license": "UNKNOWN",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"discernment-nudge\"}"
     },
     {
       "id": "docx",
@@ -71,8 +82,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/docx/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
     },
     {
       "id": "frontend-design",
@@ -80,8 +90,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/frontend-design/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"frontend-design\"}"
     },
     {
       "id": "internal-comms",
@@ -89,8 +98,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/internal-comms/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"internal-comms\"}"
     },
     {
       "id": "mcp-builder",
@@ -98,8 +106,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/mcp-builder/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
     },
     {
       "id": "pdf",
@@ -107,8 +114,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/pdf/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
     },
     {
       "id": "pptx",
@@ -116,8 +122,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/pptx/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
     },
     {
       "id": "skill-creator",
@@ -125,8 +130,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/skill-creator/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "UNKNOWN",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
     },
     {
       "id": "slack-gif-creator",
@@ -134,8 +138,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/slack-gif-creator/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"slack-gif-creator\"}"
     },
     {
       "id": "theme-factory",
@@ -143,8 +146,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/theme-factory/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"theme-factory\"}"
     },
     {
       "id": "web-artifacts-builder",
@@ -152,8 +154,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/web-artifacts-builder/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
     },
     {
       "id": "webapp-testing",
@@ -161,8 +162,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/webapp-testing/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
     },
     {
       "id": "xlsx",
@@ -170,8 +170,7 @@
       "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/xlsx/SKILL.md",
       "sourceId": "anthropics-skills",
       "repo": "anthropics/skills",
-      "license": "Complete terms in LICENSE.txt",
-      "reason": "licença ausente ou fora da allowlist → quarantine"
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
     }
   ]
 }
