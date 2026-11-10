@@ -34,6 +34,7 @@ Com `scripts/` → **não** auto-publica (fica rejected/held para review manual)
 | Rate limit / ToS | 1 pass/fonte/dia, User-Agent, allowlist |
 | Duplicata | fingerprint |
 | Download | ZIP no **GitHub Release** (não Vercel) |
+| Link "Ver no GitHub" | Sempre espelho `orlandoneto` se publicado em `skills/`; `sourceUrl` = crédito ao autor |
 
 ## Status
 

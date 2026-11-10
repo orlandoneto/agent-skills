@@ -14,7 +14,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/academy-guide",
       "path": "skills/community/academy-guide",
       "worksWith": [
         "cursor",
@@ -41,7 +41,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art",
       "path": "skills/community/algorithmic-art",
       "worksWith": [
         "cursor",
@@ -98,7 +98,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines",
       "path": "skills/community/brand-guidelines",
       "worksWith": [
         "cursor",
@@ -155,7 +155,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/canvas-design",
       "path": "skills/community/canvas-design",
       "worksWith": [
         "cursor",
@@ -419,7 +419,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/discernment-nudge",
       "path": "skills/community/discernment-nudge",
       "worksWith": [
         "cursor",
@@ -446,7 +446,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
       "path": "skills/community/doc-coauthoring",
       "worksWith": [
         "cursor",
@@ -533,7 +533,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
       "path": "skills/community/frontend-design",
       "worksWith": [
         "cursor",
@@ -679,7 +679,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/internal-comms",
       "path": "skills/community/internal-comms",
       "worksWith": [
         "cursor",
@@ -886,7 +886,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator",
       "path": "skills/community/slack-gif-creator",
       "worksWith": [
         "cursor",
@@ -1003,7 +1003,7 @@
       "origin": "community",
       "status": "published",
       "license": "Apache-2.0",
-      "sourceUrl": null,
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/theme-factory",
       "path": "skills/community/theme-factory",
       "worksWith": [
         "cursor",
