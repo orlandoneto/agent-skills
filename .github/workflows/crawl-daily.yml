@@ -1,0 +1,43 @@
+name: crawl-daily
+
+on:
+  schedule:
+    # ~08:00 America/Sao_Paulo (11:00 UTC) — 1x/dia
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Radar only (staging)
+        run: npm run crawl
+        env:
+          # Opcional: reduz rate limit em fontes GitHub
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Open PR with staging candidates
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: staging skill candidates"
+          title: "chore: skill crawl candidates (radar only)"
+          body: |
+            Crawler = **radar + rascunho**. Não faz merge em `skills/`.
+
+            Revisar `staging/candidates-*.json`:
+            - licença allowlist
+            - sem scripts sem review
+            - sem duplicata
+            - quota / qualidade
+
+            Promover com: `npm run promote -- <id>`
+            Ver `docs/QUALITY_GATES.md`.
+          branch: chore/skill-crawl-staging
+          add-paths: staging/

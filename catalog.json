@@ -1,0 +1,308 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-10",
+  "repo": "https://github.com/orlandoneto/agent-skills",
+  "policyVersion": 1,
+  "skills": [
+    {
+      "id": "algorithmic-art",
+      "name": "algorithmic-art",
+      "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/algorithmic-art",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/algorithmic-art",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/algorithmic-art.zip",
+      "fingerprint": "algorithmic-art::4725918af6002074",
+      "score": 95,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "brand-guidelines",
+      "name": "brand-guidelines",
+      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/brand-guidelines",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/brand-guidelines",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/brand-guidelines.zip",
+      "fingerprint": "brand-guidelines::3007cec9e42c8264",
+      "score": 95,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "canvas-design",
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/canvas-design",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/canvas-design",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/canvas-design.zip",
+      "fingerprint": "canvas-design::6cd03f4fbf504219",
+      "score": 95,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "doc-coauthoring",
+      "name": "doc-coauthoring",
+      "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/doc-coauthoring",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/doc-coauthoring",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/doc-coauthoring.zip",
+      "fingerprint": "doc-coauthoring::39ab260b6287d0ad",
+      "score": 100,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "frontend-design",
+      "name": "frontend-design",
+      "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/frontend-design",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/frontend-design",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/frontend-design.zip",
+      "fingerprint": "frontend-design::f46b32cb11564c2f",
+      "score": 95,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "internal-comms",
+      "name": "internal-comms",
+      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/internal-comms",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/internal-comms",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/internal-comms.zip",
+      "fingerprint": "internal-comms::3efad62c3b61e8d4",
+      "score": 100,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "slack-gif-creator",
+      "name": "slack-gif-creator",
+      "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/slack-gif-creator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/slack-gif-creator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/slack-gif-creator.zip",
+      "fingerprint": "slack-gif-creator::007304edccf1e8b3",
+      "score": 100,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "theme-factory",
+      "name": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+      "tags": [
+        "community"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "Apache-2.0",
+      "sourceUrl": null,
+      "path": "skills/community/theme-factory",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/theme-factory",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/theme-factory.zip",
+      "fingerprint": "theme-factory::de447402ddaf341e",
+      "score": 95,
+      "reviewed": false,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "commit-conventional",
+      "name": "commit-conventional",
+      "description": "Writes Conventional Commits (feat, fix, docs, chore) with a clear why. Use when the user asks for a commit message, git commit text, or to summarize a diff.",
+      "tags": [
+        "ontoom",
+        "git"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/commit-conventional",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/commit-conventional",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/commit-conventional.zip",
+      "fingerprint": "commit-conventional::3a0d0894e0c8d3f6",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "seo-meta-audit",
+      "name": "seo-meta-audit",
+      "description": "Audita title, meta description, canonical, hreflang e Open Graph. Use when the user asks for SEO audit, meta tags review, SERP snippet, or indexing checks.",
+      "tags": [
+        "ontoom",
+        "seo"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/seo-meta-audit",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/seo-meta-audit",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/seo-meta-audit.zip",
+      "fingerprint": "seo-meta-audit::e674cbd953c46c72",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    },
+    {
+      "id": "skill-authoring",
+      "name": "skill-authoring",
+      "description": "Creates portable Agent Skills (SKILL.md) for Cursor, Claude Code, Codex and similar tools. Use when creating a new skill or converting a workflow into SKILL.md.",
+      "tags": [
+        "ontoom",
+        "meta"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/skill-authoring",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/skill-authoring",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/skill-authoring.zip",
+      "fingerprint": "skill-authoring::866d01104976f65b",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "updatedAt": "2026-11-10"
+    }
+  ]
+}

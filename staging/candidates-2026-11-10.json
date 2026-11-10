@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-10",
+  "policyVersion": 1,
+  "maxCandidatesPerDay": 25,
+  "note": "Radar apenas. Não publicar automaticamente. Ver docs/QUALITY_GATES.md",
+  "candidates": [],
+  "rejected": []
+}

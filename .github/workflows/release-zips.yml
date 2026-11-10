@@ -1,0 +1,33 @@
+name: release-zips
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Validate gates
+        run: npm test
+      - name: Build catalog
+        run: npm run catalog:build
+      - name: Pack per-skill ZIPs
+        run: npm run pack
+      - name: Upload release assets
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/zips/*.zip
+          generate_release_notes: true
+          draft: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

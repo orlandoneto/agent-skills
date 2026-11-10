@@ -1,0 +1,63 @@
+{
+  "$schema": "./policy.schema.json",
+  "version": 1,
+  "description": "Gates anti-lixo, licença, malware e duplicata. Crawler = radar, não espelho.",
+  "licenses": {
+    "allow": ["MIT", "Apache-2.0", "Apache 2.0", "BSD-2-Clause", "BSD-3-Clause", "CC0-1.0", "Unlicense", "ISC"],
+    "deny": ["NONE", "UNKNOWN", "UNLICENSED-PROPRIETARY"],
+    "requireDeclaredLicense": true
+  },
+  "security": {
+    "autoPublishAllowedIfHasScripts": false,
+    "autoPublishAllowedIfHasBinaries": false,
+    "blockedExtensions": [".exe", ".dll", ".bat", ".cmd", ".ps1", ".sh", ".bash", ".zsh", ".msi", ".dmg"],
+    "blockedPathFragments": ["node_modules/", ".git/", "credentials", ".env"]
+  },
+  "quality": {
+    "minDescriptionLength": 40,
+    "maxSkillMdBytes": 80000,
+    "minSkillMdBytes": 120,
+    "requireNameMatchesFolder": true,
+    "minScoreToAutoPropose": 40,
+    "minScoreToPublish": 60
+  },
+  "dedupe": {
+    "normalizeName": true,
+    "hashBody": true,
+    "rejectIfSameFingerprintExists": true
+  },
+  "crawler": {
+    "maxCandidatesPerDay": 25,
+    "maxAutoPromotePerDay": 0,
+    "maxPublishedCommunity": 200,
+    "scheduleTimezone": "America/Sao_Paulo",
+    "userAgent": "OntoomSkillCrawler/1.0 (+https://www.ontoom.com.br/skills; respect robots; 1x/day)",
+    "sourcesAllowlist": [
+      {
+        "id": "anthropics-skills",
+        "type": "github-repo-skills",
+        "repo": "anthropics/skills",
+        "path": "skills",
+        "enabled": true
+      },
+      {
+        "id": "manual-seed",
+        "type": "local-manifest",
+        "path": "staging/seed-sources.json",
+        "enabled": true
+      }
+    ],
+    "forbiddenBehaviors": [
+      "mirror-entire-awesome-list",
+      "scrape-without-allowlist",
+      "more-than-one-full-pass-per-day-per-source",
+      "publish-without-license-gate",
+      "publish-skills-with-scripts-automatically"
+    ]
+  },
+  "publishing": {
+    "publicStatuses": ["published"],
+    "seoIndexStatuses": ["published"],
+    "downloadMustBePerSkillZip": true
+  }
+}

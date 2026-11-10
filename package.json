@@ -1,0 +1,19 @@
+{
+  "name": "ontoom-agent-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Catálogo curado de Agent Skills (Ontoom) — ZIP unitário + gates",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "crawl": "node scripts/crawl.mjs",
+    "promote": "node scripts/promote.mjs",
+    "pack": "node scripts/pack-zips.mjs",
+    "catalog:build": "node scripts/build-catalog.mjs",
+    "test": "node scripts/validate.mjs && node --test scripts/gates.test.mjs"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}

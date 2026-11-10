@@ -1,0 +1,12 @@
+# NOTICE
+
+This repository contains:
+
+1. **Original Ontoom skills** under the MIT License (see LICENSE).
+2. **Community skills** that may retain their upstream license. Each published
+   community skill must declare `license` and `sourceUrl` in catalog.json.
+   See NOTICE entries below when promoting third-party work.
+
+## Third-party attributions
+
+(None published yet â€” add a line when promoting a community skill.)
