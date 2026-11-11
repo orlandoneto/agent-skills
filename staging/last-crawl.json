@@ -1,5 +1,8 @@
 {
-  "ok": false,
-  "at": null,
-  "note": "Preenchido automaticamente pelo workflow crawl-daily. Se at for >26h, o crawl-watchdog re-dispara."
+  "ok": true,
+  "at": "2026-11-11T13:56:13.661Z",
+  "runId": "43033609470",
+  "runUrl": "https://github.com/orlandoneto/agent-skills/actions/runs/43033609470",
+  "event": "workflow_dispatch",
+  "sha": "11a81115b8fa1110314ce914360ef8452f0b1fa5"
 }
