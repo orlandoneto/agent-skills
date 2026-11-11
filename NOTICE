@@ -59,3 +59,4 @@ This repository contains:
 - signal-config: MIT — https://github.com/promptingcompany/agent-skills/tree/main/skills/signal-config (auto publish-safe)
 - skills-admin: MIT — https://github.com/promptingcompany/agent-skills/tree/main/skills/skills-admin (auto publish-safe)
 - vercel-react-best-practices: MIT — https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices (auto publish-safe)
+- analyze-experiment: MIT — https://github.com/promptingcompany/agent-skills/tree/main/skills/analyze-experiment (auto publish-safe)

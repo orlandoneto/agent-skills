@@ -91,6 +91,36 @@
       "updatedAt": "2026-11-11"
     },
     {
+      "id": "analyze-experiment",
+      "name": "analyze-experiment",
+      "description": "Turn a completed experiment iteration into an honest, evidence-backed analysis — a portable data dump, a markdown report, and a branded client-ready PDF. Pulls run data via the tpc CLI, scores each task, clusters friction by root cause (with a transcript example per claim), compares arms, and closes on agent-readiness gaps. Optionally produces a deeper no-fluff evidence report with prioritized actions and agent instructions. The natural companion to setup-experiment: setup → run → analyze.",
+      "tags": [
+        "community",
+        "auto",
+        "promptingcompany-agent-skills"
+      ],
+      "origin": "community",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/analyze-experiment",
+      "path": "skills/community/analyze-experiment",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/community/analyze-experiment",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/analyze-experiment.zip",
+      "fingerprint": "analyze-experiment::f275b8387175cb7e",
+      "score": 95,
+      "reviewed": false,
+      "hasScripts": false,
+      "addedAt": "2026-11-11",
+      "updatedAt": "2026-11-11"
+    },
+    {
       "id": "api-and-interface-design",
       "name": "api-and-interface-design",
       "description": "Guides stable API and interface design. Use when designing APIs, module boundaries, or any public interface. Use when creating REST or GraphQL endpoints, defining type contracts between modules, or establishing boundaries between frontend and backend.",
