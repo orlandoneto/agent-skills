@@ -1,6 +1,6 @@
 # Quality gates — Agent Skills (Ontoom)
 
-**Última revisão:** 2026-11-10  
+**Última revisão:** 2026-11-11  
 **Canônico:** `policy.json`
 
 ## Pipeline (o que o Orlando pediu)
@@ -52,6 +52,17 @@ npm run catalog:build
 npm test
 npm run pack
 ```
+
+## Garantia diária (crawler)
+
+O `schedule` do GitHub **pode atrasar ou pular** um dia. Por isso:
+
+1. **Dois crons** em `crawl-daily` (11:00 e 20:00 UTC ≈ 08:00 e 17:00 BRT)
+2. **Heartbeat** `staging/last-crawl.json` em todo run bem-sucedido
+3. **`crawl-watchdog`** às 22:00 UTC: se último sucesso >26h → `workflow_dispatch` do crawl + Issue
+4. Falha do crawl → Issue automática
+
+Prova visual: Actions verde + `at` recente em `staging/last-crawl.json`.
 
 ## Custo
 

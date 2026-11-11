@@ -2,14 +2,27 @@ name: crawl-daily
 
 # Varre fontes → publica SAFE no Git (skills + catalog) → ZIP no Release
 # → Ontoom /skills consome catalog.json (download = Release).
+#
+# GARANTIA DIÁRIA:
+# - 2 crons (manhã + tarde BRT) — se o GitHub pular um, o outro cobre
+# - heartbeat sempre commitado (prova de execução mesmo sem skill nova)
+# - falha abre Issue automaticamente
+# - crawl-watchdog re-dispara se o dia passar sem sucesso
 on:
   schedule:
-    # ~08:00 America/Sao_Paulo (11:00 UTC) — 1x/dia
+    # ~08:00 America/Sao_Paulo (11:00 UTC)
     - cron: "0 11 * * *"
+    # ~17:00 America/Sao_Paulo (20:00 UTC) — backup se o primeiro falhar/atrasar
+    - cron: "0 20 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: crawl-daily
+  cancel-in-progress: false
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   crawl-publish:
@@ -38,7 +51,27 @@ jobs:
           npm run catalog:build
           npm test
 
-      - name: Commit Git (skills + catalog + staging)
+      - name: Heartbeat (prova diária)
+        run: |
+          mkdir -p staging
+          node <<'NODE'
+          const fs = require("fs");
+          const path = "staging/last-crawl.json";
+          const payload = {
+            ok: true,
+            at: new Date().toISOString(),
+            runId: process.env.GITHUB_RUN_ID || null,
+            runUrl: process.env.GITHUB_SERVER_URL && process.env.GITHUB_REPOSITORY && process.env.GITHUB_RUN_ID
+              ? `${process.env.GITHUB_SERVER_URL}/${process.env.GITHUB_REPOSITORY}/actions/runs/${process.env.GITHUB_RUN_ID}`
+              : null,
+            event: process.env.GITHUB_EVENT_NAME || null,
+            sha: process.env.GITHUB_SHA || null,
+          };
+          fs.writeFileSync(path, JSON.stringify(payload, null, 2) + "\n");
+          console.log("heartbeat:", payload);
+          NODE
+
+      - name: Commit Git (skills + catalog + staging + heartbeat)
         id: commit
         run: |
           git config user.name "github-actions[bot]"
@@ -49,16 +82,22 @@ jobs:
             echo "Sem mudanças para commit"
             exit 0
           fi
-          git commit -m "chore: crawl publish-safe skills for Ontoom catalog"
+          # skills/catalog mudaram?
+          if git diff --staged --name-only | grep -E '^(skills/|catalog\.json)' >/dev/null; then
+            echo "catalog_changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "catalog_changed=false" >> "$GITHUB_OUTPUT"
+          fi
+          git commit -m "chore: crawl publish-safe + daily heartbeat"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Pack all per-skill ZIPs
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.catalog_changed == 'true'
         run: npm run pack
 
       - name: Release latest ZIPs (buscador download)
-        if: steps.commit.outputs.changed == 'true'
+        if: steps.commit.outputs.catalog_changed == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -71,3 +110,21 @@ jobs:
           Repo: https://github.com/orlandoneto/agent-skills
           Download = um ZIP por skill (não o monorepo)." \
             --latest
+
+      - name: Abrir Issue se o job falhar
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TITLE="[crawl-daily] falhou em $(date -u +%Y-%m-%d)"
+          BODY="O workflow \`crawl-daily\` falhou.
+          Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+          Ação: o watchdog pode re-disparar; se persistir, rode **Run workflow** manualmente."
+          # Evita duplicar issue aberta do mesmo dia
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "$BODY"
+          else
+            gh issue create --title "$TITLE" --body "$BODY" || true
+          fi

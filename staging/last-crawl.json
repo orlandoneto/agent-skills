@@ -1,0 +1,5 @@
+{
+  "ok": false,
+  "at": null,
+  "note": "Preenchido automaticamente pelo workflow crawl-daily. Se at for >26h, o crawl-watchdog re-dispara."
+}

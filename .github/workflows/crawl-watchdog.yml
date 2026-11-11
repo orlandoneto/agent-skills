@@ -1,0 +1,82 @@
+name: crawl-watchdog
+
+# GARANTIA: se o dia passar sem crawl-daily com sucesso, re-dispara + abre Issue.
+# Roda ~19:00 BRT (22:00 UTC) — depois dos dois crons (11h e 20h UTC).
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+  issues: write
+
+jobs:
+  ensure-daily-crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checar último crawl-daily com sucesso
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          # Últimos runs concluídos com sucesso (schedule ou dispatch)
+          RAW=$(gh api "repos/${{ github.repository }}/actions/workflows/crawl-daily.yml/runs?status=completed&per_page=20")
+          LAST_OK=$(echo "$RAW" | jq -r '
+            [.workflow_runs[] | select(.conclusion=="success")]
+            | sort_by(.updated_at) | reverse | .[0].updated_at // empty
+          ')
+          echo "last_ok=$LAST_OK"
+          echo "last_ok=$LAST_OK" >> "$GITHUB_OUTPUT"
+
+          if [ -z "$LAST_OK" ]; then
+            echo "stale=true" >> "$GITHUB_OUTPUT"
+            echo "Motivo: nunca houve sucesso"
+            exit 0
+          fi
+
+          # Stale se > 26h (cobre atraso do schedule do GitHub)
+          NOW=$(date -u +%s)
+          THEN=$(date -u -d "$LAST_OK" +%s)
+          AGE_H=$(( (NOW - THEN) / 3600 ))
+          echo "age_hours=$AGE_H"
+          echo "age_hours=$AGE_H" >> "$GITHUB_OUTPUT"
+          if [ "$AGE_H" -ge 26 ]; then
+            echo "stale=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "stale=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Re-disparar crawl-daily
+        if: steps.check.outputs.stale == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh workflow run crawl-daily.yml --ref main
+          echo "Dispatched crawl-daily (watchdog)"
+
+      - name: Abrir Issue de alerta
+        if: steps.check.outputs.stale == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TITLE="[crawl-watchdog] sem sucesso há ${{ steps.check.outputs.age_hours || '∞' }}h"
+          BODY="Último \`crawl-daily\` com sucesso: \`${{ steps.check.outputs.last_ok || 'nunca' }}\`.
+
+          O watchdog **já re-disparou** \`crawl-daily\`.
+          Confira: https://github.com/${{ github.repository }}/actions/workflows/crawl-daily.yml
+
+          Heartbeat esperado em \`staging/last-crawl.json\` após o run."
+          EXISTING=$(gh issue list --state open --search "crawl-watchdog in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "$BODY"
+          else
+            gh issue create --title "$TITLE" --body "$BODY" || true
+          fi
+
+      - name: OK — crawl recente
+        if: steps.check.outputs.stale != 'true'
+        run: |
+          echo "✅ crawl-daily ok (último sucesso: ${{ steps.check.outputs.last_ok }}, idade ~${{ steps.check.outputs.age_hours }}h)"

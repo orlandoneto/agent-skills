@@ -29,12 +29,23 @@ catalog.json         # índice consumido pelo Ontoom
 
 ## Crawler → Git + buscador (público)
 
-Repo **público** + Action **1×/dia** (`crawl-daily`, ~08:00 Brasília; também `workflow_dispatch`):
+Repo **público** + Action diária com **garantia** (`crawl-daily` + `crawl-watchdog`):
+
+| Camada | O que faz |
+|--------|-----------|
+| Cron 08:00 BRT | Crawl + publish-safe + heartbeat |
+| Cron 17:00 BRT | Backup se o GitHub pular o primeiro |
+| Heartbeat | `staging/last-crawl.json` commitado **todo** run (prova) |
+| Watchdog 19:00 BRT | Se >26h sem sucesso → re-dispara + abre Issue |
+| Falha do crawl | Abre Issue automaticamente |
+| Manual | Actions → `crawl-daily` → **Run workflow** |
 
 1. Varre fontes allowlist (ex.: Anthropic, Addy Osmani)  
 2. `publish-safe` sobe skills SAFE em `skills/community/` + `catalog.json`  
-3. Gera Release com **um ZIP por skill**  
+3. Gera Release com **um ZIP por skill** (só se o catálogo mudou)  
 4. [Ontoom /skills](https://www.ontoom.com.br/skills) lê o catalog e o download aponta para **este** GitHub público  
+
+Confira o último run: [Actions / crawl-daily](https://github.com/orlandoneto/agent-skills/actions/workflows/crawl-daily.yml) · heartbeat: [`staging/last-crawl.json`](./staging/last-crawl.json)
 
 Nada de repositório privado: quem baixa, estrela e inspeciona o código usa este repo aberto.
 
