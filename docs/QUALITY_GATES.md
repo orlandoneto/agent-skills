@@ -62,6 +62,7 @@ O `schedule` do GitHub **pode atrasar ou pular** um dia. Por isso:
 3. **`crawl-watchdog`** às 22:00 UTC: se último sucesso >26h → `workflow_dispatch` do crawl + Issue
 4. Falha do crawl → Issue automática
 5. **Resumo** `staging/crawl-summary-YYYY-MM-DD.md` + Step Summary (novos, skipped, datas `addedAt`)
+6. **`npm run daily`** — crawl com até 3 retries + publish + `enrich-stars` + summary; Action dispara sync no Ontoom
 
 Prova visual: Actions verde + `at` recente em `staging/last-crawl.json` + resumo do dia.
 

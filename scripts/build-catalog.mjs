@@ -47,6 +47,7 @@ for (const { origin, id, skillPath } of listSkillDirs(path.join(root, "skills"))
     // Data de entrada no buscador (preserva; backfill = updatedAt antigo)
     addedAt: old.addedAt || old.updatedAt || today,
     updatedAt: today,
+    sourceStars: typeof old.sourceStars === "number" ? old.sourceStars : undefined,
   });
 }
 

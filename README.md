@@ -41,6 +41,8 @@ Repo **público** + Action diária com **garantia** (`crawl-daily` + `crawl-watc
 | Falha do crawl | Abre Issue automaticamente |
 | Manual | Actions → `crawl-daily` → **Run workflow** |
 | Fontes | Só allowlist em `policy.json` (sem Google / scrape aberto) |
+| Pipeline | `npm run daily` — crawl com retry + publish + stars + summary |
+| Sync Ontoom | Action dispara `sync-skills-catalog` no repo ontoom |
 
 1. Varre fontes allowlist (ex.: Anthropic, Addy Osmani)  
 2. `publish-safe` sobe skills SAFE em `skills/community/` + `catalog.json`  

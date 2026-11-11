@@ -36,23 +36,14 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Crawl (staging + candidatos)
-        run: npm run crawl
+      - name: Daily pipeline (crawl retry + publish + stars + summary)
+        run: npm run daily
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish SAFE → skills/ + catalog.json
-        run: npm run publish-safe
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Rebuild catalog + validate
-        run: |
-          npm run catalog:build
-          npm test
-
-      - name: Resumo do crawl (novos + datas)
-        run: npm run crawl:summary
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SKIP_SYNC: "1"
+          CRAWL_RETRIES: "3"
+          ONTOOM_REPO: orlandoneto/ontoom
 
       - name: Heartbeat (prova diária)
         run: |
@@ -113,6 +104,21 @@ jobs:
           Repo: https://github.com/orlandoneto/agent-skills
           Download = um ZIP por skill (não o monorepo)." \
             --latest
+
+      - name: Disparar sync do catálogo no Ontoom
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Repo público: workflow_dispatch no ontoom (mesmo owner). Se 404, o cron do ontoom cobre.
+          gh workflow run sync-skills-catalog.yml --repo orlandoneto/ontoom --ref main \
+            || curl -sS -X POST \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              -H "Content-Type: application/json" \
+              https://api.github.com/repos/orlandoneto/ontoom/actions/workflows/sync-skills-catalog.yml/dispatches \
+              -d '{"ref":"main"}' \
+            || echo "aviso: sync Ontoom não disparado (cron do ontoom ainda roda)"
 
       - name: Abrir Issue se o job falhar
         if: failure()
