@@ -61,8 +61,16 @@ O `schedule` do GitHub **pode atrasar ou pular** um dia. Por isso:
 2. **Heartbeat** `staging/last-crawl.json` em todo run bem-sucedido
 3. **`crawl-watchdog`** às 22:00 UTC: se último sucesso >26h → `workflow_dispatch` do crawl + Issue
 4. Falha do crawl → Issue automática
+5. **Resumo** `staging/crawl-summary-YYYY-MM-DD.md` + Step Summary (novos, skipped, datas `addedAt`)
 
-Prova visual: Actions verde + `at` recente em `staging/last-crawl.json`.
+Prova visual: Actions verde + `at` recente em `staging/last-crawl.json` + resumo do dia.
+
+### Fontes
+
+Só **`policy.json` → `sourcesAllowlist`** (GitHub repos com `skills/`).  
+**Não** há busca Google / scrap de “awesome list” — novas fontes entram na allowlist com o Orlando.
+
+Repos atuais: Anthropic, Addy Osmani, Vercel Labs, Solonnikov, Prompting Company (+ seed local).
 
 ## Custo
 

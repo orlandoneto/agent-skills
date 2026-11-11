@@ -23,6 +23,7 @@ for (const { origin, id, skillPath } of listSkillDirs(path.join(root, "skills"))
   const old = byId.get(id) || {};
   const status =
     old.status === "published" || origin === "ontoom" ? "published" : old.status || "published";
+  const today = new Date().toISOString().slice(0, 10);
   skills.push({
     id,
     name: result.meta.name || id,
@@ -43,7 +44,9 @@ for (const { origin, id, skillPath } of listSkillDirs(path.join(root, "skills"))
     score: result.score,
     reviewed: origin === "ontoom" ? true : Boolean(old.reviewed),
     hasScripts: result.hasScripts,
-    updatedAt: new Date().toISOString().slice(0, 10),
+    // Data de entrada no buscador (preserva; backfill = updatedAt antigo)
+    addedAt: old.addedAt || old.updatedAt || today,
+    updatedAt: today,
   });
 }
 

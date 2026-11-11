@@ -51,6 +51,9 @@ jobs:
           npm run catalog:build
           npm test
 
+      - name: Resumo do crawl (novos + datas)
+        run: npm run crawl:summary
+
       - name: Heartbeat (prova diária)
         run: |
           mkdir -p staging

@@ -27,7 +27,7 @@
     "rejectIfSameFingerprintExists": true
   },
   "crawler": {
-    "maxCandidatesPerDay": 40,
+    "maxCandidatesPerDay": 80,
     "maxAutoPromotePerDay": 30,
     "maxPublishedCommunity": 200,
     "scheduleTimezone": "America/Sao_Paulo",
@@ -38,6 +38,7 @@
         "type": "github-repo-skills",
         "repo": "addyosmani/agent-skills",
         "path": "skills",
+        "defaultLicense": "MIT",
         "enabled": true
       },
       {
@@ -45,6 +46,31 @@
         "type": "github-repo-skills",
         "repo": "anthropics/skills",
         "path": "skills",
+        "defaultLicense": "Apache-2.0",
+        "enabled": true
+      },
+      {
+        "id": "vercel-labs-agent-skills",
+        "type": "github-repo-skills",
+        "repo": "vercel-labs/agent-skills",
+        "path": "skills",
+        "defaultLicense": "MIT",
+        "enabled": true
+      },
+      {
+        "id": "solonnikov-agent-skills",
+        "type": "github-repo-skills",
+        "repo": "Solonnikov/agent-skills",
+        "path": "skills",
+        "defaultLicense": "MIT",
+        "enabled": true
+      },
+      {
+        "id": "promptingcompany-agent-skills",
+        "type": "github-repo-skills",
+        "repo": "promptingcompany/agent-skills",
+        "path": "skills",
+        "defaultLicense": "MIT",
         "enabled": true
       },
       {

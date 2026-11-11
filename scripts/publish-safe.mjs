@@ -135,12 +135,13 @@ for (const cand of candidates) {
       continue;
     }
 
+    const today = new Date().toISOString().slice(0, 10);
     catalog.skills = (catalog.skills || []).filter((s) => s.id !== id);
     catalog.skills.push({
       id,
       name: result.meta.name || id,
       description: result.meta.description || cand.description || "",
-      tags: ["community", "auto"],
+      tags: ["community", "auto", cand.sourceId || "crawl"].filter(Boolean),
       origin: "community",
       status: "published",
       license: result.meta.license || cand.license || "Apache-2.0",
@@ -154,14 +155,20 @@ for (const cand of candidates) {
       score: result.score,
       reviewed: false,
       hasScripts: false,
-      updatedAt: new Date().toISOString().slice(0, 10),
+      addedAt: today,
+      updatedAt: today,
     });
 
     appendNotice(id, result.meta.license || cand.license, cand.sourceUrl);
     existingIds.add(id);
     communityCount += 1;
     fps.set(result.fingerprint, { origin: "community", id });
-    out.published.push({ id, score: result.score, sourceUrl: cand.sourceUrl });
+    out.published.push({
+      id,
+      score: result.score,
+      sourceUrl: cand.sourceUrl,
+      addedAt: today,
+    });
     console.log(`PUBLISH ${id} score=${result.score}`);
   } catch (err) {
     out.skipped.push({ id, reason: err.message });

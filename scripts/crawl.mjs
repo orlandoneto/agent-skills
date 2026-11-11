@@ -124,13 +124,8 @@ async function crawlGithubRepoSkills(source) {
       // se falhar o listing do filho, segue com heurística do SKILL.md
     }
 
-    // Repo SPDX quando o frontmatter não declara license
-    const defaultLicense =
-      source.repo === "anthropics/skills"
-        ? "Apache-2.0"
-        : source.repo === "addyosmani/agent-skills"
-          ? "MIT"
-          : null;
+    // SPDX do repo (policy.defaultLicense) quando o frontmatter não declara
+    const defaultLicense = source.defaultLicense || null;
 
     await ingestRemoteSkill({
       id,

@@ -36,9 +36,11 @@ Repo **público** + Action diária com **garantia** (`crawl-daily` + `crawl-watc
 | Cron 08:00 BRT | Crawl + publish-safe + heartbeat |
 | Cron 17:00 BRT | Backup se o GitHub pular o primeiro |
 | Heartbeat | `staging/last-crawl.json` commitado **todo** run (prova) |
+| Resumo | `staging/crawl-summary-YYYY-MM-DD.md` (novos + datas) |
 | Watchdog 19:00 BRT | Se >26h sem sucesso → re-dispara + abre Issue |
 | Falha do crawl | Abre Issue automaticamente |
 | Manual | Actions → `crawl-daily` → **Run workflow** |
+| Fontes | Só allowlist em `policy.json` (sem Google / scrape aberto) |
 
 1. Varre fontes allowlist (ex.: Anthropic, Addy Osmani)  
 2. `publish-safe` sobe skills SAFE em `skills/community/` + `catalog.json`  
