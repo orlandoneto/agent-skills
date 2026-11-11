@@ -30,7 +30,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "agent-skill-creator",
@@ -60,7 +61,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "algorithmic-art",
@@ -88,7 +90,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "analyze-experiment",
@@ -118,7 +121,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 1
     },
     {
       "id": "api-and-interface-design",
@@ -149,7 +153,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "brand-guidelines",
@@ -177,7 +182,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "browser-testing-with-devtools",
@@ -208,7 +214,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "canvas-design",
@@ -236,7 +243,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "ci-cd-and-automation",
@@ -267,7 +275,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "claude-api",
@@ -296,7 +305,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "code-review-and-quality",
@@ -327,7 +337,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "code-simplification",
@@ -358,7 +369,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "constraint-driven-development",
@@ -388,7 +400,8 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "content-repurposing",
@@ -418,7 +431,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "context-engineering",
@@ -449,7 +463,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "dapp-architect",
@@ -479,7 +494,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "debugging-and-error-recovery",
@@ -510,7 +526,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "deploy-to-vercel",
@@ -540,7 +557,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 33900
     },
     {
       "id": "deprecation-and-migration",
@@ -571,7 +589,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "discernment-nudge",
@@ -599,7 +618,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "doc-coauthoring",
@@ -627,7 +647,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "documentation-and-adrs",
@@ -658,7 +679,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "doubt-driven-development",
@@ -689,7 +711,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "email-drafting",
@@ -719,7 +742,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "evm-contract-scaffold",
@@ -749,7 +773,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "frontend-design",
@@ -777,7 +802,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "frontend-ui-engineering",
@@ -808,7 +834,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "generative-engine-optimization",
@@ -838,7 +865,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 1
     },
     {
       "id": "git-workflow-and-versioning",
@@ -869,7 +897,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "git-workflow-recipes",
@@ -899,7 +928,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "hardhat-etherscan-verification",
@@ -929,7 +959,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "idea-refine",
@@ -959,7 +990,8 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "incremental-implementation",
@@ -990,7 +1022,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "internal-comms",
@@ -1018,7 +1051,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "interview-me",
@@ -1049,7 +1083,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "meeting-notes-structure",
@@ -1079,7 +1114,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "ngrx-feature-scaffold",
@@ -1109,7 +1145,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "observability-and-instrumentation",
@@ -1140,7 +1177,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "performance-optimization",
@@ -1171,7 +1209,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "planning-and-task-breakdown",
@@ -1202,7 +1241,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "prompt-engineering-patterns",
@@ -1232,7 +1272,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "prompting-company",
@@ -1262,7 +1303,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 1
     },
     {
       "id": "regex-cookbook",
@@ -1292,7 +1334,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "reown-appkit-web3",
@@ -1322,7 +1365,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "research-brief-structure",
@@ -1352,7 +1396,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "resume-tailor",
@@ -1382,7 +1427,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "security-and-hardening",
@@ -1413,7 +1459,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "setup-experiment",
@@ -1443,7 +1490,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 1
     },
     {
       "id": "shipping-and-launch",
@@ -1474,7 +1522,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "signal-config",
@@ -1504,7 +1553,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 1
     },
     {
       "id": "skills-admin",
@@ -1534,7 +1584,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 1
     },
     {
       "id": "slack-gif-creator",
@@ -1562,7 +1613,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "solana-program-scaffold",
@@ -1592,7 +1644,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "source-driven-development",
@@ -1623,7 +1676,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "spec-driven-development",
@@ -1654,7 +1708,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "stripe-subscription-lifecycle",
@@ -1684,7 +1739,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "technical-seo-checklist",
@@ -1714,7 +1770,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "test-driven-development",
@@ -1745,7 +1802,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "theme-factory",
@@ -1773,7 +1831,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 192989
     },
     {
       "id": "using-agent-skills",
@@ -1804,7 +1863,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 115761
     },
     {
       "id": "vercel-cli-with-tokens",
@@ -1834,7 +1894,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 33900
     },
     {
       "id": "vercel-react-best-practices",
@@ -1864,7 +1925,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 33900
     },
     {
       "id": "vercel-react-view-transitions",
@@ -1894,7 +1956,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 33900
     },
     {
       "id": "wagmi-contract-interaction",
@@ -1924,7 +1987,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "web-design-guidelines",
@@ -1954,7 +2018,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 33900
     },
     {
       "id": "writing-guidelines",
@@ -1984,7 +2049,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 33900
     },
     {
       "id": "writing-style-editor",
@@ -2014,7 +2080,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 2
     },
     {
       "id": "commit-conventional",
@@ -2043,7 +2110,8 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 0
     },
     {
       "id": "seo-meta-audit",
@@ -2072,7 +2140,8 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 0
     },
     {
       "id": "skill-authoring",
@@ -2101,7 +2170,8 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-11"
+      "updatedAt": "2026-11-11",
+      "sourceStars": 0
     }
   ]
 }

@@ -17,22 +17,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-11T14:08:09.788Z"
-    },
-    {
-      "id": "analyze-experiment",
-      "name": "analyze-experiment",
-      "description": "Turn a completed experiment iteration into an honest, evidence-backed analysis — a portable data dump, a markdown report, and a branded client-ready PDF. Pulls run data via the tpc CLI, scores each task, clusters friction by root cause (with a transcript example per claim), compares arms, and closes on agent-readiness gaps. Optionally produces a deeper no-fluff evidence report with prioritized actions and agent instructions. The natural companion to setup-experiment: setup → run → analyze.",
-      "license": "MIT",
-      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/analyze-experiment",
-      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/analyze-experiment/SKILL.md",
-      "sourceId": "promptingcompany-agent-skills",
-      "fingerprint": "analyze-experiment::f275b8387175cb7e",
-      "score": 95,
-      "hasScriptsHint": false,
-      "requiresManualReview": false,
-      "status": "staging",
-      "fetchedAt": "2026-11-11T14:08:22.049Z"
+      "fetchedAt": "2026-11-11T18:30:28.831Z"
     }
   ],
   "rejected": [
@@ -603,6 +588,14 @@
       "sourceId": "solonnikov-agent-skills",
       "repo": "Solonnikov/agent-skills",
       "reason": "duplicata de {\"origin\":\"community\",\"id\":\"writing-style-editor\"}"
+    },
+    {
+      "id": "analyze-experiment",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/analyze-experiment",
+      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/analyze-experiment/SKILL.md",
+      "sourceId": "promptingcompany-agent-skills",
+      "repo": "promptingcompany/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"analyze-experiment\"}"
     },
     {
       "id": "exa-cao-metric",
