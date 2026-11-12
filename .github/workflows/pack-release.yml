@@ -1,0 +1,29 @@
+name: pack-release
+
+# Gera Release latest com um ZIP por skill (sem re-crawl).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Pack ZIPs
+        run: npm run pack
+      - name: Release latest
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          TAG="v0.$(date -u +%Y%m%d).$(date -u +%H%M)"
+          gh release create "$TAG" dist/zips/*.zip \
+            --title "$TAG — skills ZIP sync" \
+            --notes "Pack only. Catalog: https://www.ontoom.com.br/skills" \
+            --latest
