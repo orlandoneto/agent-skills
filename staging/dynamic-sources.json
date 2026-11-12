@@ -1,6 +1,79 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-11-12T18:46:40.244Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
-  "sources": []
+  "sources": [
+    {
+      "id": "discovered-agents365-ai-drawio-skill",
+      "type": "github-repo-skills",
+      "repo": "agents365-ai/drawio-skill",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-agricidaniel-claude-ads",
+      "type": "github-repo-skills",
+      "repo": "agricidaniel/claude-ads",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-agricidaniel-claude-obsidian",
+      "type": "github-repo-skills",
+      "repo": "agricidaniel/claude-obsidian",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-alibaba-open-code-review",
+      "type": "github-repo-skills",
+      "repo": "alibaba/open-code-review",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-appllama-appllama-skills",
+      "type": "github-repo-skills",
+      "repo": "appllama/appllama-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-ayghri-i-have-adhd",
+      "type": "github-repo-skills",
+      "repo": "ayghri/i-have-adhd",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-backnotprop-pstack",
+      "type": "github-repo-skills",
+      "repo": "backnotprop/pstack",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-callstackincubator-agent-skills",
+      "type": "github-repo-skills",
+      "repo": "callstackincubator/agent-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-12"
+    }
+  ]
 }

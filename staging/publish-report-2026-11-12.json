@@ -2,1813 +2,399 @@
   "date": "2026-11-12",
   "published": [
     {
-      "id": "notque-codebase-analyzer",
+      "id": "notque-grill-jev",
       "score": 100,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/research/codebase-analyzer",
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/grill-jev",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-ab-test-setup",
+      "id": "notque-workflow-help",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/ab-test-setup",
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/workflow-help",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-ai-directory-submitter",
+      "id": "notque-plant-seed",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/ai-directory-submitter",
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/plant-seed",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-ai-product",
+      "id": "aitmpl-agent-management",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/ai-product",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-maestro/agent-management",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-ai-wrapper-product",
+      "id": "aitmpl-agent-messaging",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/ai-wrapper-product",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-maestro/agent-messaging",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-analytics-tracking",
+      "id": "aitmpl-docs-search",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/analytics-tracking",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-maestro/docs-search",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-app-builder",
+      "id": "aitmpl-graph-query",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/app-builder",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-maestro/graph-query",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-competitive-ads-extractor",
+      "id": "aitmpl-memory-search",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/competitive-ads-extractor",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-maestro/memory-search",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-competitor-alternatives",
+      "id": "aitmpl-planning",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/competitor-alternatives",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-maestro/planning",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-content-research-writer",
+      "id": "aitmpl-agent-evaluation",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/content-research-writer",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agent-evaluation",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-copy-editing",
+      "id": "aitmpl-agent-manager-skill",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/copy-editing",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agent-manager-skill",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-copywriting",
+      "id": "aitmpl-agents-autogpt",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/copywriting",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agents-autogpt",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-email-sequence",
+      "id": "aitmpl-agents-crewai",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/email-sequence",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agents-crewai",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-email-systems",
+      "id": "aitmpl-agents-langchain",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/email-systems",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agents-langchain",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-form-cro",
+      "id": "aitmpl-agents-llamaindex",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/form-cro",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agents-llamaindex",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-free-tool-strategy",
+      "id": "aitmpl-ai-agents-architect",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/free-tool-strategy",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/ai-agents-architect",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-launch-strategy",
+      "id": "aitmpl-ai-release-hunter",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/launch-strategy",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/ai-release-hunter",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-lead-research-assistant",
+      "id": "aitmpl-autonomous-agent-patterns",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/lead-research-assistant",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/autonomous-agent-patterns",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-marketing-ideas",
+      "id": "aitmpl-behavioral-modes",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/marketing-ideas",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/behavioral-modes",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-marketing-psychology",
+      "id": "aitmpl-computer-use-agents",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/marketing-psychology",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/computer-use-agents",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-marketing-strategy-pmm",
+      "id": "aitmpl-context-window-management",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/marketing-strategy-pmm",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/context-window-management",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-micro-saas-launcher",
+      "id": "aitmpl-context7-auto-research",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/micro-saas-launcher",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/context7-auto-research",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-onboarding-cro",
+      "id": "aitmpl-conversation-memory",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/onboarding-cro",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/conversation-memory",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-page-cro",
+      "id": "aitmpl-crewai",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/page-cro",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/crewai",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-paid-ads",
+      "id": "aitmpl-data-processing-nemo-curator",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/paid-ads",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/data-processing-nemo-curator",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-paywall-upgrade-cro",
+      "id": "aitmpl-data-processing-ray-data",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/paywall-upgrade-cro",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/data-processing-ray-data",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-popup-cro",
+      "id": "aitmpl-deep-research",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/popup-cro",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/deep-research",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-pricing-strategy",
+      "id": "aitmpl-distributed-training-accelerate",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/pricing-strategy",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/distributed-training-accelerate",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-programmatic-seo",
+      "id": "aitmpl-distributed-training-megatron-core",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/programmatic-seo",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/distributed-training-megatron-core",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-referral-program",
+      "id": "aitmpl-distributed-training-pytorch-lightning",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/referral-program",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/distributed-training-pytorch-lightning",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-schema-markup",
+      "id": "aitmpl-distributed-training-ray-train",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/schema-markup",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/distributed-training-ray-train",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-seo-audit",
+      "id": "aitmpl-emerging-techniques-knowledge-distillation",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/seo-audit",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/emerging-techniques-knowledge-distillation",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-seo-optimizer",
+      "id": "aitmpl-emerging-techniques-long-context",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/seo-optimizer",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/emerging-techniques-long-context",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-seoagent",
+      "id": "aitmpl-emerging-techniques-model-merging",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/seoagent",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/emerging-techniques-model-merging",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-signup-flow-cro",
+      "id": "aitmpl-emerging-techniques-model-pruning",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/signup-flow-cro",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/emerging-techniques-model-pruning",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-social-content",
+      "id": "aitmpl-emerging-techniques-moe-training",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/social-content",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/emerging-techniques-moe-training",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-viral-generator-builder",
+      "id": "aitmpl-emerging-techniques-speculative-decoding",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/viral-generator-builder",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/emerging-techniques-speculative-decoding",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-x-twitter-scraper",
+      "id": "aitmpl-evaluation-bigcode-evaluation-harness",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/x-twitter-scraper",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/evaluation-bigcode-evaluation-harness",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-accessibility",
+      "id": "aitmpl-evaluation-lm-evaluation-harness",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/accessibility",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/evaluation-lm-evaluation-harness",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-agirails-agent-payments",
+      "id": "aitmpl-evaluation-nemo-evaluator",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/agirails-agent-payments",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/evaluation-nemo-evaluator",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-algolia-search",
+      "id": "aitmpl-fine-tuning-axolotl",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/algolia-search",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/fine-tuning-axolotl",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-android-cicd",
+      "id": "aitmpl-fine-tuning-llama-factory",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/android-cicd",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/fine-tuning-llama-factory",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-angular",
+      "id": "aitmpl-fine-tuning-peft",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/angular",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/fine-tuning-peft",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-api-documentation-generator",
+      "id": "aitmpl-fine-tuning-unsloth",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/api-documentation-generator",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/fine-tuning-unsloth",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-api-integration-specialist",
+      "id": "aitmpl-gemini",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/api-integration-specialist",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/gemini",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-architecture",
+      "id": "aitmpl-gepetto",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/architecture",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/gepetto",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-aws-serverless",
+      "id": "aitmpl-inference-serving-llama-cpp",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/aws-serverless",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/inference-serving-llama-cpp",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-azure-functions",
+      "id": "aitmpl-inference-serving-sglang",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/azure-functions",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/inference-serving-sglang",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-backend-dev-guidelines",
+      "id": "aitmpl-inference-serving-tensorrt-llm",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/backend-dev-guidelines",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/inference-serving-tensorrt-llm",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-bash-linux",
+      "id": "aitmpl-inference-serving-vllm",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/bash-linux",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/inference-serving-vllm",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-bash-pro",
+      "id": "aitmpl-infrastructure-lambda-labs",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/bash-pro",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/infrastructure-lambda-labs",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-best-practices",
+      "id": "aitmpl-infrastructure-modal",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/best-practices",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/infrastructure-modal",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-bullmq-specialist",
+      "id": "aitmpl-infrastructure-skypilot",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/bullmq-specialist",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/infrastructure-skypilot",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-bun-development",
+      "id": "aitmpl-jira",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/bun-development",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/jira",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-changelog-generator",
+      "id": "aitmpl-langfuse",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/changelog-generator",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/langfuse",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-claude-api",
+      "id": "aitmpl-langgraph",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/claude-api",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/langgraph",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-claude-opus-4-5-migration",
+      "id": "aitmpl-llm-app-patterns",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/claude-opus-4-5-migration",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/llm-app-patterns",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-clerk-auth",
+      "id": "aitmpl-llm-ops",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/clerk-auth",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/llm-ops",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-cloud-devops",
+      "id": "aitmpl-mechanistic-interpretability-nnsight",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cloud-devops",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/mechanistic-interpretability-nnsight",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-cloud-run-basics",
+      "id": "aitmpl-mechanistic-interpretability-pyvene",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cloud-run-basics",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/mechanistic-interpretability-pyvene",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-cloudflare-deploy",
+      "id": "aitmpl-mechanistic-interpretability-saelens",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cloudflare-deploy",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/mechanistic-interpretability-saelens",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-cocoindex",
+      "id": "aitmpl-mechanistic-interpretability-transformer-lens",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cocoindex",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/mechanistic-interpretability-transformer-lens",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-code-review-checklist",
+      "id": "aitmpl-ml-paper-writing",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/code-review-checklist",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/ml-paper-writing",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-codex",
+      "id": "aitmpl-mlops-mlflow",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/codex",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/mlops-mlflow",
       "addedAt": "2026-11-12"
     },
     {
-      "id": "aitmpl-codex-review",
+      "id": "aitmpl-mlops-tensorboard",
       "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/codex-review",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-command-creator",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/command-creator",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-command-development",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/command-development",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-convex",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/convex",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-core-components",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/core-components",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-core-web-vitals",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/core-web-vitals",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-create-plan",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/create-plan",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-database-schema-designer",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/database-schema-designer",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-developer-growth-analysis",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/developer-growth-analysis",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-dispatching-parallel-agents",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/dispatching-parallel-agents",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-dotnet-backend",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/dotnet-backend",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-environment-setup-guide",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/environment-setup-guide",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-error-resolver",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/error-resolver",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-executing-plans",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/executing-plans",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-fastmcp-server",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/fastmcp-server",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-feature-design-assistant",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/feature-design-assistant",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-finishing-a-development-branch",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/finishing-a-development-branch",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-frontend-dev-guidelines",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/frontend-dev-guidelines",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-gcp-cloud-run",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/gcp-cloud-run",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-gh-fix-ci",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/gh-fix-ci",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-git-commit-helper",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/git-commit-helper",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-github-actions-creator",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/github-actions-creator",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-github-workflow-automation",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/github-workflow-automation",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-google-cloud-networking-observability",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/google-cloud-networking-observability",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-heygen-best-practices",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/heygen-best-practices",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-hubspot-integration",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/hubspot-integration",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-internet-court",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/internet-court",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-javascript-mastery",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/javascript-mastery",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-k6-load-testing",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/k6-load-testing",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-kotlin-coroutines-expert",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/kotlin-coroutines-expert",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-laravel-expert",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/laravel-expert",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-manifest",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/manifest",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-moodle-external-api-development",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/moodle-external-api-development",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-move-code-quality",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/move-code-quality",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-mui",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/mui",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-neon-postgres",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/neon-postgres",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-netlify-deploy",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/netlify-deploy",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-nextjs-supabase-auth",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/nextjs-supabase-auth",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-nodejs-best-practices",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/nodejs-best-practices",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-nosql-expert",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/nosql-expert",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-openapi-to-typescript",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/openapi-to-typescript",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-performance",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/performance",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-plaid-fintech",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/plaid-fintech",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-playwright-e2e-builder",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/playwright-e2e-builder",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-playwright-java",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/playwright-java",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-plugin-structure",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/plugin-structure",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-production-code-audit",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/production-code-audit",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-python-patterns",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/python-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-python-testing-patterns",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/python-testing-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-react-ui-patterns",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/react-ui-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-react-useeffect",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/react-useeffect",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-receiving-code-review",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/receiving-code-review",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-render-deploy",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/render-deploy",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-requesting-code-review",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/requesting-code-review",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-rust-cli-builder",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/rust-cli-builder",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-saas-multi-tenant",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/saas-multi-tenant",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-salesforce-development",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/salesforce-development",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-screenshot-feature-extractor",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/screenshot-feature-extractor",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-seo",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/seo",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-server-management",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/server-management",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-skill-installer",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/skill-installer",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-stripe-integration",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/stripe-integration",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-subagent-driven-development",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/subagent-driven-development",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-swift-concurrency-expert",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/swift-concurrency-expert",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-tdd-workflow",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/tdd-workflow",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-telegram-bot-builder",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/telegram-bot-builder",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-test-driven-development",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/test-driven-development",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-test-fixing",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/test-fixing",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-testing-patterns",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/testing-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-using-git-worktrees",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/using-git-worktrees",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-using-superpowers",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/using-superpowers",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-vercel-deployment",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/vercel-deployment",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-verification-before-completion",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/verification-before-completion",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-workspace-orchestration",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/workspace-orchestration",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-worktree-guide",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/worktree-guide",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-writing-plans",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/writing-plans",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-writing-skills",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/writing-skills",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-zapier-workflows",
-      "score": 100,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/zapier-workflows",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-agent-browser",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/agent-browser",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-agent-engineering",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/agent-engineering",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-bird-fast",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/bird-fast",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-blockchain-auditor",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/blockchain-auditor",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-brainstorming",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/brainstorming",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-ceo-review",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/ceo-review",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-review",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/ck-review",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-codex-advisor",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/codex-advisor",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-content-trend-researcher",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/content-trend-researcher",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-coreml-optimizer",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/coreml-optimizer",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-cto-review",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/cto-review",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-direct-mail-strategist",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/direct-mail-strategist",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-evangelion-design",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/evangelion-design",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-executing-plans",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/executing-plans",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-freshdesk-api",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/freshdesk-api",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-github-actions-templates",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/github-actions-templates",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-google",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/google",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-idea-md",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/idea-md",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-ios-app-tester",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/ios-app-tester",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-llm-advisor",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/llm-advisor",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-llm-evaluation",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/llm-evaluation",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-macos-apps",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/macos-apps",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-mcp-tester",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/mcp-tester",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-nano-banana",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/nano-banana",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-playdate-dev",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/playdate-dev",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-practical-typography",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/practical-typography",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-qmd",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/qmd",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-scientific-critical-thinking",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/scientific-critical-thinking",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-shadertoy",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/shadertoy",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-skill-finder",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/skill-finder",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-skimmable",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/skimmable",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-systematic-debugging",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/systematic-debugging",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-ui-design",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/ui-design",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-video-editor",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/video-editor",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "ck-writing-plans",
-      "score": 100,
-      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/writing-plans",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-content-engine",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/content/content-engine",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-headlines",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/content/headlines",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-image-to-video",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/content/image-to-video",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-series-planner",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/content/series-planner",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-topic-brainstormer",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/content/topic-brainstormer",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-writing",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/content/writing",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-business-ops",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/business/business-ops",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-markdown-converter",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/research/markdown-converter",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-news-collection",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/research/news-collection",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-research",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/research/research",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-roast",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/research/roast",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "notque-video-transcript",
-      "score": 95,
-      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/research/video-transcript",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-app-store-optimization",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/app-store-optimization",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-brand-guidelines-anthropic",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/brand-guidelines-anthropic",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-brand-guidelines-community",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/business-marketing/brand-guidelines-community",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-agent-md-refactor",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/agent-md-refactor",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-api-design-principles",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/api-design-principles",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-architecture-decision-records",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/architecture-decision-records",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-architecture-patterns",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/architecture-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-async-python-patterns",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/async-python-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-avalonia-layout-zafiro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/avalonia-layout-zafiro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-avalonia-viewmodels-zafiro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/avalonia-viewmodels-zafiro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-avalonia-zafiro-development",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/avalonia-zafiro-development",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-backend-architect",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/backend-architect",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-bleu",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/bleu",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-brainstorming",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/brainstorming",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-brightdata-local-search",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/brightdata-local-search",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-c-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/c-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-cc-skill-backend-patterns",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cc-skill-backend-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-cc-skill-clickhouse-io",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cc-skill-clickhouse-io",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-cc-skill-coding-standards",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cc-skill-coding-standards",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-cc-skill-frontend-patterns",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cc-skill-frontend-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-cc-skill-security-review",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cc-skill-security-review",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-clean-code",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/clean-code",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-cloud-architect",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cloud-architect",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-code-reviewer",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/code-reviewer",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-cpp-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/cpp-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-csharp-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/csharp-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-deployment-procedures",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/deployment-procedures",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-design-system-starter",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/design-system-starter",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-django-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/django-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-docker-expert",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/docker-expert",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-domain-driven-design",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/domain-driven-design",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-e2e-testing-patterns",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/e2e-testing-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-elixir-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/elixir-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-eval-genius",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/eval-genius",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-event-sourcing-architect",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/event-sourcing-architect",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-fastapi-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/fastapi-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-firebase",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/firebase",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-firebase-basics",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/firebase-basics",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-flutter-expert",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/flutter-expert",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-gh-address-comments",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/gh-address-comments",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-gke-basics",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/gke-basics",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-golang-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/golang-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-google-cloud-onboarding",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/google-cloud-onboarding",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-google-cloud-waf-cost-optimization",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/google-cloud-waf-cost-optimization",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-google-cloud-waf-reliability",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/google-cloud-waf-reliability",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-grafana-dashboards",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/grafana-dashboards",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-graphql",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/graphql",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-graphql-architect",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/graphql-architect",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-haskell-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/haskell-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-incident-responder",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/incident-responder",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-it-operations",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/it-operations",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-java-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/java-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-javascript-pro",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/javascript-pro",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-javascript-testing-patterns",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/javascript-testing-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-kubernetes-architect",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/kubernetes-architect",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-mcp-integration",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/mcp-integration",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-microservices-patterns",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/microservices-patterns",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-monorepo-architect",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/monorepo-architect",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-nestjs-expert",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/nestjs-expert",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-nextjs-best-practices",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/nextjs-best-practices",
-      "addedAt": "2026-11-12"
-    },
-    {
-      "id": "aitmpl-nodejs-backend-patterns",
-      "score": 95,
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/development/nodejs-backend-patterns",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/mlops-tensorboard",
       "addedAt": "2026-11-12"
     }
   ],
   "skipped": [
     {
-      "id": "api-and-interface-design",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "browser-testing-with-devtools",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ci-cd-and-automation",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "code-review-and-quality",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "code-simplification",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "context-engineering",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "debugging-and-error-recovery",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "deprecation-and-migration",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "documentation-and-adrs",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "doubt-driven-development",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "frontend-ui-engineering",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "git-workflow-and-versioning",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "incremental-implementation",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "interview-me",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "observability-and-instrumentation",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "performance-optimization",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "planning-and-task-breakdown",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "security-and-hardening",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "shipping-and-launch",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "source-driven-development",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "spec-driven-development",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "test-driven-development",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "using-agent-skills",
-      "reason": "já publicado (id)"
-    },
-    {
       "id": "doc-coauthoring",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "deploy-to-vercel",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "react-view-transitions",
-      "reason": "name \"vercel-react-view-transitions\" deve casar com pasta \"react-view-transitions\""
-    },
-    {
-      "id": "vercel-cli-with-tokens",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "web-design-guidelines",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "writing-guidelines",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "agent-skill-creator",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "content-repurposing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-ab-testing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-aso",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-co-marketing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-competitor-profiling",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-copy-editing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-directory-submissions",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-image",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-lead-magnets",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-marketing-plan",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-marketing-psychology",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-onboarding",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-sales-enablement",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-site-architecture",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-video",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-agentic",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-competitor-pages",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-content-brief",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-dataforseo",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-drift",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-flow",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-geo",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-google",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-hreflang",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-image-gen",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-images",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-local",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-maps",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-plan",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-programmatic",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-sitemap",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-sxo",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-technical",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-community-forum",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-directory-submission",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-product-hunt-launch",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-distribution-channels",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-email-marketing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-employee-generated-content",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-affiliate-marketing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-creator-program",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-education-program",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-influencer-marketing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-public-relations",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-referral-program",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-competitor-research",
       "reason": "já publicado (id)"
     },
     {
@@ -1828,72 +414,12 @@
       "reason": "name \"article-content\" deve casar com pasta \"kostja-article\""
     },
     {
-      "id": "kostja-copywriting",
-      "reason": "já publicado (id)"
-    },
-    {
       "id": "kostja-podcast",
       "reason": "name \"podcast-marketing\" deve casar com pasta \"kostja-podcast\""
     },
     {
-      "id": "kostja-translation",
-      "reason": "já publicado (id)"
-    },
-    {
       "id": "kostja-video",
       "reason": "name \"video-marketing\" deve casar com pasta \"kostja-video\""
-    },
-    {
-      "id": "kostja-visual-content",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-app-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-ctv-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-directory-listing-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-display-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-native-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-google-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-linkedin-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-meta-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-reddit-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-tiktok-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-youtube-ads",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-github",
-      "reason": "já publicado (id)"
     },
     {
       "id": "kostja-grokipedia",
@@ -1928,88 +454,12 @@
       "reason": "name \"youtube-seo\" deve casar com pasta \"kostja-youtube\""
     },
     {
-      "id": "kostja-content-optimization",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-content-strategy",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-eeat-signals",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-entity-seo",
-      "reason": "já publicado (id)"
-    },
-    {
       "id": "kostja-local",
       "reason": "name \"local-seo\" deve casar com pasta \"kostja-local\""
     },
     {
-      "id": "kostja-backlink-analysis",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-link-building",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-featured-snippet",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-image-optimization",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-schema",
-      "reason": "name \"schema-markup\" deve casar com pasta \"kostja-schema\""
-    },
-    {
-      "id": "kostja-serp-features",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-url-structure",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-video-optimization",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-parasite-seo",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-programmatic-seo",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-core-web-vitals",
-      "reason": "já publicado (id)"
-    },
-    {
       "id": "kostja-crawlability",
       "reason": "name \"site-crawlability\" deve casar com pasta \"kostja-crawlability\""
-    },
-    {
-      "id": "kostja-indexing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-indexnow",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-mobile-friendly",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-rendering-strategies",
-      "reason": "já publicado (id)"
     },
     {
       "id": "kostja-robots",
@@ -2020,40 +470,8 @@
       "reason": "name \"xml-sitemap\" deve casar com pasta \"kostja-sitemap\""
     },
     {
-      "id": "kostja-brand-monitoring",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-brand-protection",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-branding",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-content-marketing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-integrated-marketing",
-      "reason": "já publicado (id)"
-    },
-    {
       "id": "kostja-rebranding",
       "reason": "name \"rebranding-strategy\" deve casar com pasta \"kostja-rebranding\""
-    },
-    {
-      "id": "kostja-domain-architecture",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-domain-selection",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-multi-domain-brand-seo",
-      "reason": "já publicado (id)"
     },
     {
       "id": "kostja-geo",
@@ -2072,20 +490,12 @@
       "reason": "name \"discount-marketing-strategy\" deve casar com pasta \"kostja-discount-marketing\""
     },
     {
-      "id": "kostja-pricing-strategy",
-      "reason": "já publicado (id)"
-    },
-    {
       "id": "kostja-cold-start",
       "reason": "name \"cold-start-strategy\" deve casar com pasta \"kostja-cold-start\""
     },
     {
       "id": "kostja-conversion",
       "reason": "name \"conversion-optimization\" deve casar com pasta \"kostja-conversion\""
-    },
-    {
-      "id": "kostja-growth-funnel",
-      "reason": "já publicado (id)"
     },
     {
       "id": "kostja-gtm",
@@ -2100,14 +510,6 @@
       "reason": "name \"pmf-strategy\" deve casar com pasta \"kostja-pmf\""
     },
     {
-      "id": "kostja-product-launch",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-research-sources",
-      "reason": "já publicado (id)"
-    },
-    {
       "id": "kostja-retention",
       "reason": "name \"retention-strategy\" deve casar com pasta \"kostja-retention\""
     },
@@ -2116,894 +518,18 @@
       "reason": "name \"seo-strategy\" deve casar com pasta \"kostja-seo\""
     },
     {
-      "id": "kostja-seo-audit",
-      "reason": "já publicado (id)"
+      "id": "aitmpl-distributed-training-deepspeed",
+      "reason": "SKILL.md muito grande (145009 B)"
     },
     {
-      "id": "kostja-website-structure",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-domain-authority-auditor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-offsite-signal-analyzer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-performance-monitor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-rank-tracker",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-content-writer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-geo-content-optimizer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-page-play-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-serp-markup-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-competitor-analysis",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-content-gap-analysis",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-keyword-research",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-serp-analysis",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-content-quality-auditor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-on-page-seo-checker",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-site-structure-optimizer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-technical-seo-checker",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-brand-language-codifier",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-message-system-architect",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-story-bank-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-strategic-narrative-designer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-message-test-designer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-narrative-drift-monitor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-narrative-quality-auditor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-narrative-resonance-monitor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-narrative-cascade-planner",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-narrative-enablement-kit",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-pitch-narrative-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-proof-point-packager",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-audience-belief-mapper",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-category-narrative-mapper",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-narrative-baseline-mapper",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-positioning-truth-tracer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-advocacy-program-designer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-short-video-scripter",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-social-calendar-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-social-creative-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-channel-portfolio-planner",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-participation-warmup-planner",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-platform-norm-profiler",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-voice-dossier-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-crisis-response-planner",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-engagement-inbox-manager",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-social-quality-auditor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-social-selling-planner",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-dark-social-attributor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-share-of-voice-tracker",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-social-measurement-loop",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-social-pulse-monitor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-cold-outbound-sequencer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-email-quality-auditor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-inbox-placement-monitor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-send-experiment-designer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-dynamic-content-personalizer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-email-creative-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-email-render-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-subject-line-lab",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-email-sequence-designer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-newsletter-monetization-planner",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-preference-frequency-manager",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-reactivation-specialist",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-deliverability-qa",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-list-growth-designer",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-list-hygiene-monitor",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "aaron-list-segment-builder",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "react-best-practices",
-      "reason": "name \"vercel-react-best-practices\" deve casar com pasta \"react-best-practices\""
-    },
-    {
-      "id": "ms-ad-creative",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-ai-seo",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-analytics",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-attribution",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-churn-prevention",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-cold-email",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-community-marketing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-competitors",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-content-strategy",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-copywriting",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-cro",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-customer-research",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-emails",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-events",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-free-tools",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-influencer-marketing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-launch",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-link-building",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-marketing-council",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-marketing-ideas",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-marketing-loops",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-offers",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-paywalls",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-popups",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-pricing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-product-marketing",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-programmatic-seo",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-prospecting",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-public-relations",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-referrals",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-revops",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-schema",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-seo-audit",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-signup",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-sms",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "ms-social",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-audit",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-backlinks",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-cluster",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-content",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-ecommerce",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-page",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "claude-seo-seo-schema",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-google-search-console",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-seo-monitoring",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-ai-traffic",
-      "reason": "name \"ai-traffic-tracking\" deve casar com pasta \"kostja-ai-traffic\""
-    },
-    {
-      "id": "kostja-traffic",
-      "reason": "name \"traffic-analysis\" deve casar com pasta \"kostja-traffic\""
-    },
-    {
-      "id": "kostja-tracking",
-      "reason": "name \"analytics-tracking\" deve casar com pasta \"kostja-tracking\""
-    },
-    {
-      "id": "kostja-hero",
-      "reason": "name \"hero-generator\" deve casar com pasta \"kostja-hero\""
-    },
-    {
-      "id": "kostja-logo",
-      "reason": "name \"logo-generator\" deve casar com pasta \"kostja-logo\""
-    },
-    {
-      "id": "kostja-comparison-table",
-      "reason": "name \"comparison-table-generator\" deve casar com pasta \"kostja-comparison-table\""
-    },
-    {
-      "id": "kostja-howto-section",
-      "reason": "name \"howto-section-generator\" deve casar com pasta \"kostja-howto-section\""
-    },
-    {
-      "id": "kostja-tab-accordion",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-cta",
-      "reason": "name \"cta-generator\" deve casar com pasta \"kostja-cta\""
-    },
-    {
-      "id": "kostja-newsletter-signup",
-      "reason": "name \"newsletter-signup-generator\" deve casar com pasta \"kostja-newsletter-signup\""
-    },
-    {
-      "id": "kostja-popup",
-      "reason": "name \"popup-generator\" deve casar com pasta \"kostja-popup\""
-    },
-    {
-      "id": "kostja-testimonials",
-      "reason": "name \"testimonials-generator\" deve casar com pasta \"kostja-testimonials\""
-    },
-    {
-      "id": "kostja-trust-badges",
-      "reason": "name \"trust-badges-generator\" deve casar com pasta \"kostja-trust-badges\""
-    },
-    {
-      "id": "kostja-card",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-carousel",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-grid",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-list",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-masonry",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-breadcrumb",
-      "reason": "name \"breadcrumb-generator\" deve casar com pasta \"kostja-breadcrumb\""
-    },
-    {
-      "id": "kostja-footer",
-      "reason": "name \"footer-generator\" deve casar com pasta \"kostja-footer\""
-    },
-    {
-      "id": "kostja-navigation-menu",
-      "reason": "name \"navigation-menu-generator\" deve casar com pasta \"kostja-navigation-menu\""
-    },
-    {
-      "id": "kostja-sidebar",
-      "reason": "name \"sidebar-generator\" deve casar com pasta \"kostja-sidebar\""
-    },
-    {
-      "id": "kostja-toc",
-      "reason": "name \"toc-generator\" deve casar com pasta \"kostja-toc\""
-    },
-    {
-      "id": "kostja-social-share",
-      "reason": "name \"social-share-generator\" deve casar com pasta \"kostja-social-share\""
-    },
-    {
-      "id": "kostja-top-banner",
-      "reason": "name \"top-banner-generator\" deve casar com pasta \"kostja-top-banner\""
-    },
-    {
-      "id": "kostja-keyword-clustering",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-keyword-discovery",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-keyword-mapping",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-keyword-opportunity",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-keyword-research",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-about",
-      "reason": "name \"about-page-generator\" deve casar com pasta \"kostja-about\""
-    },
-    {
-      "id": "kostja-contact",
-      "reason": "name \"contact-page-generator\" deve casar com pasta \"kostja-contact\""
-    },
-    {
-      "id": "kostja-home",
-      "reason": "name \"homepage-generator\" deve casar com pasta \"kostja-home\""
-    },
-    {
-      "id": "kostja-api",
-      "reason": "name \"api-page-generator\" deve casar com pasta \"kostja-api\""
-    },
-    {
-      "id": "kostja-article",
-      "reason": "name \"article-page-generator\" deve casar com pasta \"kostja-article\""
-    },
-    {
-      "id": "kostja-blog",
-      "reason": "name \"blog-page-generator\" deve casar com pasta \"kostja-blog\""
-    },
-    {
-      "id": "kostja-faq",
-      "reason": "name \"faq-page-generator\" deve casar com pasta \"kostja-faq\""
-    },
-    {
-      "id": "kostja-features",
-      "reason": "name \"features-page-generator\" deve casar com pasta \"kostja-features\""
-    },
-    {
-      "id": "kostja-glossary",
-      "reason": "name \"glossary-page-generator\" deve casar com pasta \"kostja-glossary\""
-    },
-    {
-      "id": "kostja-resources",
-      "reason": "name \"resources-page-generator\" deve casar com pasta \"kostja-resources\""
-    },
-    {
-      "id": "kostja-template-page",
-      "reason": "name \"template-page-generator\" deve casar com pasta \"kostja-template-page\""
-    },
-    {
-      "id": "kostja-tools",
-      "reason": "name \"tools-page-generator\" deve casar com pasta \"kostja-tools\""
-    },
-    {
-      "id": "kostja-cookie-policy",
-      "reason": "name \"cookie-policy-page-generator\" deve casar com pasta \"kostja-cookie-policy\""
-    },
-    {
-      "id": "kostja-legal",
-      "reason": "name \"legal-page-generator\" deve casar com pasta \"kostja-legal\""
-    },
-    {
-      "id": "kostja-privacy",
-      "reason": "name \"privacy-page-generator\" deve casar com pasta \"kostja-privacy\""
-    },
-    {
-      "id": "kostja-refund",
-      "reason": "name \"refund-page-generator\" deve casar com pasta \"kostja-refund\""
-    },
-    {
-      "id": "kostja-shipping",
-      "reason": "name \"shipping-page-generator\" deve casar com pasta \"kostja-shipping\""
-    },
-    {
-      "id": "kostja-terms",
-      "reason": "name \"terms-page-generator\" deve casar com pasta \"kostja-terms\""
-    },
-    {
-      "id": "kostja-affiliate-program",
-      "reason": "name \"affiliate-page-generator\" deve casar com pasta \"kostja-affiliate-program\""
-    },
-    {
-      "id": "kostja-alternatives",
-      "reason": "name \"alternatives-page-generator\" deve casar com pasta \"kostja-alternatives\""
-    },
-    {
-      "id": "kostja-category-pages",
-      "reason": "name \"category-page-generator\" deve casar com pasta \"kostja-category-pages\""
-    },
-    {
-      "id": "kostja-contest",
-      "reason": "name \"contest-page-generator\" deve casar com pasta \"kostja-contest\""
-    },
-    {
-      "id": "kostja-customer-stories",
-      "reason": "name \"customer-stories-page-generator\" deve casar com pasta \"kostja-customer-stories\""
-    },
-    {
-      "id": "kostja-download",
-      "reason": "name \"download-page-generator\" deve casar com pasta \"kostja-download\""
-    },
-    {
-      "id": "kostja-integrations",
-      "reason": "name \"integrations-page-generator\" deve casar com pasta \"kostja-integrations\""
-    },
-    {
-      "id": "kostja-landing-page",
-      "reason": "name \"landing-page-generator\" deve casar com pasta \"kostja-landing-page\""
-    },
-    {
-      "id": "kostja-media-kit",
-      "reason": "name \"media-kit-page-generator\" deve casar com pasta \"kostja-media-kit\""
-    },
-    {
-      "id": "kostja-migration",
-      "reason": "name \"migration-page-generator\" deve casar com pasta \"kostja-migration\""
-    },
-    {
-      "id": "kostja-press-coverage",
-      "reason": "name \"press-coverage-page-generator\" deve casar com pasta \"kostja-press-coverage\""
-    },
-    {
-      "id": "kostja-pricing",
-      "reason": "name \"pricing-page-generator\" deve casar com pasta \"kostja-pricing\""
-    },
-    {
-      "id": "kostja-products",
-      "reason": "name \"products-page-generator\" deve casar com pasta \"kostja-products\""
-    },
-    {
-      "id": "kostja-services",
-      "reason": "name \"services-page-generator\" deve casar com pasta \"kostja-services\""
-    },
-    {
-      "id": "kostja-showcase",
-      "reason": "name \"showcase-page-generator\" deve casar com pasta \"kostja-showcase\""
-    },
-    {
-      "id": "kostja-solutions",
-      "reason": "name \"solutions-page-generator\" deve casar com pasta \"kostja-solutions\""
-    },
-    {
-      "id": "kostja-startups",
-      "reason": "name \"startups-page-generator\" deve casar com pasta \"kostja-startups\""
-    },
-    {
-      "id": "kostja-use-cases",
-      "reason": "name \"use-cases-page-generator\" deve casar com pasta \"kostja-use-cases\""
-    },
-    {
-      "id": "kostja-404",
-      "reason": "name \"404-page-generator\" deve casar com pasta \"kostja-404\""
-    },
-    {
-      "id": "kostja-careers",
-      "reason": "name \"careers-page-generator\" deve casar com pasta \"kostja-careers\""
-    },
-    {
-      "id": "kostja-changelog",
-      "reason": "name \"changelog-page-generator\" deve casar com pasta \"kostja-changelog\""
-    },
-    {
-      "id": "kostja-disclosure",
-      "reason": "name \"disclosure-page-generator\" deve casar com pasta \"kostja-disclosure\""
-    },
-    {
-      "id": "kostja-feedback",
-      "reason": "name \"feedback-page-generator\" deve casar com pasta \"kostja-feedback\""
-    },
-    {
-      "id": "kostja-signup-login",
-      "reason": "name \"signup-login-page-generator\" deve casar com pasta \"kostja-signup-login\""
-    },
-    {
-      "id": "kostja-status",
-      "reason": "name \"status-page-generator\" deve casar com pasta \"kostja-status\""
-    },
-    {
-      "id": "kostja-description",
-      "reason": "name \"meta-description\" deve casar com pasta \"kostja-description\""
-    },
-    {
-      "id": "kostja-heading",
-      "reason": "name \"heading-structure\" deve casar com pasta \"kostja-heading\""
-    },
-    {
-      "id": "kostja-internal-links",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-metadata",
-      "reason": "name \"page-metadata\" deve casar com pasta \"kostja-metadata\""
-    },
-    {
-      "id": "kostja-open-graph",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-outbound-links",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-title",
-      "reason": "name \"title-tag\" deve casar com pasta \"kostja-title\""
-    },
-    {
-      "id": "kostja-twitter-cards",
-      "reason": "já publicado (id)"
-    },
-    {
-      "id": "kostja-canonical",
-      "reason": "name \"canonical-tag\" deve casar com pasta \"kostja-canonical\""
-    },
-    {
-      "id": "kostja-localization",
-      "reason": "name \"localization-strategy\" deve casar com pasta \"kostja-localization\""
-    },
-    {
-      "id": "aitmpl-linux-shell-scripting",
-      "reason": "name \"Linux Production Shell Scripts\" deve casar com pasta \"aitmpl-linux-shell-scripting\""
+      "id": "aitmpl-distributed-training-pytorch-fsdp",
+      "reason": "SKILL.md muito grande (160184 B)"
     }
   ],
   "held": [
     {
-      "id": "aitmpl-observability-engineer",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-php-pro",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-postgres-best-practices",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-powershell-windows",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-prisma-expert",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-prometheus-configuration",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-python-pro",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-react-best-practices",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-react-dev",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-react-patterns",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-ruby-pro",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-rust-pro",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-scala-pro",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-software-architecture",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-swarmvault",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-tdd-orchestrator",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-technical-debt-auditor",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-terraform-specialist",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-test-detect",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-typescript-pro",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-web-to-markdown",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "ck-security-best-practices",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "ck-security-threat-model",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-cc-skill-continuous-learning",
-      "reason": "teto maxAutoPromotePerDay"
-    },
-    {
-      "id": "aitmpl-cc-skill-strategic-compact",
-      "reason": "teto maxAutoPromotePerDay"
+      "id": "aitmpl-mlops-weights-and-biases",
+      "reason": "maxPublishedCommunity"
     }
   ]
 }
