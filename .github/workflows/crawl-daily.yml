@@ -82,7 +82,7 @@ jobs:
           else
             echo "catalog_changed=false" >> "$GITHUB_OUTPUT"
           fi
-          git commit -m "chore: crawl publish-safe + daily heartbeat"
+          git commit -m "chore: discover + crawl publish-safe + daily heartbeat"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 

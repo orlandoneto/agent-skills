@@ -1,11 +1,13 @@
 /**
- * Pipeline diário com retry: crawl → publish-safe → catalog → summary
+ * Pipeline diário com retry:
+ *   discover-repos → crawl → publish-safe → catalog → summary
  * → (opcional) sync snapshot no Ontoom + dispara workflow de sync.
  *
  * Uso:
  *   npm run daily
  *   ONTOOM_ROOT=../ontoom npm run daily
  *   SKIP_SYNC=1 npm run daily
+ *   SKIP_DISCOVER=1 npm run daily
  */
 import { spawnSync } from "node:child_process";
 import {
@@ -24,6 +26,7 @@ const ontoomRoot =
   process.env.ONTOOM_ROOT?.trim() ||
   path.resolve(root, "..", "ontoom");
 const skipSync = process.env.SKIP_SYNC === "1";
+const skipDiscover = process.env.SKIP_DISCOVER === "1";
 
 function run(cmd, args, { allowFail = false } = {}) {
   console.log(`\n$ ${cmd} ${args.join(" ")}`);
@@ -46,6 +49,13 @@ function sleep(ms) {
 }
 
 async function main() {
+  if (!skipDiscover) {
+    // Descoberta GitHub → dynamic-sources + discovery-state (não falha o dia)
+    run("npm", ["run", "discover"], { allowFail: true });
+  } else {
+    console.log("SKIP_DISCOVER=1 — pulando discover-repos");
+  }
+
   let lastErr;
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
     try {

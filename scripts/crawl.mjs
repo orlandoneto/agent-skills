@@ -1,6 +1,7 @@
 /**
  * Crawler = radar. Escreve staging apenas. Não publica.
- * Respeita policy: quota, allowlist, User-Agent, sem espelho em massa.
+ * Respeita policy: quota, allowlist (+ dynamic-sources), User-Agent.
+ * Suporta pastas aninhadas (nested) e idNamespace para evitar colisão de ids.
  */
 import {
   existsSync,
@@ -18,11 +19,51 @@ import {
   fingerprint,
   scoreSkill,
 } from "./lib/gates.mjs";
+import { mergeCrawlSources } from "./lib/discovery.mjs";
+import { fetchText as fetchTextLib } from "./lib/fetch-text.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const policy = loadPolicy(root);
 const stagingDir = path.join(root, "staging");
 mkdirSync(stagingDir, { recursive: true });
+
+const SKIP_DIR_NAMES = new Set([
+  ".git",
+  ".github",
+  ".claude-plugin",
+  ".devcontainer",
+  ".githooks",
+  "node_modules",
+  "scripts",
+  "references",
+  "assets",
+  "docs",
+  "tests",
+  "test",
+  "evals",
+  "hooks",
+  "agents",
+  "schema",
+  "screenshots",
+  "data",
+  "extensions",
+  "badges",
+  "memory",
+  "protocol",
+  "commands",
+  "templates",
+]);
+
+function loadDynamicSources() {
+  const file = path.join(stagingDir, "dynamic-sources.json");
+  if (!existsSync(file)) return [];
+  try {
+    const doc = JSON.parse(readFileSync(file, "utf8"));
+    return Array.isArray(doc.sources) ? doc.sources : [];
+  } catch {
+    return [];
+  }
+}
 
 const day = new Date().toISOString().slice(0, 10);
 const outFile = path.join(stagingDir, `candidates-${day}.json`);
@@ -36,44 +77,61 @@ function pushReject(item, reason) {
 }
 
 async function fetchText(url) {
-  const headers = {
-    "User-Agent": policy.crawler.userAgent,
-    Accept: "application/vnd.github+json, text/plain, */*",
-  };
-  // Token opcional: reduz chance de rate limit (ToS: 1 pass/fonte/dia)
-  if (process.env.GITHUB_TOKEN || process.env.GH_TOKEN) {
-    headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN || process.env.GH_TOKEN}`;
+  return fetchTextLib(url, { userAgent: policy.crawler.userAgent });
+}
+
+async function listDir(repo, dirPath) {
+  const api = dirPath
+    ? `https://api.github.com/repos/${repo}/contents/${dirPath}`
+    : `https://api.github.com/repos/${repo}/contents`;
+  const listing = JSON.parse(await fetchText(api));
+  return Array.isArray(listing) ? listing : [];
+}
+
+/**
+ * Encontra pastas que contêm SKILL.md (suporta nested).
+ */
+async function findSkillFolders(repo, basePath, { nested = false, maxDepth = 2 } = {}) {
+  const out = [];
+
+  async function walk(dirPath, depth) {
+    if (candidates.length + out.length >= policy.crawler.maxCandidatesPerDay) return;
+    let listing;
+    try {
+      listing = await listDir(repo, dirPath);
+    } catch (err) {
+      console.warn(`list ${repo}/${dirPath}: ${err.message}`);
+      return;
+    }
+
+    const hasSkillMd = listing.some(
+      (e) => e.type === "file" && /^skill\.md$/i.test(e.name),
+    );
+    if (hasSkillMd && dirPath) {
+      const parts = dirPath.split("/");
+      const name = parts[parts.length - 1];
+      out.push({
+        name,
+        path: dirPath,
+        hasScriptsFolder: listing.some((e) => e.name === "scripts" && e.type === "dir"),
+        html_url: `https://github.com/${repo}/tree/HEAD/${dirPath}`,
+      });
+      return; // pasta skill — não desce mais
+    }
+
+    if (!nested && depth > 0) return;
+    if (depth >= maxDepth) return;
+
+    for (const entry of listing) {
+      if (entry.type !== "dir") continue;
+      if (SKIP_DIR_NAMES.has(entry.name.toLowerCase())) continue;
+      const child = dirPath ? `${dirPath}/${entry.name}` : entry.name;
+      await walk(child, depth + 1);
+    }
   }
 
-  // Em alguns Windows corporativos o Node falha TLS (UNABLE_TO_VERIFY_LEAF_SIGNATURE).
-  // CI Linux (Actions) usa fetch normal. Fallback: PowerShell Invoke-RestMethod.
-  try {
-    const res = await fetch(url, { headers });
-    if (res.status === 403 || res.status === 429) {
-      throw new Error(`rate-limit/ToS risk HTTP ${res.status} em ${url}`);
-    }
-    if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
-    return res.text();
-  } catch (err) {
-    if (process.platform !== "win32") throw err;
-    const { spawnSync } = await import("node:child_process");
-    const auth = headers.Authorization
-      ? `$h['Authorization']='${headers.Authorization}';`
-      : "";
-    const ps = `
-      $h=@{'User-Agent'='${policy.crawler.userAgent}';'Accept'='application/vnd.github+json, text/plain, */*'};
-      ${auth}
-      (Invoke-WebRequest -Uri '${url.replace(/'/g, "''")}' -Headers $h -UseBasicParsing).Content
-    `;
-    const r = spawnSync("powershell", ["-NoProfile", "-Command", ps], {
-      encoding: "utf8",
-      maxBuffer: 10 * 1024 * 1024,
-    });
-    if (r.status !== 0) {
-      throw new Error(err.message + " | ps: " + (r.stderr || r.stdout || ""));
-    }
-    return r.stdout;
-  }
+  await walk(basePath || "", 0);
+  return out;
 }
 
 async function crawlLocalManifest(source) {
@@ -91,50 +149,38 @@ async function crawlLocalManifest(source) {
       rawUrl: item.rawUrl,
       license: item.license,
       sourceId: source.id,
+      idNamespace: source.idNamespace,
     });
   }
 }
 
 async function crawlGithubRepoSkills(source) {
-  // Lista via API de conteúdos — 1 request; não espelha o repo inteiro em disco.
-  const api = `https://api.github.com/repos/${source.repo}/contents/${source.path || "skills"}`;
-  let listing;
+  const basePath = source.path || "skills";
+  const nested = Boolean(source.nested);
+  const maxDepth = Number(source.maxDepth ?? (nested ? 3 : 1));
+
+  let folders;
   try {
-    listing = JSON.parse(await fetchText(api));
+    folders = await findSkillFolders(source.repo, basePath, { nested, maxDepth });
   } catch (err) {
     console.warn(`fonte ${source.id} pulada: ${err.message}`);
     return;
   }
-  if (!Array.isArray(listing)) return;
 
-  for (const entry of listing) {
+  console.log(`fonte ${source.id}: ${folders.length} pasta(s) com SKILL.md`);
+
+  for (const folder of folders) {
     if (candidates.length >= policy.crawler.maxCandidatesPerDay) break;
-    if (entry.type !== "dir") continue;
-    const id = normalizeName(entry.name);
-    const rawUrl = `https://raw.githubusercontent.com/${source.repo}/HEAD/${source.path}/${entry.name}/SKILL.md`;
-
-    let hasScriptsFolder = false;
-    try {
-      const childApi = `https://api.github.com/repos/${source.repo}/contents/${source.path}/${entry.name}`;
-      const children = JSON.parse(await fetchText(childApi));
-      if (Array.isArray(children)) {
-        hasScriptsFolder = children.some((c) => c.name === "scripts");
-      }
-    } catch {
-      // se falhar o listing do filho, segue com heurística do SKILL.md
-    }
-
-    // SPDX do repo (policy.defaultLicense) quando o frontmatter não declara
-    const defaultLicense = source.defaultLicense || null;
-
+    const rawUrl = `https://raw.githubusercontent.com/${source.repo}/HEAD/${folder.path}/SKILL.md`;
     await ingestRemoteSkill({
-      id,
-      sourceUrl: entry.html_url || `https://github.com/${source.repo}/tree/HEAD/${source.path}/${entry.name}`,
+      id: folder.name,
+      sourceUrl: folder.html_url,
       rawUrl,
-      license: defaultLicense,
+      license: source.defaultLicense || null,
       sourceId: source.id,
       repo: source.repo,
-      hasScriptsFolder,
+      hasScriptsFolder: folder.hasScriptsFolder,
+      idNamespace: source.idNamespace,
     });
   }
 }
@@ -146,6 +192,15 @@ function normalizeLicense(raw, fallback) {
   return lic;
 }
 
+function namespacedId(rawId, idNamespace) {
+  const base = normalizeName(rawId);
+  if (!base) return "";
+  if (!idNamespace) return base;
+  const ns = normalizeName(idNamespace);
+  if (base.startsWith(`${ns}-`)) return base;
+  return normalizeName(`${ns}-${base}`);
+}
+
 async function ingestRemoteSkill({
   id,
   sourceUrl,
@@ -154,8 +209,10 @@ async function ingestRemoteSkill({
   sourceId,
   repo,
   hasScriptsFolder = false,
+  idNamespace = null,
 }) {
-  const base = { id, sourceUrl, rawUrl, sourceId, repo: repo || null };
+  const catalogId = namespacedId(id, idNamespace);
+  const base = { id: catalogId, sourceUrl, rawUrl, sourceId, repo: repo || null };
   try {
     const md = await fetchText(rawUrl);
     const { meta, body } = parseFrontmatter(md);
@@ -208,7 +265,7 @@ async function ingestRemoteSkill({
     }
 
     candidates.push({
-      id: normalizeName(name),
+      id: catalogId,
       name: normalizeName(name),
       description: desc,
       license: lic,
@@ -227,7 +284,15 @@ async function ingestRemoteSkill({
   }
 }
 
-for (const source of policy.crawler.sourcesAllowlist) {
+const crawlSources = mergeCrawlSources(
+  policy.crawler.sourcesAllowlist,
+  loadDynamicSources(),
+);
+console.log(
+  `fontes: ${crawlSources.length} (policy + dynamic-sources descobertos)`,
+);
+
+for (const source of crawlSources) {
   if (!source.enabled) continue;
   if (candidates.length >= policy.crawler.maxCandidatesPerDay) break;
   if (source.type === "local-manifest") await crawlLocalManifest(source);

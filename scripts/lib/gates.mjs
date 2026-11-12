@@ -131,7 +131,13 @@ export function validateSkillDir(skillPath, policy, { expectedId } = {}) {
 
   const folderId = path.basename(skillPath);
   const id = expectedId || folderId;
-  if (policy.quality.requireNameMatchesFolder && meta.name && normalizeName(meta.name) !== normalizeName(id)) {
+  // Aceita id namespaced (ex.: ms-seo-audit) quando o name do frontmatter é seo-audit
+  if (
+    policy.quality.requireNameMatchesFolder &&
+    meta.name &&
+    normalizeName(meta.name) !== normalizeName(id) &&
+    !normalizeName(id).endsWith(`-${normalizeName(meta.name)}`)
+  ) {
     errors.push(`name "${meta.name}" deve casar com pasta "${id}"`);
   }
 

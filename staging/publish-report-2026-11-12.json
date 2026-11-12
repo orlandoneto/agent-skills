@@ -1,10 +1,1839 @@
 {
   "date": "2026-11-12",
-  "published": [],
+  "published": [
+    {
+      "id": "ms-ab-testing",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/ab-testing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-aso",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/aso",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-co-marketing",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/co-marketing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-competitor-profiling",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/competitor-profiling",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-copy-editing",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/copy-editing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-directory-submissions",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/directory-submissions",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-image",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/image",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-lead-magnets",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/lead-magnets",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-marketing-plan",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/marketing-plan",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-marketing-psychology",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/marketing-psychology",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-onboarding",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/onboarding",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-sales-enablement",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/sales-enablement",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-site-architecture",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/site-architecture",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-video",
+      "score": 100,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/video",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-agentic",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-agentic",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-competitor-pages",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-competitor-pages",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-content-brief",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-content-brief",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-dataforseo",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-dataforseo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-drift",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-drift",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-flow",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-flow",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-geo",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-geo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-google",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-google",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-hreflang",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-hreflang",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-image-gen",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-image-gen",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-images",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-images",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-local",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-local",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-maps",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-maps",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-plan",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-plan",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-programmatic",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-programmatic",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-sitemap",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-sitemap",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-sxo",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-sxo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-technical",
+      "score": 100,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-technical",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-community-forum",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/community/community-forum",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-directory-submission",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/community/directory-submission",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-product-hunt-launch",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/community/product-hunt-launch",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-distribution-channels",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/distribution/distribution-channels",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-email-marketing",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/owned/email-marketing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-employee-generated-content",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/owned/employee-generated-content",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-affiliate-marketing",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/partnerships/affiliate-marketing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-creator-program",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/partnerships/creator-program",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-education-program",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/partnerships/education-program",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-influencer-marketing",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/partnerships/influencer-marketing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-public-relations",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/partnerships/public-relations",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-referral-program",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/channels/partnerships/referral-program",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-competitor-research",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/competitor-research",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-copywriting",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/content/copywriting",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-translation",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/content/translation",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-visual-content",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/content/visual-content",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-app-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/formats/app-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-ctv-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/formats/ctv-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-directory-listing-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/formats/directory-listing-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-display-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/formats/display-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-native-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/formats/native-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-google-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/platforms/google-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-linkedin-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/platforms/linkedin-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-meta-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/platforms/meta-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-reddit-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/platforms/reddit-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-tiktok-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/platforms/tiktok-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-youtube-ads",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/paid-ads/platforms/youtube-ads",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-github",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/platforms/github",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-content-optimization",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/content/content-optimization",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-content-strategy",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/content/content-strategy",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-eeat-signals",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/content/eeat-signals",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-entity-seo",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/entity-seo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-backlink-analysis",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/off-page/backlink-analysis",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-link-building",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/off-page/link-building",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-featured-snippet",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/on-page/featured-snippet",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-image-optimization",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/on-page/image-optimization",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-serp-features",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/on-page/serp-features",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-url-structure",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/on-page/url-structure",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-video-optimization",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/on-page/video-optimization",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-parasite-seo",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/parasite-seo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-programmatic-seo",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/programmatic-seo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-core-web-vitals",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/technical/core-web-vitals",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-indexing",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/technical/indexing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-indexnow",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/technical/indexnow",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-mobile-friendly",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/technical/mobile-friendly",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-rendering-strategies",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/technical/rendering-strategies",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-brand-monitoring",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/brand/brand-monitoring",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-brand-protection",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/brand/brand-protection",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-branding",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/brand/branding",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-content-marketing",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/brand/content-marketing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-integrated-marketing",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/brand/integrated-marketing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-domain-architecture",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/commercial/domain/domain-architecture",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-domain-selection",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/commercial/domain/domain-selection",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-multi-domain-brand-seo",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/commercial/domain/multi-domain-brand-seo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-pricing-strategy",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/commercial/pricing/pricing-strategy",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-growth-funnel",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/launch/growth-funnel",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-product-launch",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/launch/product-launch",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-research-sources",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/launch/research-sources",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-seo-audit",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/structure/seo-audit",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-website-structure",
+      "score": 100,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/strategies/structure/website-structure",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-domain-authority-auditor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/evaluate/domain-authority-auditor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-offsite-signal-analyzer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/evaluate/offsite-signal-analyzer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-performance-monitor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/evaluate/performance-monitor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-rank-tracker",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/evaluate/rank-tracker",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-content-writer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/implement/content-writer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-geo-content-optimizer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/implement/geo-content-optimizer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-page-play-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/implement/page-play-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-serp-markup-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/implement/serp-markup-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-competitor-analysis",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/survey/competitor-analysis",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-content-gap-analysis",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/survey/content-gap-analysis",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-keyword-research",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/survey/keyword-research",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-serp-analysis",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/survey/serp-analysis",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-content-quality-auditor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/tune/content-quality-auditor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-on-page-seo-checker",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/tune/on-page-seo-checker",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-site-structure-optimizer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/tune/site-structure-optimizer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-technical-seo-checker",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/seo-geo/tune/technical-seo-checker",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-brand-language-codifier",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/architect/brand-language-codifier",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-message-system-architect",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/architect/message-system-architect",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-story-bank-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/architect/story-bank-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-strategic-narrative-designer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/architect/strategic-narrative-designer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-message-test-designer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/evaluate/message-test-designer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-narrative-drift-monitor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/evaluate/narrative-drift-monitor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-narrative-quality-auditor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/evaluate/narrative-quality-auditor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-narrative-resonance-monitor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/evaluate/narrative-resonance-monitor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-narrative-cascade-planner",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/land/narrative-cascade-planner",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-narrative-enablement-kit",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/land/narrative-enablement-kit",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-pitch-narrative-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/land/pitch-narrative-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-proof-point-packager",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/land/proof-point-packager",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-audience-belief-mapper",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/trace/audience-belief-mapper",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-category-narrative-mapper",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/trace/category-narrative-mapper",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-narrative-baseline-mapper",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/trace/narrative-baseline-mapper",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-positioning-truth-tracer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/narrative/trace/positioning-truth-tracer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-advocacy-program-designer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/craft/advocacy-program-designer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-short-video-scripter",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/craft/short-video-scripter",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-social-calendar-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/craft/social-calendar-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-social-creative-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/craft/social-creative-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-channel-portfolio-planner",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/explore/channel-portfolio-planner",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-participation-warmup-planner",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/explore/participation-warmup-planner",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-platform-norm-profiler",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/explore/platform-norm-profiler",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-voice-dossier-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/explore/voice-dossier-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-crisis-response-planner",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/host/crisis-response-planner",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-engagement-inbox-manager",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/host/engagement-inbox-manager",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-social-quality-auditor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/host/social-quality-auditor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-social-selling-planner",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/host/social-selling-planner",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-dark-social-attributor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/observe/dark-social-attributor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-share-of-voice-tracker",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/observe/share-of-voice-tracker",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-social-measurement-loop",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/observe/social-measurement-loop",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-social-pulse-monitor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/social/observe/social-pulse-monitor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-cold-outbound-sequencer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/deliver/cold-outbound-sequencer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-email-quality-auditor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/deliver/email-quality-auditor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-inbox-placement-monitor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/deliver/inbox-placement-monitor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-send-experiment-designer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/deliver/send-experiment-designer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-dynamic-content-personalizer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/engage/dynamic-content-personalizer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-email-creative-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/engage/email-creative-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-email-render-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/engage/email-render-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-subject-line-lab",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/engage/subject-line-lab",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-email-sequence-designer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/nurture/email-sequence-designer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-newsletter-monetization-planner",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/nurture/newsletter-monetization-planner",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-preference-frequency-manager",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/nurture/preference-frequency-manager",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-reactivation-specialist",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/nurture/reactivation-specialist",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-deliverability-qa",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/setup/deliverability-qa",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-list-growth-designer",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/setup/list-growth-designer",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-list-hygiene-monitor",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/setup/list-hygiene-monitor",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "aaron-list-segment-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/tree/HEAD/email/setup/list-segment-builder",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-ad-creative",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/ad-creative",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-ai-seo",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/ai-seo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-analytics",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/analytics",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-attribution",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/attribution",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-churn-prevention",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/churn-prevention",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-cold-email",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/cold-email",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-community-marketing",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/community-marketing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-competitors",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/competitors",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-content-strategy",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/content-strategy",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-copywriting",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/copywriting",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-cro",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/cro",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-customer-research",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/customer-research",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-emails",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/emails",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-events",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/events",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-free-tools",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/free-tools",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-influencer-marketing",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/influencer-marketing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-launch",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/launch",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-link-building",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/link-building",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-marketing-council",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/marketing-council",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-marketing-ideas",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/marketing-ideas",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-marketing-loops",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/marketing-loops",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-offers",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/offers",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-paywalls",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/paywalls",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-popups",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/popups",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-pricing",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/pricing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-product-marketing",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/product-marketing",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-programmatic-seo",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/programmatic-seo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-prospecting",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/prospecting",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-public-relations",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/public-relations",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-referrals",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/referrals",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-revops",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/revops",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-schema",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/schema",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-seo-audit",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/seo-audit",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-signup",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/signup",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-sms",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/sms",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "ms-social",
+      "score": 95,
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/social",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo",
+      "score": 95,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-audit",
+      "score": 95,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-audit",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-backlinks",
+      "score": 95,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-backlinks",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-cluster",
+      "score": 95,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-cluster",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-content",
+      "score": 95,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-content",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-ecommerce",
+      "score": 95,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-ecommerce",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-page",
+      "score": 95,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-page",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "claude-seo-seo-schema",
+      "score": 95,
+      "sourceUrl": "https://github.com/AgriciDaniel/claude-seo/tree/HEAD/skills/seo-schema",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-google-search-console",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/analytics/seo/google-search-console",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-seo-monitoring",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/analytics/seo/seo-monitoring",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-tab-accordion",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/components/content/tab-accordion",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-card",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/components/layout/card",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-carousel",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/components/layout/carousel",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-grid",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/components/layout/grid",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-list",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/components/layout/list",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-masonry",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/components/layout/masonry",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-keyword-clustering",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/keyword-clustering",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-keyword-discovery",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/keyword-discovery",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-keyword-mapping",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/keyword-mapping",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-keyword-opportunity",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/keyword-opportunity",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-keyword-research",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/keyword-research",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-internal-links",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/on-page/internal-links",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-open-graph",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/on-page/open-graph",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-outbound-links",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/on-page/outbound-links",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "kostja-twitter-cards",
+      "score": 95,
+      "sourceUrl": "https://github.com/kostja94/marketing-skills/tree/HEAD/skills/seo/on-page/twitter-cards",
+      "addedAt": "2026-11-12"
+    }
+  ],
   "skipped": [
+    {
+      "id": "api-and-interface-design",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "browser-testing-with-devtools",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ci-cd-and-automation",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "code-review-and-quality",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "code-simplification",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "context-engineering",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "debugging-and-error-recovery",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "deprecation-and-migration",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "documentation-and-adrs",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "doubt-driven-development",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "frontend-ui-engineering",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "git-workflow-and-versioning",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "incremental-implementation",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "interview-me",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "observability-and-instrumentation",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "performance-optimization",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "planning-and-task-breakdown",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "security-and-hardening",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "shipping-and-launch",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "source-driven-development",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "spec-driven-development",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "test-driven-development",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "using-agent-skills",
+      "reason": "já publicado (id)"
+    },
     {
       "id": "doc-coauthoring",
       "reason": "já publicado (id)"
+    },
+    {
+      "id": "deploy-to-vercel",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "react-view-transitions",
+      "reason": "name \"vercel-react-view-transitions\" deve casar com pasta \"react-view-transitions\""
+    },
+    {
+      "id": "vercel-cli-with-tokens",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "web-design-guidelines",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "writing-guidelines",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "agent-skill-creator",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "content-repurposing",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "kostja-brand-visual",
+      "reason": "name \"brand-visual-generator\" deve casar com pasta \"kostja-brand-visual\""
+    },
+    {
+      "id": "kostja-favicon",
+      "reason": "name \"favicon-generator\" deve casar com pasta \"kostja-favicon\""
+    },
+    {
+      "id": "kostja-url-slug",
+      "reason": "name \"url-slug-generator\" deve casar com pasta \"kostja-url-slug\""
+    },
+    {
+      "id": "kostja-article",
+      "reason": "name \"article-content\" deve casar com pasta \"kostja-article\""
+    },
+    {
+      "id": "kostja-podcast",
+      "reason": "name \"podcast-marketing\" deve casar com pasta \"kostja-podcast\""
+    },
+    {
+      "id": "kostja-video",
+      "reason": "name \"video-marketing\" deve casar com pasta \"kostja-video\""
+    },
+    {
+      "id": "kostja-grokipedia",
+      "reason": "name \"grokipedia-recommendations\" deve casar com pasta \"kostja-grokipedia\""
+    },
+    {
+      "id": "kostja-linkedin",
+      "reason": "name \"linkedin-posts\" deve casar com pasta \"kostja-linkedin\""
+    },
+    {
+      "id": "kostja-medium",
+      "reason": "name \"medium-posts\" deve casar com pasta \"kostja-medium\""
+    },
+    {
+      "id": "kostja-pinterest",
+      "reason": "name \"pinterest-posts\" deve casar com pasta \"kostja-pinterest\""
+    },
+    {
+      "id": "kostja-reddit",
+      "reason": "name \"reddit-posts\" deve casar com pasta \"kostja-reddit\""
+    },
+    {
+      "id": "kostja-tiktok",
+      "reason": "name \"tiktok-captions\" deve casar com pasta \"kostja-tiktok\""
+    },
+    {
+      "id": "kostja-x",
+      "reason": "name \"twitter-x-posts\" deve casar com pasta \"kostja-x\""
+    },
+    {
+      "id": "kostja-youtube",
+      "reason": "name \"youtube-seo\" deve casar com pasta \"kostja-youtube\""
+    },
+    {
+      "id": "kostja-local",
+      "reason": "name \"local-seo\" deve casar com pasta \"kostja-local\""
+    },
+    {
+      "id": "kostja-schema",
+      "reason": "name \"schema-markup\" deve casar com pasta \"kostja-schema\""
+    },
+    {
+      "id": "kostja-crawlability",
+      "reason": "name \"site-crawlability\" deve casar com pasta \"kostja-crawlability\""
+    },
+    {
+      "id": "kostja-robots",
+      "reason": "name \"robots-txt\" deve casar com pasta \"kostja-robots\""
+    },
+    {
+      "id": "kostja-sitemap",
+      "reason": "name \"xml-sitemap\" deve casar com pasta \"kostja-sitemap\""
+    },
+    {
+      "id": "kostja-rebranding",
+      "reason": "name \"rebranding-strategy\" deve casar com pasta \"kostja-rebranding\""
+    },
+    {
+      "id": "kostja-geo",
+      "reason": "name \"generative-engine-optimization\" deve casar com pasta \"kostja-geo\""
+    },
+    {
+      "id": "kostja-open-source",
+      "reason": "name \"open-source-strategy\" deve casar com pasta \"kostja-open-source\""
+    },
+    {
+      "id": "kostja-paid-ads",
+      "reason": "name \"paid-ads-strategy\" deve casar com pasta \"kostja-paid-ads\""
+    },
+    {
+      "id": "kostja-discount-marketing",
+      "reason": "name \"discount-marketing-strategy\" deve casar com pasta \"kostja-discount-marketing\""
+    },
+    {
+      "id": "kostja-cold-start",
+      "reason": "name \"cold-start-strategy\" deve casar com pasta \"kostja-cold-start\""
+    },
+    {
+      "id": "kostja-conversion",
+      "reason": "name \"conversion-optimization\" deve casar com pasta \"kostja-conversion\""
+    },
+    {
+      "id": "kostja-gtm",
+      "reason": "name \"gtm-strategy\" deve casar com pasta \"kostja-gtm\""
+    },
+    {
+      "id": "kostja-indie-hacker",
+      "reason": "name \"indie-hacker-strategy\" deve casar com pasta \"kostja-indie-hacker\""
+    },
+    {
+      "id": "kostja-pmf",
+      "reason": "name \"pmf-strategy\" deve casar com pasta \"kostja-pmf\""
+    },
+    {
+      "id": "kostja-retention",
+      "reason": "name \"retention-strategy\" deve casar com pasta \"kostja-retention\""
+    },
+    {
+      "id": "kostja-seo",
+      "reason": "name \"seo-strategy\" deve casar com pasta \"kostja-seo\""
+    },
+    {
+      "id": "react-best-practices",
+      "reason": "name \"vercel-react-best-practices\" deve casar com pasta \"react-best-practices\""
+    },
+    {
+      "id": "kostja-ai-traffic",
+      "reason": "name \"ai-traffic-tracking\" deve casar com pasta \"kostja-ai-traffic\""
+    },
+    {
+      "id": "kostja-traffic",
+      "reason": "name \"traffic-analysis\" deve casar com pasta \"kostja-traffic\""
+    },
+    {
+      "id": "kostja-tracking",
+      "reason": "name \"analytics-tracking\" deve casar com pasta \"kostja-tracking\""
+    },
+    {
+      "id": "kostja-hero",
+      "reason": "name \"hero-generator\" deve casar com pasta \"kostja-hero\""
+    },
+    {
+      "id": "kostja-logo",
+      "reason": "name \"logo-generator\" deve casar com pasta \"kostja-logo\""
+    },
+    {
+      "id": "kostja-comparison-table",
+      "reason": "name \"comparison-table-generator\" deve casar com pasta \"kostja-comparison-table\""
+    },
+    {
+      "id": "kostja-howto-section",
+      "reason": "name \"howto-section-generator\" deve casar com pasta \"kostja-howto-section\""
+    },
+    {
+      "id": "kostja-cta",
+      "reason": "name \"cta-generator\" deve casar com pasta \"kostja-cta\""
+    },
+    {
+      "id": "kostja-newsletter-signup",
+      "reason": "name \"newsletter-signup-generator\" deve casar com pasta \"kostja-newsletter-signup\""
+    },
+    {
+      "id": "kostja-popup",
+      "reason": "name \"popup-generator\" deve casar com pasta \"kostja-popup\""
+    },
+    {
+      "id": "kostja-testimonials",
+      "reason": "name \"testimonials-generator\" deve casar com pasta \"kostja-testimonials\""
+    },
+    {
+      "id": "kostja-trust-badges",
+      "reason": "name \"trust-badges-generator\" deve casar com pasta \"kostja-trust-badges\""
+    },
+    {
+      "id": "kostja-breadcrumb",
+      "reason": "name \"breadcrumb-generator\" deve casar com pasta \"kostja-breadcrumb\""
+    },
+    {
+      "id": "kostja-footer",
+      "reason": "name \"footer-generator\" deve casar com pasta \"kostja-footer\""
+    },
+    {
+      "id": "kostja-navigation-menu",
+      "reason": "name \"navigation-menu-generator\" deve casar com pasta \"kostja-navigation-menu\""
+    },
+    {
+      "id": "kostja-sidebar",
+      "reason": "name \"sidebar-generator\" deve casar com pasta \"kostja-sidebar\""
+    },
+    {
+      "id": "kostja-toc",
+      "reason": "name \"toc-generator\" deve casar com pasta \"kostja-toc\""
+    },
+    {
+      "id": "kostja-social-share",
+      "reason": "name \"social-share-generator\" deve casar com pasta \"kostja-social-share\""
+    },
+    {
+      "id": "kostja-top-banner",
+      "reason": "name \"top-banner-generator\" deve casar com pasta \"kostja-top-banner\""
+    },
+    {
+      "id": "kostja-about",
+      "reason": "name \"about-page-generator\" deve casar com pasta \"kostja-about\""
+    },
+    {
+      "id": "kostja-contact",
+      "reason": "name \"contact-page-generator\" deve casar com pasta \"kostja-contact\""
+    },
+    {
+      "id": "kostja-home",
+      "reason": "name \"homepage-generator\" deve casar com pasta \"kostja-home\""
+    },
+    {
+      "id": "kostja-api",
+      "reason": "name \"api-page-generator\" deve casar com pasta \"kostja-api\""
+    },
+    {
+      "id": "kostja-article",
+      "reason": "name \"article-page-generator\" deve casar com pasta \"kostja-article\""
+    },
+    {
+      "id": "kostja-blog",
+      "reason": "name \"blog-page-generator\" deve casar com pasta \"kostja-blog\""
+    },
+    {
+      "id": "kostja-faq",
+      "reason": "name \"faq-page-generator\" deve casar com pasta \"kostja-faq\""
+    },
+    {
+      "id": "kostja-features",
+      "reason": "name \"features-page-generator\" deve casar com pasta \"kostja-features\""
+    },
+    {
+      "id": "kostja-glossary",
+      "reason": "name \"glossary-page-generator\" deve casar com pasta \"kostja-glossary\""
+    },
+    {
+      "id": "kostja-resources",
+      "reason": "name \"resources-page-generator\" deve casar com pasta \"kostja-resources\""
+    },
+    {
+      "id": "kostja-template-page",
+      "reason": "name \"template-page-generator\" deve casar com pasta \"kostja-template-page\""
+    },
+    {
+      "id": "kostja-tools",
+      "reason": "name \"tools-page-generator\" deve casar com pasta \"kostja-tools\""
+    },
+    {
+      "id": "kostja-cookie-policy",
+      "reason": "name \"cookie-policy-page-generator\" deve casar com pasta \"kostja-cookie-policy\""
+    },
+    {
+      "id": "kostja-legal",
+      "reason": "name \"legal-page-generator\" deve casar com pasta \"kostja-legal\""
+    },
+    {
+      "id": "kostja-privacy",
+      "reason": "name \"privacy-page-generator\" deve casar com pasta \"kostja-privacy\""
+    },
+    {
+      "id": "kostja-refund",
+      "reason": "name \"refund-page-generator\" deve casar com pasta \"kostja-refund\""
+    },
+    {
+      "id": "kostja-shipping",
+      "reason": "name \"shipping-page-generator\" deve casar com pasta \"kostja-shipping\""
+    },
+    {
+      "id": "kostja-terms",
+      "reason": "name \"terms-page-generator\" deve casar com pasta \"kostja-terms\""
+    },
+    {
+      "id": "kostja-affiliate-program",
+      "reason": "name \"affiliate-page-generator\" deve casar com pasta \"kostja-affiliate-program\""
+    },
+    {
+      "id": "kostja-alternatives",
+      "reason": "name \"alternatives-page-generator\" deve casar com pasta \"kostja-alternatives\""
+    },
+    {
+      "id": "kostja-category-pages",
+      "reason": "name \"category-page-generator\" deve casar com pasta \"kostja-category-pages\""
+    },
+    {
+      "id": "kostja-contest",
+      "reason": "name \"contest-page-generator\" deve casar com pasta \"kostja-contest\""
+    },
+    {
+      "id": "kostja-customer-stories",
+      "reason": "name \"customer-stories-page-generator\" deve casar com pasta \"kostja-customer-stories\""
+    },
+    {
+      "id": "kostja-download",
+      "reason": "name \"download-page-generator\" deve casar com pasta \"kostja-download\""
+    },
+    {
+      "id": "kostja-integrations",
+      "reason": "name \"integrations-page-generator\" deve casar com pasta \"kostja-integrations\""
+    },
+    {
+      "id": "kostja-landing-page",
+      "reason": "name \"landing-page-generator\" deve casar com pasta \"kostja-landing-page\""
+    },
+    {
+      "id": "kostja-media-kit",
+      "reason": "name \"media-kit-page-generator\" deve casar com pasta \"kostja-media-kit\""
+    },
+    {
+      "id": "kostja-migration",
+      "reason": "name \"migration-page-generator\" deve casar com pasta \"kostja-migration\""
+    },
+    {
+      "id": "kostja-press-coverage",
+      "reason": "name \"press-coverage-page-generator\" deve casar com pasta \"kostja-press-coverage\""
+    },
+    {
+      "id": "kostja-pricing",
+      "reason": "name \"pricing-page-generator\" deve casar com pasta \"kostja-pricing\""
+    },
+    {
+      "id": "kostja-products",
+      "reason": "name \"products-page-generator\" deve casar com pasta \"kostja-products\""
+    },
+    {
+      "id": "kostja-services",
+      "reason": "name \"services-page-generator\" deve casar com pasta \"kostja-services\""
+    },
+    {
+      "id": "kostja-showcase",
+      "reason": "name \"showcase-page-generator\" deve casar com pasta \"kostja-showcase\""
+    },
+    {
+      "id": "kostja-solutions",
+      "reason": "name \"solutions-page-generator\" deve casar com pasta \"kostja-solutions\""
+    },
+    {
+      "id": "kostja-startups",
+      "reason": "name \"startups-page-generator\" deve casar com pasta \"kostja-startups\""
+    },
+    {
+      "id": "kostja-use-cases",
+      "reason": "name \"use-cases-page-generator\" deve casar com pasta \"kostja-use-cases\""
+    },
+    {
+      "id": "kostja-404",
+      "reason": "name \"404-page-generator\" deve casar com pasta \"kostja-404\""
+    },
+    {
+      "id": "kostja-careers",
+      "reason": "name \"careers-page-generator\" deve casar com pasta \"kostja-careers\""
+    },
+    {
+      "id": "kostja-changelog",
+      "reason": "name \"changelog-page-generator\" deve casar com pasta \"kostja-changelog\""
+    },
+    {
+      "id": "kostja-disclosure",
+      "reason": "name \"disclosure-page-generator\" deve casar com pasta \"kostja-disclosure\""
+    },
+    {
+      "id": "kostja-feedback",
+      "reason": "name \"feedback-page-generator\" deve casar com pasta \"kostja-feedback\""
+    },
+    {
+      "id": "kostja-signup-login",
+      "reason": "name \"signup-login-page-generator\" deve casar com pasta \"kostja-signup-login\""
+    },
+    {
+      "id": "kostja-status",
+      "reason": "name \"status-page-generator\" deve casar com pasta \"kostja-status\""
+    },
+    {
+      "id": "kostja-description",
+      "reason": "name \"meta-description\" deve casar com pasta \"kostja-description\""
+    },
+    {
+      "id": "kostja-heading",
+      "reason": "name \"heading-structure\" deve casar com pasta \"kostja-heading\""
+    },
+    {
+      "id": "kostja-metadata",
+      "reason": "name \"page-metadata\" deve casar com pasta \"kostja-metadata\""
+    },
+    {
+      "id": "kostja-title",
+      "reason": "name \"title-tag\" deve casar com pasta \"kostja-title\""
+    },
+    {
+      "id": "kostja-canonical",
+      "reason": "name \"canonical-tag\" deve casar com pasta \"kostja-canonical\""
+    },
+    {
+      "id": "kostja-localization",
+      "reason": "name \"localization-strategy\" deve casar com pasta \"kostja-localization\""
     }
   ],
   "held": []

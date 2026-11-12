@@ -1,0 +1,6 @@
+{
+  "updatedAt": null,
+  "policyVersion": 1,
+  "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
+  "sources": []
+}

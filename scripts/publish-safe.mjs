@@ -100,9 +100,14 @@ for (const cand of candidates) {
   }
 
   try {
-    let md = await fetchText(cand.rawUrl, {
-      userAgent: policy.crawler.userAgent,
-    });
+    let md;
+    if (cand.localPath && existsSync(cand.localPath)) {
+      md = readFileSync(cand.localPath, "utf8");
+    } else {
+      md = await fetchText(cand.rawUrl, {
+        userAgent: policy.crawler.userAgent,
+      });
+    }
     md = ensureLicenseFrontmatter(md, cand.license || "Apache-2.0");
 
     const dest = path.join(root, "skills", "community", id);

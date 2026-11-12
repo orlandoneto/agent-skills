@@ -27,11 +27,20 @@
     "rejectIfSameFingerprintExists": true
   },
   "crawler": {
-    "maxCandidatesPerDay": 80,
-    "maxAutoPromotePerDay": 30,
-    "maxPublishedCommunity": 200,
+    "maxCandidatesPerDay": 400,
+    "maxAutoPromotePerDay": 250,
+    "maxPublishedCommunity": 600,
     "scheduleTimezone": "America/Sao_Paulo",
     "userAgent": "OntoomSkillCrawler/1.0 (+https://www.ontoom.com.br/skills; respect robots; 1x/day)",
+    "discovery": {
+      "enabled": true,
+      "ownRepo": "orlandoneto/agent-skills",
+      "maxNewReposPerDay": 8,
+      "maxPagesPerQueryPerDay": 2,
+      "maxPagesTotalPerQuery": 10,
+      "recheckDays": 7,
+      "note": "GitHub Search only → staging/discovery-state.json + dynamic-sources.json. Google/SERP proibido. Postgres/Redis = futuro."
+    },
     "sourcesAllowlist": [
       {
         "id": "addyosmani-agent-skills",
@@ -74,6 +83,81 @@
         "enabled": true
       },
       {
+        "id": "coreyhaines-marketingskills",
+        "type": "github-repo-skills",
+        "repo": "coreyhaines31/marketingskills",
+        "path": "skills",
+        "defaultLicense": "MIT",
+        "idNamespace": "ms",
+        "nested": false,
+        "enabled": true
+      },
+      {
+        "id": "agricidaniel-claude-seo",
+        "type": "github-repo-skills",
+        "repo": "AgriciDaniel/claude-seo",
+        "path": "skills",
+        "defaultLicense": "MIT",
+        "idNamespace": "claude-seo",
+        "nested": false,
+        "enabled": true
+      },
+      {
+        "id": "kostja94-marketing-skills",
+        "type": "github-repo-skills",
+        "repo": "kostja94/marketing-skills",
+        "path": "skills",
+        "defaultLicense": "MIT",
+        "idNamespace": "kostja",
+        "nested": true,
+        "maxDepth": 4,
+        "enabled": true
+      },
+      {
+        "id": "aaron-seo-geo",
+        "type": "github-repo-skills",
+        "repo": "aaron-he-zhu/aaron-marketing-skills",
+        "path": "seo-geo",
+        "defaultLicense": "Apache-2.0",
+        "idNamespace": "aaron-seo",
+        "nested": true,
+        "maxDepth": 4,
+        "enabled": true
+      },
+      {
+        "id": "aaron-narrative",
+        "type": "github-repo-skills",
+        "repo": "aaron-he-zhu/aaron-marketing-skills",
+        "path": "narrative",
+        "defaultLicense": "Apache-2.0",
+        "idNamespace": "aaron-tale",
+        "nested": true,
+        "maxDepth": 4,
+        "enabled": true
+      },
+      {
+        "id": "aaron-social",
+        "type": "github-repo-skills",
+        "repo": "aaron-he-zhu/aaron-marketing-skills",
+        "path": "social",
+        "defaultLicense": "Apache-2.0",
+        "idNamespace": "aaron-echo",
+        "nested": true,
+        "maxDepth": 4,
+        "enabled": true
+      },
+      {
+        "id": "aaron-email",
+        "type": "github-repo-skills",
+        "repo": "aaron-he-zhu/aaron-marketing-skills",
+        "path": "email",
+        "defaultLicense": "Apache-2.0",
+        "idNamespace": "aaron-send",
+        "nested": true,
+        "maxDepth": 4,
+        "enabled": true
+      },
+      {
         "id": "manual-seed",
         "type": "local-manifest",
         "path": "staging/seed-sources.json",
@@ -82,7 +166,8 @@
     ],
     "forbiddenBehaviors": [
       "mirror-entire-awesome-list",
-      "scrape-without-allowlist",
+      "scrape-google-or-web-serp",
+      "publish-from-discovery-without-gates",
       "more-than-one-full-pass-per-day-per-source",
       "publish-without-license-gate",
       "publish-skills-with-scripts-automatically"
