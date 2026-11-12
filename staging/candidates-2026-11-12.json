@@ -1,0 +1,657 @@
+{
+  "date": "2026-11-12",
+  "policyVersion": 1,
+  "maxCandidatesPerDay": 80,
+  "note": "Candidatos para publish-safe (Action diária). Scripts/licença ruim → rejected. Ver docs/QUALITY_GATES.md",
+  "candidates": [
+    {
+      "id": "doc-coauthoring",
+      "name": "doc-coauthoring",
+      "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+      "license": "Apache-2.0",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/doc-coauthoring/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "fingerprint": "doc-coauthoring::cdc0afd5dccbe073",
+      "score": 100,
+      "hasScriptsHint": false,
+      "requiresManualReview": false,
+      "status": "staging",
+      "fetchedAt": "2026-11-12T01:47:47.922Z"
+    }
+  ],
+  "rejected": [
+    {
+      "id": "api-and-interface-design",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/api-and-interface-design",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/api-and-interface-design/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"api-and-interface-design\"}"
+    },
+    {
+      "id": "browser-testing-with-devtools",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/browser-testing-with-devtools",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/browser-testing-with-devtools/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"browser-testing-with-devtools\"}"
+    },
+    {
+      "id": "ci-cd-and-automation",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/ci-cd-and-automation",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/ci-cd-and-automation/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"ci-cd-and-automation\"}"
+    },
+    {
+      "id": "code-review-and-quality",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/code-review-and-quality",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/code-review-and-quality/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"code-review-and-quality\"}"
+    },
+    {
+      "id": "code-simplification",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/code-simplification",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/code-simplification/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"code-simplification\"}"
+    },
+    {
+      "id": "constraint-driven-development",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/constraint-driven-development",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/constraint-driven-development/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "context-engineering",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/context-engineering",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/context-engineering/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"context-engineering\"}"
+    },
+    {
+      "id": "debugging-and-error-recovery",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/debugging-and-error-recovery",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/debugging-and-error-recovery/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"debugging-and-error-recovery\"}"
+    },
+    {
+      "id": "deprecation-and-migration",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/deprecation-and-migration",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/deprecation-and-migration/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"deprecation-and-migration\"}"
+    },
+    {
+      "id": "documentation-and-adrs",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/documentation-and-adrs",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/documentation-and-adrs/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"documentation-and-adrs\"}"
+    },
+    {
+      "id": "doubt-driven-development",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/doubt-driven-development",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/doubt-driven-development/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"doubt-driven-development\"}"
+    },
+    {
+      "id": "frontend-ui-engineering",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/frontend-ui-engineering",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/frontend-ui-engineering/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"frontend-ui-engineering\"}"
+    },
+    {
+      "id": "git-workflow-and-versioning",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/git-workflow-and-versioning",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/git-workflow-and-versioning/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"git-workflow-and-versioning\"}"
+    },
+    {
+      "id": "idea-refine",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/idea-refine",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/idea-refine/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "incremental-implementation",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/incremental-implementation",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/incremental-implementation/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"incremental-implementation\"}"
+    },
+    {
+      "id": "interview-me",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/interview-me",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/interview-me/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"interview-me\"}"
+    },
+    {
+      "id": "observability-and-instrumentation",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/observability-and-instrumentation",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/observability-and-instrumentation/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"observability-and-instrumentation\"}"
+    },
+    {
+      "id": "performance-optimization",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/performance-optimization",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/performance-optimization/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"performance-optimization\"}"
+    },
+    {
+      "id": "planning-and-task-breakdown",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/planning-and-task-breakdown",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/planning-and-task-breakdown/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"planning-and-task-breakdown\"}"
+    },
+    {
+      "id": "security-and-hardening",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/security-and-hardening",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/security-and-hardening/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"security-and-hardening\"}"
+    },
+    {
+      "id": "shipping-and-launch",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/shipping-and-launch",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/shipping-and-launch/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"shipping-and-launch\"}"
+    },
+    {
+      "id": "source-driven-development",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/source-driven-development",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/source-driven-development/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"source-driven-development\"}"
+    },
+    {
+      "id": "spec-driven-development",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/spec-driven-development",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/spec-driven-development/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"spec-driven-development\"}"
+    },
+    {
+      "id": "test-driven-development",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/test-driven-development",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/test-driven-development/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"test-driven-development\"}"
+    },
+    {
+      "id": "using-agent-skills",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills/tree/main/skills/using-agent-skills",
+      "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/HEAD/skills/using-agent-skills/SKILL.md",
+      "sourceId": "addyosmani-agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"using-agent-skills\"}"
+    },
+    {
+      "id": "academy-guide",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/academy-guide",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/academy-guide/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"academy-guide\"}"
+    },
+    {
+      "id": "algorithmic-art",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/algorithmic-art/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"algorithmic-art\"}"
+    },
+    {
+      "id": "brand-guidelines",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/brand-guidelines/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"brand-guidelines\"}"
+    },
+    {
+      "id": "canvas-design",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/canvas-design",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/canvas-design/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"canvas-design\"}"
+    },
+    {
+      "id": "claude-api",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/claude-api",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/claude-api/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"claude-api\"}"
+    },
+    {
+      "id": "discernment-nudge",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/discernment-nudge",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/discernment-nudge/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"discernment-nudge\"}"
+    },
+    {
+      "id": "docx",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/docx",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/docx/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "frontend-design",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/frontend-design/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"frontend-design\"}"
+    },
+    {
+      "id": "internal-comms",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/internal-comms",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/internal-comms/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"internal-comms\"}"
+    },
+    {
+      "id": "mcp-builder",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/mcp-builder/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "pdf",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/pdf",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/pdf/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "pptx",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/pptx",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/pptx/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "skill-creator",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/skill-creator/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "slack-gif-creator",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/slack-gif-creator/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"slack-gif-creator\"}"
+    },
+    {
+      "id": "theme-factory",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/theme-factory",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/theme-factory/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"theme-factory\"}"
+    },
+    {
+      "id": "web-artifacts-builder",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/web-artifacts-builder/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "webapp-testing",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/webapp-testing/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "xlsx",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/xlsx",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/xlsx/SKILL.md",
+      "sourceId": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "composition-patterns",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns",
+      "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/HEAD/skills/composition-patterns/SKILL.md",
+      "sourceId": "vercel-labs-agent-skills",
+      "repo": "vercel-labs/agent-skills",
+      "reason": "description curta / ausente (anti-lixo)"
+    },
+    {
+      "id": "deploy-to-vercel",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills/tree/main/skills/deploy-to-vercel",
+      "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/HEAD/skills/deploy-to-vercel/SKILL.md",
+      "sourceId": "vercel-labs-agent-skills",
+      "repo": "vercel-labs/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"deploy-to-vercel\"}"
+    },
+    {
+      "id": "react-best-practices",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices",
+      "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/HEAD/skills/react-best-practices/SKILL.md",
+      "sourceId": "vercel-labs-agent-skills",
+      "repo": "vercel-labs/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"vercel-react-best-practices\"}"
+    },
+    {
+      "id": "react-native-skills",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-native-skills",
+      "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/HEAD/skills/react-native-skills/SKILL.md",
+      "sourceId": "vercel-labs-agent-skills",
+      "repo": "vercel-labs/agent-skills",
+      "reason": "description curta / ausente (anti-lixo)"
+    },
+    {
+      "id": "react-view-transitions",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills/tree/main/skills/react-view-transitions",
+      "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/HEAD/skills/react-view-transitions/SKILL.md",
+      "sourceId": "vercel-labs-agent-skills",
+      "repo": "vercel-labs/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"vercel-react-view-transitions\"}"
+    },
+    {
+      "id": "vercel-cli-with-tokens",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills/tree/main/skills/vercel-cli-with-tokens",
+      "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/HEAD/skills/vercel-cli-with-tokens/SKILL.md",
+      "sourceId": "vercel-labs-agent-skills",
+      "repo": "vercel-labs/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"vercel-cli-with-tokens\"}"
+    },
+    {
+      "id": "vercel-optimize",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills/tree/main/skills/vercel-optimize",
+      "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/HEAD/skills/vercel-optimize/SKILL.md",
+      "sourceId": "vercel-labs-agent-skills",
+      "repo": "vercel-labs/agent-skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "web-design-guidelines",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines",
+      "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/HEAD/skills/web-design-guidelines/SKILL.md",
+      "sourceId": "vercel-labs-agent-skills",
+      "repo": "vercel-labs/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"web-design-guidelines\"}"
+    },
+    {
+      "id": "writing-guidelines",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills/tree/main/skills/writing-guidelines",
+      "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/HEAD/skills/writing-guidelines/SKILL.md",
+      "sourceId": "vercel-labs-agent-skills",
+      "repo": "vercel-labs/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"writing-guidelines\"}"
+    },
+    {
+      "id": "agent-skill-creator",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/agent-skill-creator",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/agent-skill-creator/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"agent-skill-creator\"}"
+    },
+    {
+      "id": "content-repurposing",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/content-repurposing",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/content-repurposing/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"content-repurposing\"}"
+    },
+    {
+      "id": "dapp-architect",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/dapp-architect",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/dapp-architect/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"dapp-architect\"}"
+    },
+    {
+      "id": "email-drafting",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/email-drafting",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/email-drafting/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"email-drafting\"}"
+    },
+    {
+      "id": "evm-contract-scaffold",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/evm-contract-scaffold",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/evm-contract-scaffold/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"evm-contract-scaffold\"}"
+    },
+    {
+      "id": "git-workflow-recipes",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/git-workflow-recipes",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/git-workflow-recipes/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"git-workflow-recipes\"}"
+    },
+    {
+      "id": "hardhat-etherscan-verification",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/hardhat-etherscan-verification",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/hardhat-etherscan-verification/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"hardhat-etherscan-verification\"}"
+    },
+    {
+      "id": "meeting-notes-structure",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/meeting-notes-structure",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/meeting-notes-structure/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"meeting-notes-structure\"}"
+    },
+    {
+      "id": "ngrx-feature-scaffold",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/ngrx-feature-scaffold",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/ngrx-feature-scaffold/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"ngrx-feature-scaffold\"}"
+    },
+    {
+      "id": "prompt-engineering-patterns",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/prompt-engineering-patterns",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/prompt-engineering-patterns/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"prompt-engineering-patterns\"}"
+    },
+    {
+      "id": "regex-cookbook",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/regex-cookbook",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/regex-cookbook/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"regex-cookbook\"}"
+    },
+    {
+      "id": "reown-appkit-web3",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/reown-appkit-web3",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/reown-appkit-web3/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"reown-appkit-web3\"}"
+    },
+    {
+      "id": "research-brief-structure",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/research-brief-structure",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/research-brief-structure/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"research-brief-structure\"}"
+    },
+    {
+      "id": "resume-tailor",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/resume-tailor",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/resume-tailor/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"resume-tailor\"}"
+    },
+    {
+      "id": "solana-program-scaffold",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/solana-program-scaffold",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/solana-program-scaffold/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"solana-program-scaffold\"}"
+    },
+    {
+      "id": "stripe-subscription-lifecycle",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/stripe-subscription-lifecycle",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/stripe-subscription-lifecycle/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"stripe-subscription-lifecycle\"}"
+    },
+    {
+      "id": "technical-seo-checklist",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/technical-seo-checklist",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/technical-seo-checklist/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"technical-seo-checklist\"}"
+    },
+    {
+      "id": "wagmi-contract-interaction",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/wagmi-contract-interaction",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/wagmi-contract-interaction/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"wagmi-contract-interaction\"}"
+    },
+    {
+      "id": "writing-style-editor",
+      "sourceUrl": "https://github.com/Solonnikov/agent-skills/tree/main/skills/writing-style-editor",
+      "rawUrl": "https://raw.githubusercontent.com/Solonnikov/agent-skills/HEAD/skills/writing-style-editor/SKILL.md",
+      "sourceId": "solonnikov-agent-skills",
+      "repo": "Solonnikov/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"writing-style-editor\"}"
+    },
+    {
+      "id": "analyze-experiment",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/analyze-experiment",
+      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/analyze-experiment/SKILL.md",
+      "sourceId": "promptingcompany-agent-skills",
+      "repo": "promptingcompany/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"analyze-experiment\"}"
+    },
+    {
+      "id": "exa-cao-metric",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/exa-cao-metric",
+      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/exa-cao-metric/SKILL.md",
+      "sourceId": "promptingcompany-agent-skills",
+      "repo": "promptingcompany/agent-skills",
+      "reason": "pasta scripts/ → só review manual (não auto-staging)"
+    },
+    {
+      "id": "generative-engine-optimization",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/generative-engine-optimization",
+      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/generative-engine-optimization/SKILL.md",
+      "sourceId": "promptingcompany-agent-skills",
+      "repo": "promptingcompany/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"generative-engine-optimization\"}"
+    },
+    {
+      "id": "prompting-company",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/prompting-company",
+      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/prompting-company/SKILL.md",
+      "sourceId": "promptingcompany-agent-skills",
+      "repo": "promptingcompany/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"prompting-company\"}"
+    },
+    {
+      "id": "setup-benchmark",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/setup-benchmark",
+      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/setup-benchmark/SKILL.md",
+      "sourceId": "promptingcompany-agent-skills",
+      "repo": "promptingcompany/agent-skills",
+      "reason": "description curta / ausente (anti-lixo)"
+    },
+    {
+      "id": "setup-experiment",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/setup-experiment",
+      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/setup-experiment/SKILL.md",
+      "sourceId": "promptingcompany-agent-skills",
+      "repo": "promptingcompany/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"setup-experiment\"}"
+    },
+    {
+      "id": "signal-config",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/signal-config",
+      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/signal-config/SKILL.md",
+      "sourceId": "promptingcompany-agent-skills",
+      "repo": "promptingcompany/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"signal-config\"}"
+    },
+    {
+      "id": "skills-admin",
+      "sourceUrl": "https://github.com/promptingcompany/agent-skills/tree/main/skills/skills-admin",
+      "rawUrl": "https://raw.githubusercontent.com/promptingcompany/agent-skills/HEAD/skills/skills-admin/SKILL.md",
+      "sourceId": "promptingcompany-agent-skills",
+      "repo": "promptingcompany/agent-skills",
+      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"skills-admin\"}"
+    }
+  ]
+}
