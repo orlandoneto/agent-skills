@@ -15,7 +15,7 @@ fontes = policy.sourcesAllowlist ∪ dynamic-sources
   → Ontoom /skills lê catalog.json → botão Baixar funciona
 ```
 
-SAFE auto-publish (`maxAutoPromotePerDay`, default **30**):
+SAFE auto-publish (`maxAutoPromotePerDay`, default **250** em policy):
 
 - licença na allowlist (MIT/Apache/…)
 - **sem** pasta `scripts/`
@@ -87,9 +87,9 @@ Prova visual: Actions verde + `at` recente em `staging/last-crawl.json` + resumo
 2. **`staging/dynamic-sources.json`** (descobertas via GitHub Search)  
 3. **`staging/seed-sources.json`** (seed manual de skills unitárias)
 
-Fontes estáticas atuais: Anthropic, Addy Osmani, Vercel Labs, Solonnikov, Prompting Company, **coreyhaines31/marketingskills**, **AgriciDaniel/claude-seo**, **kostja94/marketing-skills**, **aaron-he-zhu/aaron-marketing-skills** (seo-geo/narrative/social/email) (+ seed local).
+Fontes estáticas atuais: Anthropic, Addy Osmani, Vercel Labs, Solonnikov, Prompting Company, packs marketing (coreyhaines / AgriciDaniel / kostja94 / aaron), **notque/vexjoy-agent**, **davila7/claude-code-templates** (business-marketing + development), **ckorhonen/claude-skills** (+ seed local).
 
-Import em massa (clone git, sem Contents API): `npm run import:marketing`.
+Import em massa (clone git, sem Contents API): `npm run import:marketing` (só novos; `IMPORT_ALL=1` reimporta packs).
 
 ## Custo
 

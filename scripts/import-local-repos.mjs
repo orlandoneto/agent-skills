@@ -34,7 +34,37 @@ mkdirSync(tmpRoot, { recursive: true });
 const day = new Date().toISOString().slice(0, 10);
 const existingFp = collectFingerprints(root, policy);
 
-const REPOS = [
+/** Só estes por padrão; IMPORT_ALL=1 inclui o pacote marketing já importado. */
+const REPOS_NEW = [
+  {
+    id: "notque-vexjoy-agent",
+    repo: "notque/vexjoy-agent",
+    idNamespace: "notque",
+    defaultLicense: "MIT",
+    // content = blog/SEO-ish; business + research também úteis
+    sparse: ["skills/content", "skills/business", "skills/research"],
+  },
+  {
+    id: "davila7-claude-code-templates",
+    repo: "davila7/claude-code-templates",
+    idNamespace: "aitmpl",
+    defaultLicense: "MIT",
+    // Só marketing/SEO do registry (não o monorepo inteiro)
+    sparse: [
+      "cli-tool/components/skills/business-marketing",
+      "cli-tool/components/skills/development",
+    ],
+  },
+  {
+    id: "ckorhonen-claude-skills",
+    repo: "ckorhonen/claude-skills",
+    idNamespace: "ck",
+    defaultLicense: "MIT",
+    sparse: ["skills"],
+  },
+];
+
+const REPOS_MARKETING = [
   {
     id: "coreyhaines-marketingskills",
     repo: "coreyhaines31/marketingskills",
@@ -64,6 +94,11 @@ const REPOS = [
     sparse: ["seo-geo", "narrative", "social", "email"],
   },
 ];
+
+const REPOS =
+  process.env.IMPORT_ALL === "1"
+    ? [...REPOS_MARKETING, ...REPOS_NEW]
+    : REPOS_NEW;
 
 const SKIP = new Set([
   "scripts",

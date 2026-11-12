@@ -158,6 +158,39 @@
         "enabled": true
       },
       {
+        "id": "notque-vexjoy-agent",
+        "type": "github-repo-skills",
+        "repo": "notque/vexjoy-agent",
+        "path": "skills",
+        "defaultLicense": "MIT",
+        "idNamespace": "notque",
+        "nested": true,
+        "maxDepth": 5,
+        "enabled": true
+      },
+      {
+        "id": "davila7-claude-code-templates",
+        "type": "github-repo-skills",
+        "repo": "davila7/claude-code-templates",
+        "path": "cli-tool/components/skills",
+        "defaultLicense": "MIT",
+        "idNamespace": "aitmpl",
+        "nested": true,
+        "maxDepth": 6,
+        "enabled": true
+      },
+      {
+        "id": "ckorhonen-claude-skills",
+        "type": "github-repo-skills",
+        "repo": "ckorhonen/claude-skills",
+        "path": "skills",
+        "defaultLicense": "MIT",
+        "idNamespace": "ck",
+        "nested": true,
+        "maxDepth": 4,
+        "enabled": true
+      },
+      {
         "id": "manual-seed",
         "type": "local-manifest",
         "path": "staging/seed-sources.json",
