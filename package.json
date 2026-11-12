@@ -1,6 +1,6 @@
 {
   "name": "ontoom-agent-skills",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "private": true,
   "description": "Catálogo curado de Agent Skills (Ontoom) — ZIP unitário + gates + crawl publish-safe",
   "type": "module",

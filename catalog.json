@@ -16124,6 +16124,370 @@
       "sourceStars": 2
     },
     {
+      "id": "ai-overview-snippet-matcher",
+      "name": "ai-overview-snippet-matcher",
+      "description": "Adapt content to fill gaps in AI-generated overview style answers. Use when the user asks for ai overview snippet matcher, seo, geo, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/ai-overview-snippet-matcher",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/ai-overview-snippet-matcher",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/ai-overview-snippet-matcher.zip",
+      "fingerprint": "ai-overview-snippet-matcher::503b542a745767ec",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "alt-text-accessibility-gen",
+      "name": "alt-text-accessibility-gen",
+      "description": "Generate descriptive, SEO-aware alt text for article and ecommerce images. Use when the user asks for alt text accessibility gen, seo, accessibility, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/alt-text-accessibility-gen",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/alt-text-accessibility-gen",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/alt-text-accessibility-gen.zip",
+      "fingerprint": "alt-text-accessibility-gen::cf220d72546f03a3",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "anchor-text-balancer",
+      "name": "anchor-text-balancer",
+      "description": "Analyze exact/partial/branded/generic anchors and warn about over-optimization. Use when the user asks for anchor text balancer, seo, risk, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/anchor-text-balancer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/anchor-text-balancer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/anchor-text-balancer.zip",
+      "fingerprint": "anchor-text-balancer::b887e414cd54fe30",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "anchor-text-internal-auditor",
+      "name": "anchor-text-internal-auditor",
+      "description": "Ensure internal anchors are descriptive instead of 'click here'. Use when the user asks for anchor text internal auditor, seo, architecture, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/anchor-text-internal-auditor",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/anchor-text-internal-auditor",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/anchor-text-internal-auditor.zip",
+      "fingerprint": "anchor-text-internal-auditor::3c4cf45039afa097",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "author-eeat-bio-writer",
+      "name": "author-eeat-bio-writer",
+      "description": "Write author bios highlighting credentials and official profiles for E-E-A-T. Use when the user asks for author eeat bio writer, seo, eeat, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/author-eeat-bio-writer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/author-eeat-bio-writer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/author-eeat-bio-writer.zip",
+      "fingerprint": "author-eeat-bio-writer::ab49eba3ee8ea8a4",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "bofu-keyword-extractor",
+      "name": "bofu-keyword-extractor",
+      "description": "Filter bottom-of-funnel terms (comparisons, best X, alternatives) with conversion intent. Use when the user asks for bofu keyword extractor, seo, keywords, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/bofu-keyword-extractor",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/bofu-keyword-extractor",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/bofu-keyword-extractor.zip",
+      "fingerprint": "bofu-keyword-extractor::6a95d0d9e7533839",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "brand-entity-builder",
+      "name": "brand-entity-builder",
+      "description": "Create consistent brand/founder copy to strengthen Knowledge Graph signals. Use when the user asks for brand entity builder, seo, geo, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/brand-entity-builder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/brand-entity-builder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/brand-entity-builder.zip",
+      "fingerprint": "brand-entity-builder::5cf9fe007e2304e4",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "breadcrumb-schema-generator",
+      "name": "breadcrumb-schema-generator",
+      "description": "Create logical breadcrumb paths and JSON-LD BreadcrumbList markup. Use when the user asks for breadcrumb schema generator, seo, schema, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/breadcrumb-schema-generator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/breadcrumb-schema-generator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/breadcrumb-schema-generator.zip",
+      "fingerprint": "breadcrumb-schema-generator::83800c78341233fe",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "broken-link-finder",
+      "name": "broken-link-finder",
+      "description": "Find broken links on niche sites and propose the user's content as a replacement. Use when the user asks for broken link finder, seo, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/broken-link-finder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/broken-link-finder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/broken-link-finder.zip",
+      "fingerprint": "broken-link-finder::dc821c74475fbbf6",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "cannibalization-resolver",
+      "name": "cannibalization-resolver",
+      "description": "Detect pages competing for the same term and recommend merge or redirect. Use when the user asks for cannibalization resolver, seo, on-page, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/cannibalization-resolver",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/cannibalization-resolver",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/cannibalization-resolver.zip",
+      "fingerprint": "cannibalization-resolver::b0819d50ddcab8b4",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "canonical-tag-checker",
+      "name": "canonical-tag-checker",
+      "description": "Find duplicate-content risks from parameters, filters, or pagination. Use when the user asks for canonical tag checker, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/canonical-tag-checker",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/canonical-tag-checker",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/canonical-tag-checker.zip",
+      "fingerprint": "canonical-tag-checker::3b2691c859c4ac3e",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "co-occurrence-brand-builder",
+      "name": "co-occurrence-brand-builder",
+      "description": "Identify brands/keywords the business should co-occur with online. Use when the user asks for co occurrence brand builder, seo, geo, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/co-occurrence-brand-builder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/co-occurrence-brand-builder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/co-occurrence-brand-builder.zip",
+      "fingerprint": "co-occurrence-brand-builder::faad200d5145b662",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "cold-outreach-personalizer",
+      "name": "cold-outreach-personalizer",
+      "description": "Read a prospect's recent posts and write a highly personalized outreach email. Use when the user asks for cold outreach personalizer, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/cold-outreach-personalizer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/cold-outreach-personalizer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/cold-outreach-personalizer.zip",
+      "fingerprint": "cold-outreach-personalizer::5185da70ef7847f1",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
       "id": "commit-conventional",
       "name": "commit-conventional",
       "description": "Writes Conventional Commits (feat, fix, docs, chore) with a clear why. Use when the user asks for a commit message, git commit text, or to summarize a diff.",
@@ -16152,6 +16516,2050 @@
       "addedAt": "2026-11-11",
       "updatedAt": "2026-11-12",
       "sourceStars": 0
+    },
+    {
+      "id": "competitor-link-intersect",
+      "name": "competitor-link-intersect",
+      "description": "Find sites linking to multiple competitors but not the user. Use when the user asks for competitor link intersect, seo, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/competitor-link-intersect",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/competitor-link-intersect",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/competitor-link-intersect.zip",
+      "fingerprint": "competitor-link-intersect::872e744c52aac031",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "competitor-spiking-alert",
+      "name": "competitor-spiking-alert",
+      "description": "Explain a sudden competitor link spike and extract replicable tactics. Use when the user asks for competitor spiking alert, seo, competitive, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/competitor-spiking-alert",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/competitor-spiking-alert",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/competitor-spiking-alert.zip",
+      "fingerprint": "competitor-spiking-alert::4029b00221c1861f",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "consensus-claim-verifier",
+      "name": "consensus-claim-verifier",
+      "description": "Ensure technical claims align with scientific or market consensus. Use when the user asks for consensus claim verifier, content, eeat, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/consensus-claim-verifier",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/consensus-claim-verifier",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/consensus-claim-verifier.zip",
+      "fingerprint": "consensus-claim-verifier::b5b30feab592e592",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "content-decay-reviver",
+      "name": "content-decay-reviver",
+      "description": "Revive aging posts that lost traffic with an update roadmap. Use when the user asks for content decay reviver, seo, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/content-decay-reviver",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/content-decay-reviver",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/content-decay-reviver.zip",
+      "fingerprint": "content-decay-reviver::73ba8fcaafae10a5",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "content-gap-matrix",
+      "name": "content-gap-matrix",
+      "description": "Compare competitor Top-10 keywords against the user's site coverage. Use when the user asks for content gap matrix, seo, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/content-gap-matrix",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/content-gap-matrix",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/content-gap-matrix.zip",
+      "fingerprint": "content-gap-matrix::9f44f9538e0fa4e4",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "core-web-vitals-diagnoser",
+      "name": "core-web-vitals-diagnoser",
+      "description": "Translate PageSpeed/CWV issues into practical engineering tasks. Use when the user asks for core web vitals diagnoser, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/core-web-vitals-diagnoser",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/core-web-vitals-diagnoser",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/core-web-vitals-diagnoser.zip",
+      "fingerprint": "core-web-vitals-diagnoser::d5d8625a8f04d96c",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "crawl-depth-reducer",
+      "name": "crawl-depth-reducer",
+      "description": "Find important pages more than ~3 clicks from home and suggest shortcuts. Use when the user asks for crawl depth reducer, seo, architecture, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/crawl-depth-reducer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/crawl-depth-reducer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/crawl-depth-reducer.zip",
+      "fingerprint": "crawl-depth-reducer::603583db985445e5",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "digital-pr-angle-creator",
+      "name": "digital-pr-angle-creator",
+      "description": "Turn internal data into newsworthy angles that attract editorial links. Use when the user asks for digital pr angle creator, pr, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/digital-pr-angle-creator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/digital-pr-angle-creator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/digital-pr-angle-creator.zip",
+      "fingerprint": "digital-pr-angle-creator::ca8c015cbc0f3978",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "disavow-file-generator",
+      "name": "disavow-file-generator",
+      "description": "From a backlink spreadsheet, flag toxic domains and format a Google disavow .txt. Use when the user asks for disavow file generator, seo, risk, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/disavow-file-generator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/disavow-file-generator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/disavow-file-generator.zip",
+      "fingerprint": "disavow-file-generator::2e7c104fa46dcd21",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "editor-persona-analyzer",
+      "name": "editor-persona-analyzer",
+      "description": "Match guest-post pitch tone to a publisher's editorial voice. Use when the user asks for editor persona analyzer, outreach, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/editor-persona-analyzer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/editor-persona-analyzer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/editor-persona-analyzer.zip",
+      "fingerprint": "editor-persona-analyzer::41b69f3d0b5b0ca7",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "edu-gov-link-finder",
+      "name": "edu-gov-link-finder",
+      "description": "Identify .edu/.gov partnership, scholarship, or resource link opportunities. Use when the user asks for edu gov link finder, seo, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/edu-gov-link-finder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/edu-gov-link-finder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/edu-gov-link-finder.zip",
+      "fingerprint": "edu-gov-link-finder::6f9a1618ae7db9ae",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "fact-density-enhancer",
+      "name": "fact-density-enhancer",
+      "description": "Increase concrete numbers and verifiable citations in opinionated articles. Use when the user asks for fact density enhancer, content, geo, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/fact-density-enhancer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/fact-density-enhancer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/fact-density-enhancer.zip",
+      "fingerprint": "fact-density-enhancer::ae9471a6a97b3411",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "featured-snippet-formatter",
+      "name": "featured-snippet-formatter",
+      "description": "Rewrite key paragraphs into definition/list/table formats for position-zero potential. Use when the user asks for featured snippet formatter, seo, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/featured-snippet-formatter",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/featured-snippet-formatter",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/featured-snippet-formatter.zip",
+      "fingerprint": "featured-snippet-formatter::974aa9bf9657d501",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "follow-up-sequence-writer",
+      "name": "follow-up-sequence-writer",
+      "description": "Create a polite 3-email follow-up cadence for non-responders. Use when the user asks for follow up sequence writer, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/follow-up-sequence-writer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/follow-up-sequence-writer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/follow-up-sequence-writer.zip",
+      "fingerprint": "follow-up-sequence-writer::3416f484f31d1120",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "footer-nav-link-optimizer",
+      "name": "footer-nav-link-optimizer",
+      "description": "Audit header/footer links to distribute internal PageRank more effectively. Use when the user asks for footer nav link optimizer, seo, architecture, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/footer-nav-link-optimizer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/footer-nav-link-optimizer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/footer-nav-link-optimizer.zip",
+      "fingerprint": "footer-nav-link-optimizer::21ae371694f8c0cc",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "gbp-description-optimizer",
+      "name": "gbp-description-optimizer",
+      "description": "Write optimized Google Business Profile descriptions with local service keywords. Use when the user asks for gbp description optimizer, seo, local, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/gbp-description-optimizer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/gbp-description-optimizer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/gbp-description-optimizer.zip",
+      "fingerprint": "gbp-description-optimizer::dcaf5028f7d435b5",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "gbp-post-calendar",
+      "name": "gbp-post-calendar",
+      "description": "Create a monthly GBP posts/offers calendar to keep the local profile active. Use when the user asks for gbp post calendar, local, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/gbp-post-calendar",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/gbp-post-calendar",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/gbp-post-calendar.zip",
+      "fingerprint": "gbp-post-calendar::24f9707d189d94be",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "google-sheets-seo-formula-gen",
+      "name": "google-sheets-seo-formula-gen",
+      "description": "Create QUERY/IMPORTXML/REGEXEXTRACT formulas for SEO spreadsheets. Use when the user asks for google sheets seo formula gen, analytics, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/google-sheets-seo-formula-gen",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/google-sheets-seo-formula-gen",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/google-sheets-seo-formula-gen.zip",
+      "fingerprint": "google-sheets-seo-formula-gen::9b7d54b6cc627550",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "haro-connectively-responder",
+      "name": "haro-connectively-responder",
+      "description": "Draft short, citable answers to journalist queries based on the user's expertise. Use when the user asks for haro connectively responder, seo, pr, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/haro-connectively-responder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/haro-connectively-responder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/haro-connectively-responder.zip",
+      "fingerprint": "haro-connectively-responder::6b263c8f6478941b",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "heading-hierarchy-auditor",
+      "name": "heading-hierarchy-auditor",
+      "description": "Audit H1–H4 structure for scanability and semantic logic. Use when the user asks for heading hierarchy auditor, seo, on-page, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/heading-hierarchy-auditor",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/heading-hierarchy-auditor",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/heading-hierarchy-auditor.zip",
+      "fingerprint": "heading-hierarchy-auditor::b14d22207453b65f",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "hreflang-tag-builder",
+      "name": "hreflang-tag-builder",
+      "description": "Generate correct hreflang annotations for multi-language/region sites. Use when the user asks for hreflang tag builder, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/hreflang-tag-builder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/hreflang-tag-builder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/hreflang-tag-builder.zip",
+      "fingerprint": "hreflang-tag-builder::54136090b901829d",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "http-status-code-triage",
+      "name": "http-status-code-triage",
+      "description": "Prioritize 4xx/5xx lists from crawlers like Screaming Frog. Use when the user asks for http status code triage, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/http-status-code-triage",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/http-status-code-triage",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/http-status-code-triage.zip",
+      "fingerprint": "http-status-code-triage::0c4c2678ac8ccfce",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "hub-page-creator",
+      "name": "hub-page-creator",
+      "description": "Structure hub/index pages that group the best content in a category. Use when the user asks for hub page creator, seo, architecture, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/hub-page-creator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/hub-page-creator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/hub-page-creator.zip",
+      "fingerprint": "hub-page-creator::e674c53252df3afe",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "image-reclamation-bot",
+      "name": "image-reclamation-bot",
+      "description": "Locate sites using the user's images without credit and request attribution/links. Use when the user asks for image reclamation bot, seo, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/image-reclamation-bot",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/image-reclamation-bot",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/image-reclamation-bot.zip",
+      "fingerprint": "image-reclamation-bot::d1c26b0b786cbf26",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "infographic-pitch-generator",
+      "name": "infographic-pitch-generator",
+      "description": "Find blogs that publish visuals and pitch exclusive infographics for credit links. Use when the user asks for infographic pitch generator, seo, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/infographic-pitch-generator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/infographic-pitch-generator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/infographic-pitch-generator.zip",
+      "fingerprint": "infographic-pitch-generator::42d1a1b055cf6951",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "internal-link-injector",
+      "name": "internal-link-injector",
+      "description": "Suggest exact places in old posts to link to a new article. Use when the user asks for internal link injector, seo, architecture, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/internal-link-injector",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/internal-link-injector",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/internal-link-injector.zip",
+      "fingerprint": "internal-link-injector::2f1bba514f85dcb0",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "journalist-pitch-compressor",
+      "name": "journalist-pitch-compressor",
+      "description": "Compress long PR copy into a 3-paragraph newsroom pitch. Use when the user asks for journalist pitch compressor, pr, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/journalist-pitch-compressor",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/journalist-pitch-compressor",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/journalist-pitch-compressor.zip",
+      "fingerprint": "journalist-pitch-compressor::90b1f18d73c5c1fe",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "js-rendering-seo-checker",
+      "name": "js-rendering-seo-checker",
+      "description": "Identify critical content/links that depend on JS and may be missed by bots. Use when the user asks for js rendering seo checker, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/js-rendering-seo-checker",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/js-rendering-seo-checker",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/js-rendering-seo-checker.zip",
+      "fingerprint": "js-rendering-seo-checker::9ddd3caf2870e11d",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "keyword-clustering-engine",
+      "name": "keyword-clustering-engine",
+      "description": "Cluster keywords by semantic similarity and search intent to avoid cannibalization. Use when the user asks for keyword clustering engine, seo, keywords, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/keyword-clustering-engine",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/keyword-clustering-engine",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/keyword-clustering-engine.zip",
+      "fingerprint": "keyword-clustering-engine::58590a2da9cbd030",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "keyword-difficulty-reality-check",
+      "name": "keyword-difficulty-reality-check",
+      "description": "Manually assess page-one competitiveness beyond a single KD score. Use when the user asks for keyword difficulty reality check, seo, keywords, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/keyword-difficulty-reality-check",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/keyword-difficulty-reality-check",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/keyword-difficulty-reality-check.zip",
+      "fingerprint": "keyword-difficulty-reality-check::7226db909ef0d857",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "link-velocity-monitor",
+      "name": "link-velocity-monitor",
+      "description": "Evaluate link gain/loss pace to spot anomalies or negative SEO. Use when the user asks for link velocity monitor, seo, risk, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/link-velocity-monitor",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/link-velocity-monitor",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/link-velocity-monitor.zip",
+      "fingerprint": "link-velocity-monitor::44802fb494d48755",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "linkedin-outreach-connector",
+      "name": "linkedin-outreach-connector",
+      "description": "Turn email pitches into short LinkedIn messages for editors. Use when the user asks for linkedin outreach connector, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/linkedin-outreach-connector",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/linkedin-outreach-connector",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/linkedin-outreach-connector.zip",
+      "fingerprint": "linkedin-outreach-connector::1ab7001b328d9c21",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "llm-citation-optimizer",
+      "name": "llm-citation-optimizer",
+      "description": "Structure paragraphs with stats, clear definitions, and sources to improve AI citations. Use when the user asks for llm citation optimizer, seo, geo, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/llm-citation-optimizer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/llm-citation-optimizer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/llm-citation-optimizer.zip",
+      "fingerprint": "llm-citation-optimizer::c0ef92f0a63b7853",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "llms-txt-generator",
+      "name": "llms-txt-generator",
+      "description": "Create /llms.txt guiding LLMs to the site's primary content. Use when the user asks for llms txt generator, seo, geo, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/llms-txt-generator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/llms-txt-generator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/llms-txt-generator.zip",
+      "fingerprint": "llms-txt-generator::2badbcea4aba98d9",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "local-citation-builder",
+      "name": "local-citation-builder",
+      "description": "List local directories, associations, and guides for local SEO citations. Use when the user asks for local citation builder, seo, local, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/local-citation-builder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/local-citation-builder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/local-citation-builder.zip",
+      "fingerprint": "local-citation-builder::49bc59dfd465b63f",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "local-competitor-map-spy",
+      "name": "local-competitor-map-spy",
+      "description": "Analyze Local Pack leaders' categories, reviews, and positioning. Use when the user asks for local competitor map spy, seo, local, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/local-competitor-map-spy",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/local-competitor-map-spy",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/local-competitor-map-spy.zip",
+      "fingerprint": "local-competitor-map-spy::34ddaa9b66d1f639",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "local-keyword-multiplier",
+      "name": "local-keyword-multiplier",
+      "description": "Combine services with neighborhoods/cities naturally for local SEO. Use when the user asks for local keyword multiplier, seo, local, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/local-keyword-multiplier",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/local-keyword-multiplier",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/local-keyword-multiplier.zip",
+      "fingerprint": "local-keyword-multiplier::9aceb128969b6aee",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "local-landing-page-scaler",
+      "name": "local-landing-page-scaler",
+      "description": "Structure unique city/neighborhood pages without doorway duplication. Use when the user asks for local landing page scaler, seo, local, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/local-landing-page-scaler",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/local-landing-page-scaler",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/local-landing-page-scaler.zip",
+      "fingerprint": "local-landing-page-scaler::4c461720d74d1664",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "local-qa-seeder",
+      "name": "local-qa-seeder",
+      "description": "List common Q&As to pre-seed on a Google Business Profile. Use when the user asks for local qa seeder, local, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/local-qa-seeder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/local-qa-seeder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/local-qa-seeder.zip",
+      "fingerprint": "local-qa-seeder::38efe780bf36dd53",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "log-file-analyzer-assistant",
+      "name": "log-file-analyzer-assistant",
+      "description": "Interpret server log samples to show where Googlebot spends crawl budget. Use when the user asks for log file analyzer assistant, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/log-file-analyzer-assistant",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/log-file-analyzer-assistant",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/log-file-analyzer-assistant.zip",
+      "fingerprint": "log-file-analyzer-assistant::838367ca9d35b8e8",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "looker-studio-metric-explainer",
+      "name": "looker-studio-metric-explainer",
+      "description": "Translate chart spikes/drops into clear executive narratives. Use when the user asks for looker studio metric explainer, analytics, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/looker-studio-metric-explainer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/looker-studio-metric-explainer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/looker-studio-metric-explainer.zip",
+      "fingerprint": "looker-studio-metric-explainer::5969bd5ca073c203",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "lost-backlinks-recovery",
+      "name": "lost-backlinks-recovery",
+      "description": "Investigate recently lost links and draft recovery actions. Use when the user asks for lost backlinks recovery, seo, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/lost-backlinks-recovery",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/lost-backlinks-recovery",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/lost-backlinks-recovery.zip",
+      "fingerprint": "lost-backlinks-recovery::378aa13c74e1b428",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "meta-description-writer",
+      "name": "meta-description-writer",
+      "description": "Write persuasive meta descriptions (~155 chars) that improve SERP CTR. Use when the user asks for meta description writer, seo, on-page, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/meta-description-writer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/meta-description-writer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/meta-description-writer.zip",
+      "fingerprint": "meta-description-writer::f0756d5ce7518e1a",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "migration-redirect-mapper",
+      "name": "migration-redirect-mapper",
+      "description": "Map old→new URLs for domain/CMS migrations with exact 301 plans. Use when the user asks for migration redirect mapper, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/migration-redirect-mapper",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/migration-redirect-mapper",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/migration-redirect-mapper.zip",
+      "fingerprint": "migration-redirect-mapper::a1cbe2d59df0cbe9",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "monthly-seo-roadmap-builder",
+      "name": "monthly-seo-roadmap-builder",
+      "description": "Turn a large technical audit into a quarterly action plan by impact×effort. Use when the user asks for monthly seo roadmap builder, seo, ops, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/monthly-seo-roadmap-builder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/monthly-seo-roadmap-builder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/monthly-seo-roadmap-builder.zip",
+      "fingerprint": "monthly-seo-roadmap-builder::ea1ac7817a3f3470",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "nap-consistency-auditor",
+      "name": "nap-consistency-auditor",
+      "description": "Compare Name/Address/Phone across directories and flag mismatches. Use when the user asks for nap consistency auditor, seo, local, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/nap-consistency-auditor",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/nap-consistency-auditor",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/nap-consistency-auditor.zip",
+      "fingerprint": "nap-consistency-auditor::64458a7877a86793",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "negotiation-reply-assistant",
+      "name": "negotiation-reply-assistant",
+      "description": "Respond to paid-link requests by negotiating organic value or declining safely. Use when the user asks for negotiation reply assistant, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/negotiation-reply-assistant",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/negotiation-reply-assistant",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/negotiation-reply-assistant.zip",
+      "fingerprint": "negotiation-reply-assistant::a6b7189cce700a96",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "niche-edit-prospector",
+      "name": "niche-edit-prospector",
+      "description": "Find aged indexed articles where a contextual link to the user's guide adds value. Use when the user asks for niche edit prospector, seo, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/niche-edit-prospector",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/niche-edit-prospector",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/niche-edit-prospector.zip",
+      "fingerprint": "niche-edit-prospector::c839043afd47aacd",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "nofollow-dofollow-auditor",
+      "name": "nofollow-dofollow-auditor",
+      "description": "Audit follow/nofollow/sponsored/ugc balance in a backlink profile. Use when the user asks for nofollow dofollow auditor, seo, risk, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/nofollow-dofollow-auditor",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/nofollow-dofollow-auditor",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/nofollow-dofollow-auditor.zip",
+      "fingerprint": "nofollow-dofollow-auditor::371d0a5a70bac9b9",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "orphan-page-rescuer",
+      "name": "orphan-page-rescuer",
+      "description": "Find pages with no internal links and plan reintegration. Use when the user asks for orphan page rescuer, seo, architecture, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/orphan-page-rescuer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/orphan-page-rescuer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/orphan-page-rescuer.zip",
+      "fingerprint": "orphan-page-rescuer::cfb958e95152e819",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "outreach-subject-line-tester",
+      "name": "outreach-subject-line-tester",
+      "description": "Generate high-open subject lines that avoid spam triggers. Use when the user asks for outreach subject line tester, outreach, email, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/outreach-subject-line-tester",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/outreach-subject-line-tester",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/outreach-subject-line-tester.zip",
+      "fingerprint": "outreach-subject-line-tester::cb2abf61290912e3",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "partnership-proposal-builder",
+      "name": "partnership-proposal-builder",
+      "description": "Structure co-marketing proposals that create natural authority exchange. Use when the user asks for partnership proposal builder, pr, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/partnership-proposal-builder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/partnership-proposal-builder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/partnership-proposal-builder.zip",
+      "fingerprint": "partnership-proposal-builder::af108ebdf9d33422",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "pbn-footprint-detector",
+      "name": "pbn-footprint-detector",
+      "description": "Spot private-blog-network footprints in prospect or backlink lists. Use when the user asks for pbn footprint detector, seo, risk, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/pbn-footprint-detector",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/pbn-footprint-detector",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/pbn-footprint-detector.zip",
+      "fingerprint": "pbn-footprint-detector::3e6b45494829a641",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "people-also-ask-miner",
+      "name": "people-also-ask-miner",
+      "description": "Organize PAA-style questions into FAQ sections and snippet opportunities. Use when the user asks for people also ask miner, seo, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/people-also-ask-miner",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/people-also-ask-miner",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/people-also-ask-miner.zip",
+      "fingerprint": "people-also-ask-miner::82488049273d9c28",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "podcast-guest-matcher",
+      "name": "podcast-guest-matcher",
+      "description": "Find niche podcasts that accept guests and draft pitches for show-note links. Use when the user asks for podcast guest matcher, pr, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/podcast-guest-matcher",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/podcast-guest-matcher",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/podcast-guest-matcher.zip",
+      "fingerprint": "podcast-guest-matcher::be687a6db1b56dc9",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "python-serp-scraper-helper",
+      "name": "python-serp-scraper-helper",
+      "description": "Write simple Python helpers to collect SERP titles/URLs for pattern analysis — ethically and within ToS. Use when the user asks for python serp scraper helper, seo, automation, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/python-serp-scraper-helper",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/python-serp-scraper-helper",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/python-serp-scraper-helper.zip",
+      "fingerprint": "python-serp-scraper-helper::732f0eb73543d36f",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "question-to-topic-mapper",
+      "name": "question-to-topic-mapper",
+      "description": "Turn raw forum questions into structured blog briefs. Use when the user asks for question to topic mapper, seo, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/question-to-topic-mapper",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/question-to-topic-mapper",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/question-to-topic-mapper.zip",
+      "fingerprint": "question-to-topic-mapper::3219d5b78404c2ea",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "readability-simplifier",
+      "name": "readability-simplifier",
+      "description": "Simplify dense technical copy into short paragraphs without losing depth. Use when the user asks for readability simplifier, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/readability-simplifier",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/readability-simplifier",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/readability-simplifier.zip",
+      "fingerprint": "readability-simplifier::faa65069a289b045",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "reddit-quora-visibility-scout",
+      "name": "reddit-quora-visibility-scout",
+      "description": "Find community threads ranking in Google and suggest helpful non-spam answers. Use when the user asks for reddit quora visibility scout, seo, distribution, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/reddit-quora-visibility-scout",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/reddit-quora-visibility-scout",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/reddit-quora-visibility-scout.zip",
+      "fingerprint": "reddit-quora-visibility-scout::0d9c44908df77a3d",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "redirect-chain-link-saver",
+      "name": "redirect-chain-link-saver",
+      "description": "Find backlinks hitting old URLs stuck in redirect chains and fix destinations. Use when the user asks for redirect chain link saver, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/redirect-chain-link-saver",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/redirect-chain-link-saver",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/redirect-chain-link-saver.zip",
+      "fingerprint": "redirect-chain-link-saver::8b1607b7f64a3d4c",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "regex-gsc-builder",
+      "name": "regex-gsc-builder",
+      "description": "Build ready regexes to filter questions, brands, or intents in Search Console. Use when the user asks for regex gsc builder, seo, analytics, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/regex-gsc-builder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/regex-gsc-builder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/regex-gsc-builder.zip",
+      "fingerprint": "regex-gsc-builder::4d4b471b0440dff1",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "related-posts-matcher",
+      "name": "related-posts-matcher",
+      "description": "Pick the 3 most semantically relevant posts for end-of-article modules. Use when the user asks for related posts matcher, seo, architecture, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/related-posts-matcher",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/related-posts-matcher",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/related-posts-matcher.zip",
+      "fingerprint": "related-posts-matcher::d1acbe507520db04",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "resource-page-prospector",
+      "name": "resource-page-prospector",
+      "description": "Find 'useful links' / resource pages in a niche via advanced search operators. Use when the user asks for resource page prospector, seo, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/resource-page-prospector",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/resource-page-prospector",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/resource-page-prospector.zip",
+      "fingerprint": "resource-page-prospector::d315f053eccf8a21",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "review-response-generator",
+      "name": "review-response-generator",
+      "description": "Craft personalized review responses incorporating local terms naturally. Use when the user asks for review response generator, local, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/review-response-generator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/review-response-generator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/review-response-generator.zip",
+      "fingerprint": "review-response-generator::b8a31bf5a9b8505e",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "robots-txt-validator",
+      "name": "robots-txt-validator",
+      "description": "Create or review robots.txt to block junk crawls without blocking vital pages. Use when the user asks for robots txt validator, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/robots-txt-validator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/robots-txt-validator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/robots-txt-validator.zip",
+      "fingerprint": "robots-txt-validator::3089ff744c0c4b6c",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "roi-traffic-forecaster",
+      "name": "roi-traffic-forecaster",
+      "description": "Estimate organic traffic potential and paid-media equivalent value for keyword groups. Use when the user asks for roi traffic forecaster, seo, analytics, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/roi-traffic-forecaster",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/roi-traffic-forecaster",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/roi-traffic-forecaster.zip",
+      "fingerprint": "roi-traffic-forecaster::2abcbe8dba0ff378",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "roundup-post-finder",
+      "name": "roundup-post-finder",
+      "description": "Find expert-roundup posts and prepare applications for future editions. Use when the user asks for roundup post finder, seo, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/roundup-post-finder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/roundup-post-finder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/roundup-post-finder.zip",
+      "fingerprint": "roundup-post-finder::c75fd6dce9dce40c",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "schema-markup-generator",
+      "name": "schema-markup-generator",
+      "description": "Generate JSON-LD for Article, FAQPage, Product, LocalBusiness, Review. Use when the user asks for schema markup generator, seo, schema, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/schema-markup-generator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/schema-markup-generator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/schema-markup-generator.zip",
+      "fingerprint": "schema-markup-generator::f8bfdb8215720724",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "screaming-frog-custom-extractor",
+      "name": "screaming-frog-custom-extractor",
+      "description": "Generate XPath/CSS extractors for custom crawl fields. Use when the user asks for screaming frog custom extractor, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/screaming-frog-custom-extractor",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/screaming-frog-custom-extractor",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/screaming-frog-custom-extractor.zip",
+      "fingerprint": "screaming-frog-custom-extractor::06244bef76ffe5c4",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "search-intent-classifier",
+      "name": "search-intent-classifier",
+      "description": "Classify keywords into informational, navigational, commercial, or transactional. Use when the user asks for search intent classifier, seo, keywords, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/search-intent-classifier",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/search-intent-classifier",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/search-intent-classifier.zip",
+      "fingerprint": "search-intent-classifier::988f1c370c6c4074",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "seasonal-trend-forecaster",
+      "name": "seasonal-trend-forecaster",
+      "description": "Map seasonal search peaks to plan the editorial calendar ~3 months ahead. Use when the user asks for seasonal trend forecaster, seo, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/seasonal-trend-forecaster",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/seasonal-trend-forecaster",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/seasonal-trend-forecaster.zip",
+      "fingerprint": "seasonal-trend-forecaster::bc365790be67e2d3",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "semantic-nlp-enricher",
+      "name": "semantic-nlp-enricher",
+      "description": "List entities/related terms from top results missing from the user's draft. Use when the user asks for semantic nlp enricher, seo, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/semantic-nlp-enricher",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/semantic-nlp-enricher",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/semantic-nlp-enricher.zip",
+      "fingerprint": "semantic-nlp-enricher::203d42667f92a644",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "seo-ab-test-designer",
+      "name": "seo-ab-test-designer",
+      "description": "Design title/layout split tests with hypothesis, control, and success metrics. Use when the user asks for seo ab test designer, seo, analytics, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/seo-ab-test-designer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/seo-ab-test-designer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/seo-ab-test-designer.zip",
+      "fingerprint": "seo-ab-test-designer::783b7c47325b780c",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
     },
     {
       "id": "seo-meta-audit",
@@ -16184,6 +18592,62 @@
       "sourceStars": 0
     },
     {
+      "id": "silo-structure-planner",
+      "name": "silo-structure-planner",
+      "description": "Organize large blogs/ecommerce into thematic silos. Use when the user asks for silo structure planner, seo, architecture, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/silo-structure-planner",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/silo-structure-planner",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/silo-structure-planner.zip",
+      "fingerprint": "silo-structure-planner::e693f4b99ad27671",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "sitemap-xml-auditor",
+      "name": "sitemap-xml-auditor",
+      "description": "Compare sitemap URLs vs indexed/crawled pages for 404s, redirects, noindex mistakes. Use when the user asks for sitemap xml auditor, seo, technical, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/sitemap-xml-auditor",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/sitemap-xml-auditor",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/sitemap-xml-auditor.zip",
+      "fingerprint": "sitemap-xml-auditor::ca0f5f3b5004d531",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
       "id": "skill-authoring",
       "name": "skill-authoring",
       "description": "Creates portable Agent Skills (SKILL.md) for Cursor, Claude Code, Codex and similar tools. Use when creating a new skill or converting a workflow into SKILL.md.",
@@ -16212,6 +18676,342 @@
       "addedAt": "2026-11-11",
       "updatedAt": "2026-11-12",
       "sourceStars": 0
+    },
+    {
+      "id": "skyscraper-opportunity-scout",
+      "name": "skyscraper-opportunity-scout",
+      "description": "Find ranking pages with many backlinks and list ways to make a 10x better asset. Use when the user asks for skyscraper opportunity scout, seo, content, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/skyscraper-opportunity-scout",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/skyscraper-opportunity-scout",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/skyscraper-opportunity-scout.zip",
+      "fingerprint": "skyscraper-opportunity-scout::422b78e06d9030e7",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "spam-score-triage",
+      "name": "spam-score-triage",
+      "description": "Triage thousands of backlinks by risk using quality and topical relevance. Use when the user asks for spam score triage, seo, risk, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/spam-score-triage",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/spam-score-triage",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/spam-score-triage.zip",
+      "fingerprint": "spam-score-triage::f91b7e9c501d7880",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "spam-trigger-checker",
+      "name": "spam-trigger-checker",
+      "description": "Review outreach templates and remove spam-filter triggers. Use when the user asks for spam trigger checker, email, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/spam-trigger-checker",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/spam-trigger-checker",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/spam-trigger-checker.zip",
+      "fingerprint": "spam-trigger-checker::f58e5791e1e90e41",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "statistical-page-creator",
+      "name": "statistical-page-creator",
+      "description": "Structure 'Industry Stats [Year]' pages designed to earn citations. Use when the user asks for statistical page creator, seo, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/statistical-page-creator",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/statistical-page-creator",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/statistical-page-creator.zip",
+      "fingerprint": "statistical-page-creator::2501658d9aeefab2",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "testimonial-link-swap",
+      "name": "testimonial-link-swap",
+      "description": "Identify tools the user already uses and draft testimonials in exchange for a homepage/customers link. Use when the user asks for testimonial link swap, outreach, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/testimonial-link-swap",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/testimonial-link-swap",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/testimonial-link-swap.zip",
+      "fingerprint": "testimonial-link-swap::b625d7658cfcf118",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "thank-you-relationship-builder",
+      "name": "thank-you-relationship-builder",
+      "description": "Turn a one-off publication into a recurring partner with a thank-you note. Use when the user asks for thank you relationship builder, pr, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/thank-you-relationship-builder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/thank-you-relationship-builder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/thank-you-relationship-builder.zip",
+      "fingerprint": "thank-you-relationship-builder::922a3ea1e8bfbea0",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "thin-content-expander",
+      "name": "thin-content-expander",
+      "description": "Expand thin underperforming pages into complete guides with useful subtopics. Use when the user asks for thin content expander, seo, content, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/thin-content-expander",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/thin-content-expander",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/thin-content-expander.zip",
+      "fingerprint": "thin-content-expander::af11a7dbe965f4da",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "tier2-link-prioritizer",
+      "name": "tier2-link-prioritizer",
+      "description": "Find strongest guest posts/assets that need supporting links. Use when the user asks for tier2 link prioritizer, seo, link-building, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/tier2-link-prioritizer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/tier2-link-prioritizer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/tier2-link-prioritizer.zip",
+      "fingerprint": "tier2-link-prioritizer::bc9a1103ffe4986a",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "title-tag-ctr-optimizer",
+      "name": "title-tag-ctr-optimizer",
+      "description": "Generate SEO titles within ~60 characters using clarity and curiosity. Use when the user asks for title tag ctr optimizer, seo, on-page, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/title-tag-ctr-optimizer",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/title-tag-ctr-optimizer",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/title-tag-ctr-optimizer.zip",
+      "fingerprint": "title-tag-ctr-optimizer::c67f2999fe174e43",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "topic-cluster-architect",
+      "name": "topic-cluster-architect",
+      "description": "Design pillar + satellite page structure to own a topic. Use when the user asks for topic cluster architect, seo, architecture, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/topic-cluster-architect",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/topic-cluster-architect",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/topic-cluster-architect.zip",
+      "fingerprint": "topic-cluster-architect::4fea57ac401d3449",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "unlinked-brand-mentions",
+      "name": "unlinked-brand-mentions",
+      "description": "Find brand/product mentions without links and draft link-request emails. Use when the user asks for unlinked brand mentions, seo, outreach, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/unlinked-brand-mentions",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/unlinked-brand-mentions",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/unlinked-brand-mentions.zip",
+      "fingerprint": "unlinked-brand-mentions::dc6c503d4948647e",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
+    },
+    {
+      "id": "zero-volume-gem-finder",
+      "name": "zero-volume-gem-finder",
+      "description": "Surface emerging long-tail questions before traditional tools show volume. Use when the user asks for zero volume gem finder, seo, keywords, or related SEO/link-building workflows.",
+      "tags": [
+        "ontoom"
+      ],
+      "origin": "ontoom",
+      "status": "published",
+      "license": "MIT",
+      "sourceUrl": null,
+      "path": "skills/ontoom/zero-volume-gem-finder",
+      "worksWith": [
+        "cursor",
+        "claude-code",
+        "codex",
+        "gemini",
+        "any"
+      ],
+      "github": "https://github.com/orlandoneto/agent-skills/tree/main/skills/ontoom/zero-volume-gem-finder",
+      "download": "https://github.com/orlandoneto/agent-skills/releases/latest/download/zero-volume-gem-finder.zip",
+      "fingerprint": "zero-volume-gem-finder::2708d70cdc09b29b",
+      "score": 100,
+      "reviewed": true,
+      "hasScripts": false,
+      "addedAt": "2026-11-12",
+      "updatedAt": "2026-11-12"
     }
   ]
 }
