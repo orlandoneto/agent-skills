@@ -1,6 +1,7 @@
 name: pack-release
 
 # Gera Release latest com um ZIP por skill (sem re-crawl).
+# Upload em lotes — GitHub secondary rate limit com 600+ assets de uma vez.
 on:
   workflow_dispatch:
 
@@ -17,13 +18,40 @@ jobs:
           node-version: "22"
       - name: Pack ZIPs
         run: npm run pack
-      - name: Release latest
+      - name: Release latest (batched upload)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -e
+          set -euo pipefail
           TAG="v0.$(date -u +%Y%m%d).$(date -u +%H%M)"
-          gh release create "$TAG" dist/zips/*.zip \
-            --title "$TAG — skills ZIP sync" \
-            --notes "Pack only. Catalog: https://www.ontoom.com.br/skills" \
+          COUNT=$(find dist/zips -name '*.zip' | wc -l)
+          gh release create "$TAG" \
+            --title "$TAG — skills ZIP sync ($COUNT)" \
+            --notes "Pack only ($COUNT ZIPs). Catalog: https://www.ontoom.com.br/skills" \
             --latest
+
+          # Upload em lotes de 40 com pausa (evita secondary rate limit)
+          i=0
+          batch=()
+          flush() {
+            if [ ${#batch[@]} -eq 0 ]; then return; fi
+            for attempt in 1 2 3 4 5; do
+              if gh release upload "$TAG" "${batch[@]}" --clobber; then
+                break
+              fi
+              echo "upload retry $attempt after rate limit…"
+              sleep $((attempt * 30))
+            done
+            batch=()
+            sleep 8
+          }
+          while IFS= read -r -d '' f; do
+            batch+=("$f")
+            i=$((i + 1))
+            if [ ${#batch[@]} -ge 40 ]; then
+              echo "uploading batch ending at $i / $COUNT"
+              flush
+            fi
+          done < <(find dist/zips -name '*.zip' -print0)
+          flush
+          echo "done: $i assets on $TAG"
