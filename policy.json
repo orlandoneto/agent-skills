@@ -29,7 +29,7 @@
   "crawler": {
     "maxCandidatesPerDay": 400,
     "maxAutoPromotePerDay": 250,
-    "maxPublishedCommunity": 600,
+    "maxPublishedCommunity": 900,
     "scheduleTimezone": "America/Sao_Paulo",
     "userAgent": "OntoomSkillCrawler/1.0 (+https://www.ontoom.com.br/skills; respect robots; 1x/day)",
     "discovery": {
@@ -189,6 +189,40 @@
         "nested": true,
         "maxDepth": 4,
         "enabled": true
+      },
+      {
+        "id": "remotion-dev-skills",
+        "type": "github-repo-skills",
+        "repo": "remotion-dev/skills",
+        "path": "skills",
+        "defaultLicense": "MIT",
+        "idNamespace": "remotion",
+        "nested": false,
+        "enabled": true,
+        "note": "LICENSE file absent on GitHub (issue #31); MIT applied as declared default for SAFE SKILL.md-only republish"
+      },
+      {
+        "id": "bomx-openvideo",
+        "type": "github-repo-skills",
+        "repo": "Bomx/OpenVideo",
+        "path": ".",
+        "defaultLicense": "MIT",
+        "idNamespace": "bomx",
+        "nested": false,
+        "enabled": true,
+        "note": "Root SKILL.md; reject SAFE if scripts/ or tools/ present (document in import report)"
+      },
+      {
+        "id": "calesthio-openmontage",
+        "type": "github-repo-skills",
+        "repo": "calesthio/OpenMontage",
+        "path": ".agents/skills",
+        "defaultLicense": "AGPL-3.0",
+        "idNamespace": "openmontage",
+        "nested": true,
+        "maxDepth": 4,
+        "enabled": true,
+        "note": "Repo SPDX AGPL-3.0 (not in allowlist) — expect license rejections unless skill declares allowlisted license"
       },
       {
         "id": "manual-seed",
