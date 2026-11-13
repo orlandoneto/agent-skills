@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-13",
+  "published": [],
+  "skipped": [
+    {
+      "id": "doc-coauthoring",
+      "reason": "já publicado (id)"
+    }
+  ],
+  "held": [
+    {
+      "id": "kostja-brand-visual",
+      "reason": "maxPublishedCommunity"
+    }
+  ]
+}

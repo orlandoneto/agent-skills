@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-11-12T18:46:40.244Z",
+  "updatedAt": "2026-11-13T00:53:35.281Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
+    {
+      "id": "discovered-0x0funky-agent-sprite-forge",
+      "type": "github-repo-skills",
+      "repo": "0x0funky/agent-sprite-forge",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-addyosmani-web-quality-skills",
+      "type": "github-repo-skills",
+      "repo": "addyosmani/web-quality-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
     {
       "id": "discovered-agents365-ai-drawio-skill",
       "type": "github-repo-skills",
@@ -31,6 +49,24 @@
       "discoveredAt": "2026-11-12"
     },
     {
+      "id": "discovered-alchaincyf-huashu-motion",
+      "type": "github-repo-skills",
+      "repo": "alchaincyf/huashu-motion",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-alexgreensh-anidoodle",
+      "type": "github-repo-skills",
+      "repo": "alexgreensh/anidoodle",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
       "id": "discovered-alibaba-open-code-review",
       "type": "github-repo-skills",
       "repo": "alibaba/open-code-review",
@@ -40,6 +76,24 @@
       "discoveredAt": "2026-11-12"
     },
     {
+      "id": "discovered-antfu-skills",
+      "type": "github-repo-skills",
+      "repo": "antfu/skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-antvis-l7",
+      "type": "github-repo-skills",
+      "repo": "antvis/l7",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
       "id": "discovered-appllama-appllama-skills",
       "type": "github-repo-skills",
       "repo": "appllama/appllama-skills",
@@ -47,6 +101,24 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-ar9av-obsidian-wiki",
+      "type": "github-repo-skills",
+      "repo": "ar9av/obsidian-wiki",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-arpitg1304-robotics-agent-skills",
+      "type": "github-repo-skills",
+      "repo": "arpitg1304/robotics-agent-skills",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
     },
     {
       "id": "discovered-ayghri-i-have-adhd",

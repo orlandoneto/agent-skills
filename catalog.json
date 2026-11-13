@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "repo": "https://github.com/orlandoneto/agent-skills",
   "policyVersion": 1,
   "skills": [
@@ -32,8 +32,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-audience-belief-mapper",
@@ -63,8 +63,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-brand-language-codifier",
@@ -94,8 +94,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-category-narrative-mapper",
@@ -125,8 +125,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-channel-portfolio-planner",
@@ -156,8 +156,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-cold-outbound-sequencer",
@@ -187,8 +187,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-competitor-analysis",
@@ -218,8 +218,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-content-gap-analysis",
@@ -249,8 +249,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-content-quality-auditor",
@@ -280,8 +280,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-content-writer",
@@ -311,8 +311,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-crisis-response-planner",
@@ -342,8 +342,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-dark-social-attributor",
@@ -373,8 +373,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-deliverability-qa",
@@ -404,8 +404,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-domain-authority-auditor",
@@ -435,8 +435,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-dynamic-content-personalizer",
@@ -466,8 +466,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-email-creative-builder",
@@ -497,8 +497,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-email-quality-auditor",
@@ -528,8 +528,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-email-render-builder",
@@ -559,8 +559,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-email-sequence-designer",
@@ -590,8 +590,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-engagement-inbox-manager",
@@ -621,8 +621,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-geo-content-optimizer",
@@ -652,8 +652,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-inbox-placement-monitor",
@@ -683,8 +683,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-keyword-research",
@@ -714,8 +714,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-list-growth-designer",
@@ -745,8 +745,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-list-hygiene-monitor",
@@ -776,8 +776,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-list-segment-builder",
@@ -807,8 +807,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-message-system-architect",
@@ -838,8 +838,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-message-test-designer",
@@ -869,8 +869,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-narrative-baseline-mapper",
@@ -900,8 +900,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-narrative-cascade-planner",
@@ -931,8 +931,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-narrative-drift-monitor",
@@ -962,8 +962,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-narrative-enablement-kit",
@@ -993,8 +993,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-narrative-quality-auditor",
@@ -1024,8 +1024,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-narrative-resonance-monitor",
@@ -1055,8 +1055,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-newsletter-monetization-planner",
@@ -1086,8 +1086,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-offsite-signal-analyzer",
@@ -1117,8 +1117,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-on-page-seo-checker",
@@ -1148,8 +1148,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-page-play-builder",
@@ -1179,8 +1179,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-participation-warmup-planner",
@@ -1210,8 +1210,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-performance-monitor",
@@ -1241,8 +1241,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-pitch-narrative-builder",
@@ -1272,8 +1272,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-platform-norm-profiler",
@@ -1303,8 +1303,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-positioning-truth-tracer",
@@ -1334,8 +1334,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-preference-frequency-manager",
@@ -1365,8 +1365,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-proof-point-packager",
@@ -1396,8 +1396,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-rank-tracker",
@@ -1427,8 +1427,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-reactivation-specialist",
@@ -1458,8 +1458,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-send-experiment-designer",
@@ -1489,8 +1489,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-serp-analysis",
@@ -1520,8 +1520,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-serp-markup-builder",
@@ -1551,8 +1551,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-share-of-voice-tracker",
@@ -1582,8 +1582,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-short-video-scripter",
@@ -1613,8 +1613,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-site-structure-optimizer",
@@ -1644,8 +1644,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-social-calendar-builder",
@@ -1675,8 +1675,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-social-creative-builder",
@@ -1706,8 +1706,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-social-measurement-loop",
@@ -1737,8 +1737,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-social-pulse-monitor",
@@ -1768,8 +1768,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-social-quality-auditor",
@@ -1799,8 +1799,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-social-selling-planner",
@@ -1830,8 +1830,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-story-bank-builder",
@@ -1861,8 +1861,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-strategic-narrative-designer",
@@ -1892,8 +1892,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-subject-line-lab",
@@ -1923,8 +1923,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-technical-seo-checker",
@@ -1954,8 +1954,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "aaron-voice-dossier-builder",
@@ -1985,8 +1985,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 3135
+      "updatedAt": "2026-11-13",
+      "sourceStars": 3137
     },
     {
       "id": "academy-guide",
@@ -2014,8 +2014,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "agent-skill-creator",
@@ -2045,7 +2045,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -2076,8 +2076,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-accessibility",
@@ -2107,8 +2107,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agent-evaluation",
@@ -2138,8 +2138,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agent-management",
@@ -2169,8 +2169,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agent-manager-skill",
@@ -2200,8 +2200,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agent-md-refactor",
@@ -2231,8 +2231,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agent-messaging",
@@ -2262,8 +2262,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agents-autogpt",
@@ -2293,8 +2293,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agents-crewai",
@@ -2324,8 +2324,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agents-langchain",
@@ -2355,8 +2355,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agents-llamaindex",
@@ -2386,8 +2386,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-agirails-agent-payments",
@@ -2417,8 +2417,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-ai-agents-architect",
@@ -2448,8 +2448,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-ai-directory-submitter",
@@ -2479,8 +2479,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-ai-product",
@@ -2510,8 +2510,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-ai-release-hunter",
@@ -2541,8 +2541,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-ai-wrapper-product",
@@ -2572,8 +2572,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-algolia-search",
@@ -2603,8 +2603,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-analytics-tracking",
@@ -2634,8 +2634,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-android-cicd",
@@ -2665,8 +2665,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-angular",
@@ -2696,8 +2696,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-api-design-principles",
@@ -2727,8 +2727,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-api-documentation-generator",
@@ -2758,8 +2758,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-api-integration-specialist",
@@ -2789,8 +2789,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-app-builder",
@@ -2820,8 +2820,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-app-store-optimization",
@@ -2851,8 +2851,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-architecture",
@@ -2882,8 +2882,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-architecture-decision-records",
@@ -2913,8 +2913,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-architecture-patterns",
@@ -2944,8 +2944,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-async-python-patterns",
@@ -2975,8 +2975,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-autonomous-agent-patterns",
@@ -3006,8 +3006,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-avalonia-layout-zafiro",
@@ -3037,8 +3037,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-avalonia-viewmodels-zafiro",
@@ -3068,8 +3068,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-avalonia-zafiro-development",
@@ -3099,8 +3099,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-aws-serverless",
@@ -3130,8 +3130,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-azure-functions",
@@ -3161,8 +3161,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-backend-architect",
@@ -3192,8 +3192,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-backend-dev-guidelines",
@@ -3223,8 +3223,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-bash-linux",
@@ -3254,8 +3254,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-bash-pro",
@@ -3285,8 +3285,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-behavioral-modes",
@@ -3316,8 +3316,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-best-practices",
@@ -3347,8 +3347,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-bleu",
@@ -3378,8 +3378,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-brainstorming",
@@ -3409,8 +3409,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-brand-guidelines-anthropic",
@@ -3440,8 +3440,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-brand-guidelines-community",
@@ -3471,8 +3471,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-brightdata-local-search",
@@ -3502,8 +3502,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-bullmq-specialist",
@@ -3533,8 +3533,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-bun-development",
@@ -3564,8 +3564,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-c-pro",
@@ -3595,8 +3595,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cc-skill-backend-patterns",
@@ -3626,8 +3626,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cc-skill-clickhouse-io",
@@ -3657,8 +3657,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cc-skill-coding-standards",
@@ -3688,8 +3688,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cc-skill-frontend-patterns",
@@ -3719,8 +3719,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cc-skill-security-review",
@@ -3750,8 +3750,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-changelog-generator",
@@ -3781,8 +3781,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-claude-api",
@@ -3812,8 +3812,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-claude-opus-4-5-migration",
@@ -3843,8 +3843,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-clean-code",
@@ -3874,8 +3874,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-clerk-auth",
@@ -3905,8 +3905,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cloud-architect",
@@ -3936,8 +3936,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cloud-devops",
@@ -3967,8 +3967,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cloud-run-basics",
@@ -3998,8 +3998,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cloudflare-deploy",
@@ -4029,8 +4029,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cocoindex",
@@ -4060,8 +4060,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-code-review-checklist",
@@ -4091,8 +4091,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-code-reviewer",
@@ -4122,8 +4122,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-codex",
@@ -4153,8 +4153,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-codex-review",
@@ -4184,8 +4184,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-command-creator",
@@ -4215,8 +4215,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-command-development",
@@ -4246,8 +4246,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-competitive-ads-extractor",
@@ -4277,8 +4277,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-competitor-alternatives",
@@ -4308,8 +4308,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-computer-use-agents",
@@ -4339,8 +4339,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-content-research-writer",
@@ -4370,8 +4370,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-context-window-management",
@@ -4401,8 +4401,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-context7-auto-research",
@@ -4432,8 +4432,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-conversation-memory",
@@ -4463,8 +4463,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-convex",
@@ -4494,8 +4494,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-copy-editing",
@@ -4525,8 +4525,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-copywriting",
@@ -4556,8 +4556,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-core-components",
@@ -4587,8 +4587,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-core-web-vitals",
@@ -4618,8 +4618,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-cpp-pro",
@@ -4649,8 +4649,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-create-plan",
@@ -4680,8 +4680,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-crewai",
@@ -4711,8 +4711,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-csharp-pro",
@@ -4742,8 +4742,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-data-processing-nemo-curator",
@@ -4773,8 +4773,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-data-processing-ray-data",
@@ -4804,8 +4804,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-database-schema-designer",
@@ -4835,8 +4835,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-deep-research",
@@ -4866,8 +4866,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-deployment-procedures",
@@ -4897,8 +4897,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-design-system-starter",
@@ -4928,8 +4928,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-developer-growth-analysis",
@@ -4959,8 +4959,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-dispatching-parallel-agents",
@@ -4990,8 +4990,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-distributed-training-accelerate",
@@ -5021,8 +5021,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-distributed-training-megatron-core",
@@ -5052,8 +5052,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-distributed-training-pytorch-lightning",
@@ -5083,8 +5083,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-distributed-training-ray-train",
@@ -5114,8 +5114,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-django-pro",
@@ -5145,8 +5145,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-docker-expert",
@@ -5176,8 +5176,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-docs-search",
@@ -5207,8 +5207,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-domain-driven-design",
@@ -5238,8 +5238,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-dotnet-backend",
@@ -5269,8 +5269,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-e2e-testing-patterns",
@@ -5300,8 +5300,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-elixir-pro",
@@ -5331,8 +5331,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-email-sequence",
@@ -5362,8 +5362,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-email-systems",
@@ -5393,8 +5393,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-emerging-techniques-knowledge-distillation",
@@ -5424,8 +5424,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-emerging-techniques-long-context",
@@ -5455,8 +5455,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-emerging-techniques-model-merging",
@@ -5486,8 +5486,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-emerging-techniques-model-pruning",
@@ -5517,8 +5517,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-emerging-techniques-moe-training",
@@ -5548,8 +5548,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-emerging-techniques-speculative-decoding",
@@ -5579,8 +5579,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-environment-setup-guide",
@@ -5610,8 +5610,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-error-resolver",
@@ -5641,8 +5641,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-eval-genius",
@@ -5672,8 +5672,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-evaluation-bigcode-evaluation-harness",
@@ -5703,8 +5703,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-evaluation-lm-evaluation-harness",
@@ -5734,8 +5734,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-evaluation-nemo-evaluator",
@@ -5765,8 +5765,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-event-sourcing-architect",
@@ -5796,8 +5796,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-executing-plans",
@@ -5827,8 +5827,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-fastapi-pro",
@@ -5858,8 +5858,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-fastmcp-server",
@@ -5889,8 +5889,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-feature-design-assistant",
@@ -5920,8 +5920,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-fine-tuning-axolotl",
@@ -5951,8 +5951,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-fine-tuning-llama-factory",
@@ -5982,8 +5982,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-fine-tuning-peft",
@@ -6013,8 +6013,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-fine-tuning-unsloth",
@@ -6044,8 +6044,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-finishing-a-development-branch",
@@ -6075,8 +6075,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-firebase",
@@ -6106,8 +6106,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-firebase-basics",
@@ -6137,8 +6137,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-flutter-expert",
@@ -6168,8 +6168,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-form-cro",
@@ -6199,8 +6199,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-free-tool-strategy",
@@ -6230,8 +6230,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-frontend-dev-guidelines",
@@ -6261,8 +6261,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-gcp-cloud-run",
@@ -6292,8 +6292,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-gemini",
@@ -6323,8 +6323,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-gepetto",
@@ -6354,8 +6354,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-gh-address-comments",
@@ -6385,8 +6385,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-gh-fix-ci",
@@ -6416,8 +6416,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-git-commit-helper",
@@ -6447,8 +6447,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-github-actions-creator",
@@ -6478,8 +6478,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-github-workflow-automation",
@@ -6509,8 +6509,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-gke-basics",
@@ -6540,8 +6540,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-golang-pro",
@@ -6571,8 +6571,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-google-cloud-networking-observability",
@@ -6602,8 +6602,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-google-cloud-onboarding",
@@ -6633,8 +6633,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-google-cloud-waf-cost-optimization",
@@ -6664,8 +6664,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-google-cloud-waf-reliability",
@@ -6695,8 +6695,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-grafana-dashboards",
@@ -6726,8 +6726,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-graph-query",
@@ -6757,8 +6757,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-graphql",
@@ -6788,8 +6788,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-graphql-architect",
@@ -6819,8 +6819,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-haskell-pro",
@@ -6850,8 +6850,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-heygen-best-practices",
@@ -6881,8 +6881,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-hubspot-integration",
@@ -6912,8 +6912,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-incident-responder",
@@ -6943,8 +6943,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-inference-serving-llama-cpp",
@@ -6974,8 +6974,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-inference-serving-sglang",
@@ -7005,8 +7005,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-inference-serving-tensorrt-llm",
@@ -7036,8 +7036,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-inference-serving-vllm",
@@ -7067,8 +7067,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-infrastructure-lambda-labs",
@@ -7098,8 +7098,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-infrastructure-modal",
@@ -7129,8 +7129,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-infrastructure-skypilot",
@@ -7160,8 +7160,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-internet-court",
@@ -7191,8 +7191,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-it-operations",
@@ -7222,8 +7222,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-java-pro",
@@ -7253,8 +7253,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-javascript-mastery",
@@ -7284,8 +7284,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-javascript-pro",
@@ -7315,8 +7315,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-javascript-testing-patterns",
@@ -7346,8 +7346,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-jira",
@@ -7377,8 +7377,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-k6-load-testing",
@@ -7408,8 +7408,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-kotlin-coroutines-expert",
@@ -7439,8 +7439,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-kubernetes-architect",
@@ -7470,8 +7470,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-langfuse",
@@ -7501,8 +7501,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-langgraph",
@@ -7532,8 +7532,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-laravel-expert",
@@ -7563,8 +7563,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-launch-strategy",
@@ -7594,8 +7594,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-lead-research-assistant",
@@ -7625,8 +7625,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-llm-app-patterns",
@@ -7656,8 +7656,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-llm-ops",
@@ -7687,8 +7687,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-manifest",
@@ -7718,8 +7718,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-marketing-ideas",
@@ -7749,8 +7749,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-marketing-psychology",
@@ -7780,8 +7780,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-marketing-strategy-pmm",
@@ -7811,8 +7811,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-mcp-integration",
@@ -7842,8 +7842,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-mechanistic-interpretability-nnsight",
@@ -7873,8 +7873,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-mechanistic-interpretability-pyvene",
@@ -7904,8 +7904,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-mechanistic-interpretability-saelens",
@@ -7935,8 +7935,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-mechanistic-interpretability-transformer-lens",
@@ -7966,8 +7966,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-memory-search",
@@ -7997,8 +7997,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-micro-saas-launcher",
@@ -8028,8 +8028,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-microservices-patterns",
@@ -8059,8 +8059,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-ml-paper-writing",
@@ -8090,8 +8090,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-mlops-mlflow",
@@ -8121,8 +8121,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-mlops-tensorboard",
@@ -8152,8 +8152,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-monorepo-architect",
@@ -8183,8 +8183,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-moodle-external-api-development",
@@ -8214,8 +8214,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-move-code-quality",
@@ -8245,8 +8245,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-mui",
@@ -8276,8 +8276,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-neon-postgres",
@@ -8307,8 +8307,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-nestjs-expert",
@@ -8338,8 +8338,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-netlify-deploy",
@@ -8369,8 +8369,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-nextjs-best-practices",
@@ -8400,8 +8400,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-nextjs-supabase-auth",
@@ -8431,8 +8431,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-nodejs-backend-patterns",
@@ -8462,8 +8462,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-nodejs-best-practices",
@@ -8493,8 +8493,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-nosql-expert",
@@ -8524,8 +8524,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-onboarding-cro",
@@ -8555,8 +8555,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-openapi-to-typescript",
@@ -8586,8 +8586,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-page-cro",
@@ -8617,8 +8617,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-paid-ads",
@@ -8648,8 +8648,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-paywall-upgrade-cro",
@@ -8679,8 +8679,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-performance",
@@ -8710,8 +8710,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-plaid-fintech",
@@ -8741,8 +8741,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-planning",
@@ -8772,8 +8772,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-playwright-e2e-builder",
@@ -8803,8 +8803,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-playwright-java",
@@ -8834,8 +8834,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-plugin-structure",
@@ -8865,8 +8865,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-popup-cro",
@@ -8896,8 +8896,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-pricing-strategy",
@@ -8927,8 +8927,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-production-code-audit",
@@ -8958,8 +8958,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-programmatic-seo",
@@ -8989,8 +8989,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-python-patterns",
@@ -9020,8 +9020,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-python-testing-patterns",
@@ -9051,8 +9051,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-react-ui-patterns",
@@ -9082,8 +9082,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-react-useeffect",
@@ -9113,8 +9113,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-receiving-code-review",
@@ -9144,8 +9144,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-referral-program",
@@ -9175,8 +9175,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-render-deploy",
@@ -9206,8 +9206,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-requesting-code-review",
@@ -9237,8 +9237,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-rust-cli-builder",
@@ -9268,8 +9268,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-saas-multi-tenant",
@@ -9299,8 +9299,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-salesforce-development",
@@ -9330,8 +9330,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-schema-markup",
@@ -9361,8 +9361,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-screenshot-feature-extractor",
@@ -9392,8 +9392,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-seo",
@@ -9423,8 +9423,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-seo-audit",
@@ -9454,8 +9454,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-seo-optimizer",
@@ -9485,8 +9485,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-seoagent",
@@ -9516,8 +9516,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-server-management",
@@ -9547,8 +9547,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-signup-flow-cro",
@@ -9578,8 +9578,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-skill-installer",
@@ -9609,8 +9609,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-social-content",
@@ -9640,8 +9640,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-stripe-integration",
@@ -9671,8 +9671,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-subagent-driven-development",
@@ -9702,8 +9702,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-swift-concurrency-expert",
@@ -9733,8 +9733,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-tdd-workflow",
@@ -9764,8 +9764,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-telegram-bot-builder",
@@ -9795,8 +9795,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-test-driven-development",
@@ -9826,8 +9826,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-test-fixing",
@@ -9857,8 +9857,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-testing-patterns",
@@ -9888,8 +9888,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-using-git-worktrees",
@@ -9919,8 +9919,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-using-superpowers",
@@ -9950,8 +9950,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-vercel-deployment",
@@ -9981,8 +9981,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-verification-before-completion",
@@ -10012,8 +10012,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-viral-generator-builder",
@@ -10043,8 +10043,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-workspace-orchestration",
@@ -10074,8 +10074,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-worktree-guide",
@@ -10105,8 +10105,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-writing-plans",
@@ -10136,8 +10136,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-writing-skills",
@@ -10167,8 +10167,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-x-twitter-scraper",
@@ -10198,8 +10198,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "aitmpl-zapier-workflows",
@@ -10229,8 +10229,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33416
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33431
     },
     {
       "id": "algorithmic-art",
@@ -10258,8 +10258,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "analyze-experiment",
@@ -10289,7 +10289,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1
     },
     {
@@ -10321,8 +10321,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "brand-guidelines",
@@ -10350,8 +10350,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "browser-testing-with-devtools",
@@ -10382,8 +10382,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "canvas-design",
@@ -10411,8 +10411,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "ci-cd-and-automation",
@@ -10443,8 +10443,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "ck-agent-browser",
@@ -10474,7 +10474,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10505,7 +10505,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10536,7 +10536,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10567,7 +10567,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10598,7 +10598,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10629,7 +10629,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10660,7 +10660,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10691,7 +10691,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10722,7 +10722,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10753,7 +10753,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10784,7 +10784,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10815,7 +10815,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10846,7 +10846,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10877,7 +10877,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10908,7 +10908,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10939,7 +10939,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -10970,7 +10970,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11001,7 +11001,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11032,7 +11032,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11063,7 +11063,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11094,7 +11094,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11125,7 +11125,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11156,7 +11156,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11187,7 +11187,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11218,7 +11218,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11249,7 +11249,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11280,7 +11280,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11311,7 +11311,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11342,7 +11342,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11373,7 +11373,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11404,7 +11404,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11435,7 +11435,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11466,7 +11466,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11497,7 +11497,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11528,7 +11528,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 26
     },
     {
@@ -11558,8 +11558,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "claude-seo-seo",
@@ -11589,8 +11589,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-agentic",
@@ -11620,8 +11620,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-audit",
@@ -11651,8 +11651,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-backlinks",
@@ -11682,8 +11682,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-cluster",
@@ -11713,8 +11713,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-competitor-pages",
@@ -11744,8 +11744,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-content",
@@ -11775,8 +11775,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-content-brief",
@@ -11806,8 +11806,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-dataforseo",
@@ -11837,8 +11837,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-drift",
@@ -11868,8 +11868,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-ecommerce",
@@ -11899,8 +11899,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-flow",
@@ -11930,8 +11930,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-geo",
@@ -11961,8 +11961,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-google",
@@ -11992,8 +11992,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-hreflang",
@@ -12023,8 +12023,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-image-gen",
@@ -12054,8 +12054,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-images",
@@ -12085,8 +12085,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-local",
@@ -12116,8 +12116,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-maps",
@@ -12147,8 +12147,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-page",
@@ -12178,8 +12178,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-plan",
@@ -12209,8 +12209,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-programmatic",
@@ -12240,8 +12240,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-schema",
@@ -12271,8 +12271,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-sitemap",
@@ -12302,8 +12302,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-sxo",
@@ -12333,8 +12333,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "claude-seo-seo-technical",
@@ -12364,8 +12364,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 28581
+      "updatedAt": "2026-11-13",
+      "sourceStars": 28687
     },
     {
       "id": "code-review-and-quality",
@@ -12396,8 +12396,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "code-simplification",
@@ -12428,8 +12428,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "constraint-driven-development",
@@ -12459,8 +12459,8 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "content-repurposing",
@@ -12490,7 +12490,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -12522,8 +12522,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "dapp-architect",
@@ -12553,7 +12553,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -12585,8 +12585,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "deploy-to-vercel",
@@ -12616,8 +12616,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33955
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33961
     },
     {
       "id": "deprecation-and-migration",
@@ -12648,8 +12648,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "discernment-nudge",
@@ -12677,8 +12677,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "doc-coauthoring",
@@ -12706,8 +12706,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "documentation-and-adrs",
@@ -12738,8 +12738,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "doubt-driven-development",
@@ -12770,8 +12770,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "email-drafting",
@@ -12801,7 +12801,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -12832,7 +12832,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -12861,8 +12861,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "frontend-ui-engineering",
@@ -12893,8 +12893,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "generative-engine-optimization",
@@ -12924,7 +12924,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1
     },
     {
@@ -12956,8 +12956,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "git-workflow-recipes",
@@ -12987,7 +12987,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -13018,7 +13018,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -13049,8 +13049,8 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "incremental-implementation",
@@ -13081,8 +13081,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "internal-comms",
@@ -13110,8 +13110,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "interview-me",
@@ -13142,8 +13142,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "kostja-affiliate-marketing",
@@ -13173,7 +13173,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13204,7 +13204,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13235,7 +13235,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13266,7 +13266,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13297,7 +13297,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13328,7 +13328,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13359,7 +13359,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13390,7 +13390,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13421,7 +13421,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13452,7 +13452,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13483,7 +13483,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13514,7 +13514,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13545,7 +13545,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13576,7 +13576,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13607,7 +13607,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13638,7 +13638,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13669,7 +13669,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13700,7 +13700,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13731,7 +13731,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13762,7 +13762,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13793,7 +13793,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13824,7 +13824,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13855,7 +13855,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13886,7 +13886,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13917,7 +13917,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13948,7 +13948,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -13979,7 +13979,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14010,7 +14010,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14041,7 +14041,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14072,7 +14072,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14103,7 +14103,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14134,7 +14134,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14165,7 +14165,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14196,7 +14196,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14227,7 +14227,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14258,7 +14258,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14289,7 +14289,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14320,7 +14320,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14351,7 +14351,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14382,7 +14382,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14413,7 +14413,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14444,7 +14444,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14475,7 +14475,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14506,7 +14506,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14537,7 +14537,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14568,7 +14568,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14599,7 +14599,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14630,7 +14630,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14661,7 +14661,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14692,7 +14692,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14723,7 +14723,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14754,7 +14754,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14785,7 +14785,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14816,7 +14816,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14847,7 +14847,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14878,7 +14878,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14909,7 +14909,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14940,7 +14940,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -14971,7 +14971,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15002,7 +15002,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15033,7 +15033,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15064,7 +15064,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15095,7 +15095,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15126,7 +15126,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15157,7 +15157,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15188,7 +15188,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15219,7 +15219,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15250,7 +15250,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15281,7 +15281,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15312,7 +15312,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15343,7 +15343,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15374,7 +15374,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15405,7 +15405,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15436,7 +15436,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15467,7 +15467,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15498,7 +15498,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15529,7 +15529,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1099
     },
     {
@@ -15560,7 +15560,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -15591,8 +15591,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-ad-creative",
@@ -15622,8 +15622,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-ads",
@@ -15653,8 +15653,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-ai-seo",
@@ -15684,8 +15684,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-analytics",
@@ -15715,8 +15715,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-aso",
@@ -15746,8 +15746,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-attribution",
@@ -15777,8 +15777,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-churn-prevention",
@@ -15808,8 +15808,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-co-marketing",
@@ -15839,8 +15839,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-cold-email",
@@ -15870,8 +15870,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-community-marketing",
@@ -15901,8 +15901,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-competitor-profiling",
@@ -15932,8 +15932,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-competitors",
@@ -15963,8 +15963,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-content-strategy",
@@ -15994,8 +15994,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-copy-editing",
@@ -16025,8 +16025,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-copywriting",
@@ -16056,8 +16056,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-cro",
@@ -16087,8 +16087,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-customer-research",
@@ -16118,8 +16118,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-directory-submissions",
@@ -16149,8 +16149,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-emails",
@@ -16180,8 +16180,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-events",
@@ -16211,8 +16211,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-free-tools",
@@ -16242,8 +16242,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-image",
@@ -16273,8 +16273,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-influencer-marketing",
@@ -16304,8 +16304,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-launch",
@@ -16335,8 +16335,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-lead-magnets",
@@ -16366,8 +16366,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-link-building",
@@ -16397,8 +16397,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-marketing-council",
@@ -16428,8 +16428,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-marketing-ideas",
@@ -16459,8 +16459,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-marketing-loops",
@@ -16490,8 +16490,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-marketing-plan",
@@ -16521,8 +16521,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-marketing-psychology",
@@ -16552,8 +16552,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-offers",
@@ -16583,8 +16583,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-onboarding",
@@ -16614,8 +16614,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-paywalls",
@@ -16645,8 +16645,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-popups",
@@ -16676,8 +16676,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-pricing",
@@ -16707,8 +16707,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-product-marketing",
@@ -16738,8 +16738,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-programmatic-seo",
@@ -16769,8 +16769,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-prospecting",
@@ -16800,8 +16800,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-public-relations",
@@ -16831,8 +16831,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-referrals",
@@ -16862,8 +16862,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-revops",
@@ -16893,8 +16893,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-sales-enablement",
@@ -16924,8 +16924,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-schema",
@@ -16955,8 +16955,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-seo-audit",
@@ -16986,8 +16986,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-signup",
@@ -17017,8 +17017,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-site-architecture",
@@ -17048,8 +17048,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-sms",
@@ -17079,8 +17079,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-social",
@@ -17110,8 +17110,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ms-video",
@@ -17141,8 +17141,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 59938
+      "updatedAt": "2026-11-13",
+      "sourceStars": 59972
     },
     {
       "id": "ngrx-feature-scaffold",
@@ -17172,7 +17172,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -17203,7 +17203,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17234,7 +17234,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17265,7 +17265,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17296,7 +17296,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17327,7 +17327,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17358,7 +17358,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17389,7 +17389,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17420,7 +17420,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17451,7 +17451,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17482,7 +17482,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17513,7 +17513,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17544,7 +17544,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17575,7 +17575,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17606,7 +17606,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17637,7 +17637,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17668,7 +17668,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 449
     },
     {
@@ -17700,8 +17700,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "performance-optimization",
@@ -17732,8 +17732,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "planning-and-task-breakdown",
@@ -17764,8 +17764,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "prompt-engineering-patterns",
@@ -17795,7 +17795,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -17826,7 +17826,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1
     },
     {
@@ -17857,7 +17857,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -17888,7 +17888,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -17919,7 +17919,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -17950,7 +17950,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -17982,8 +17982,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "setup-experiment",
@@ -18013,7 +18013,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1
     },
     {
@@ -18045,8 +18045,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "signal-config",
@@ -18076,7 +18076,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1
     },
     {
@@ -18107,7 +18107,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 1
     },
     {
@@ -18136,8 +18136,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "solana-program-scaffold",
@@ -18167,7 +18167,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -18199,8 +18199,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "spec-driven-development",
@@ -18231,8 +18231,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "stripe-subscription-lifecycle",
@@ -18262,7 +18262,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -18293,7 +18293,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -18325,8 +18325,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "theme-factory",
@@ -18354,8 +18354,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 193616
+      "updatedAt": "2026-11-13",
+      "sourceStars": 193700
     },
     {
       "id": "using-agent-skills",
@@ -18386,8 +18386,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 116547
+      "updatedAt": "2026-11-13",
+      "sourceStars": 116674
     },
     {
       "id": "vercel-cli-with-tokens",
@@ -18417,8 +18417,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33955
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33961
     },
     {
       "id": "vercel-react-best-practices",
@@ -18448,8 +18448,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33955
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33961
     },
     {
       "id": "vercel-react-view-transitions",
@@ -18479,8 +18479,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33955
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33961
     },
     {
       "id": "wagmi-contract-interaction",
@@ -18510,7 +18510,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -18541,8 +18541,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33955
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33961
     },
     {
       "id": "writing-guidelines",
@@ -18572,8 +18572,8 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
-      "sourceStars": 33955
+      "updatedAt": "2026-11-13",
+      "sourceStars": 33961
     },
     {
       "id": "writing-style-editor",
@@ -18603,7 +18603,7 @@
       "reviewed": false,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 2
     },
     {
@@ -18632,7 +18632,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18661,7 +18661,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18690,7 +18690,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18719,7 +18719,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18748,7 +18748,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18777,7 +18777,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18806,7 +18806,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18835,7 +18835,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18864,7 +18864,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18893,7 +18893,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18922,7 +18922,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18951,7 +18951,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -18980,7 +18980,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19010,7 +19010,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19039,7 +19039,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19068,7 +19068,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19097,7 +19097,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19126,7 +19126,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19155,7 +19155,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19184,7 +19184,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19213,7 +19213,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19242,7 +19242,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19271,7 +19271,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19300,7 +19300,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19329,7 +19329,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19358,7 +19358,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19387,7 +19387,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19416,7 +19416,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19445,7 +19445,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19474,7 +19474,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19503,7 +19503,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19532,7 +19532,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19561,7 +19561,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19590,7 +19590,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19619,7 +19619,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19648,7 +19648,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19677,7 +19677,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19706,7 +19706,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19735,7 +19735,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19764,7 +19764,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19793,7 +19793,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19822,7 +19822,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19851,7 +19851,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19880,7 +19880,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19909,7 +19909,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19938,7 +19938,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19967,7 +19967,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -19996,7 +19996,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20025,7 +20025,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20054,7 +20054,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20083,7 +20083,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20112,7 +20112,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20141,7 +20141,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20170,7 +20170,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20199,7 +20199,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20228,7 +20228,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20257,7 +20257,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20286,7 +20286,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20315,7 +20315,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20344,7 +20344,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20373,7 +20373,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20402,7 +20402,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20431,7 +20431,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20460,7 +20460,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20489,7 +20489,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20518,7 +20518,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20547,7 +20547,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20576,7 +20576,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20605,7 +20605,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20634,7 +20634,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20663,7 +20663,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20692,7 +20692,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20721,7 +20721,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20750,7 +20750,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20779,7 +20779,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20808,7 +20808,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20837,7 +20837,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20866,7 +20866,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20895,7 +20895,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20924,7 +20924,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20953,7 +20953,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -20982,7 +20982,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21011,7 +21011,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21040,7 +21040,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21069,7 +21069,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21098,7 +21098,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21127,7 +21127,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21157,7 +21157,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21186,7 +21186,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21215,7 +21215,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21245,7 +21245,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-11",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21274,7 +21274,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21303,7 +21303,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21332,7 +21332,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21361,7 +21361,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21390,7 +21390,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21419,7 +21419,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21448,7 +21448,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21477,7 +21477,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21506,7 +21506,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21535,7 +21535,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21564,7 +21564,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     },
     {
@@ -21593,7 +21593,7 @@
       "reviewed": true,
       "hasScripts": false,
       "addedAt": "2026-11-12",
-      "updatedAt": "2026-11-12",
+      "updatedAt": "2026-11-13",
       "sourceStars": 0
     }
   ]

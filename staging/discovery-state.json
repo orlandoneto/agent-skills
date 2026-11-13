@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T18:46:40.244Z",
+  "updatedAt": "2026-11-13T00:53:35.281Z",
   "note": "Cache de descoberta (repos/queries). Postgres/Redis = futuro se volume exigir.",
   "queries": {
     "code-skill-md-skills-path": {
-      "lastPage": 0,
-      "lastRunAt": null,
+      "lastPage": 1,
+      "lastRunAt": "2026-11-13T00:53:01.309Z",
       "done": false
     },
     "code-skill-md": {
@@ -14,25 +14,25 @@
       "done": false
     },
     "repo-topic-agent-skills": {
-      "lastPage": 2,
-      "lastRunAt": "2026-11-12T18:46:02.423Z",
+      "lastPage": 4,
+      "lastRunAt": "2026-11-13T00:53:10.873Z",
       "done": false
     },
     "repo-topic-claude-skills": {
-      "lastPage": 2,
-      "lastRunAt": "2026-11-12T18:46:07.041Z",
+      "lastPage": 4,
+      "lastRunAt": "2026-11-13T00:53:14.999Z",
       "done": false
     },
     "repo-name-agent-skills": {
-      "lastPage": 2,
-      "lastRunAt": "2026-11-12T18:46:11.655Z",
+      "lastPage": 4,
+      "lastRunAt": "2026-11-13T00:53:19.213Z",
       "done": false
     }
   },
   "repos": {
     "addyosmani/agent-skills": {
       "firstSeenAt": "2026-11-12T18:46:12.854Z",
-      "lastCheckedAt": "2026-11-12T18:46:12.854Z",
+      "lastCheckedAt": "2026-11-13T00:53:24.138Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -195,7 +195,7 @@
     },
     "anthropics/skills": {
       "firstSeenAt": "2026-11-12T18:46:29.019Z",
-      "lastCheckedAt": "2026-11-12T18:46:29.019Z",
+      "lastCheckedAt": "2026-11-13T00:53:31.564Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -322,6 +322,226 @@
       "skillsPathOk": true,
       "stars": 1707,
       "pushedAt": "2026-10-08T19:06:40Z"
+    },
+    "0x0funky/agent-sprite-forge": {
+      "firstSeenAt": "2026-11-13T00:53:20.414Z",
+      "lastCheckedAt": "2026-11-13T00:53:21.161Z",
+      "status": "dynamic",
+      "reason": "adicionado a dynamic-sources",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": true,
+      "stars": 5559,
+      "pushedAt": "2026-11-06T18:20:34Z"
+    },
+    "0xnyk/awesome-hermes-agent": {
+      "firstSeenAt": "2026-11-13T00:53:21.161Z",
+      "lastCheckedAt": "2026-11-13T00:53:21.913Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": null,
+      "skillsPathOk": false,
+      "stars": 6007,
+      "pushedAt": "2026-10-27T14:12:42Z"
+    },
+    "a5c-ai/babysitter": {
+      "firstSeenAt": "2026-11-13T00:53:21.913Z",
+      "lastCheckedAt": "2026-11-13T00:53:22.658Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": false,
+      "stars": 1908,
+      "pushedAt": "2026-11-01T17:01:59Z"
+    },
+    "actboy168/bee.lua": {
+      "firstSeenAt": "2026-11-13T00:53:22.658Z",
+      "lastCheckedAt": "2026-11-13T00:53:23.399Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": false,
+      "stars": 195,
+      "pushedAt": "2026-10-28T03:06:22Z"
+    },
+    "activeloopai/hivemind": {
+      "firstSeenAt": "2026-11-13T00:53:23.399Z",
+      "lastCheckedAt": "2026-11-13T00:53:24.138Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "skillsPathOk": false,
+      "stars": 1654,
+      "pushedAt": "2026-11-11T13:39:16Z"
+    },
+    "addyosmani/web-quality-skills": {
+      "firstSeenAt": "2026-11-13T00:53:24.138Z",
+      "lastCheckedAt": "2026-11-13T00:53:24.905Z",
+      "status": "dynamic",
+      "reason": "adicionado a dynamic-sources",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": true,
+      "stars": 3078,
+      "pushedAt": "2026-08-24T21:07:36Z"
+    },
+    "ahmadawais/ramadan-cli": {
+      "firstSeenAt": "2026-11-13T00:53:24.906Z",
+      "lastCheckedAt": "2026-11-13T00:53:25.681Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": false,
+      "stars": 604,
+      "pushedAt": "2026-06-08T21:28:55Z"
+    },
+    "aipoch/open-science": {
+      "firstSeenAt": "2026-11-13T00:53:25.681Z",
+      "lastCheckedAt": "2026-11-13T00:53:26.412Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "skillsPathOk": false,
+      "stars": 5522,
+      "pushedAt": "2026-11-13T00:51:43Z"
+    },
+    "alchaincyf/huashu-motion": {
+      "firstSeenAt": "2026-11-13T00:53:26.412Z",
+      "lastCheckedAt": "2026-11-13T00:53:27.200Z",
+      "status": "dynamic",
+      "reason": "adicionado a dynamic-sources",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": true,
+      "stars": 2671,
+      "pushedAt": "2026-11-10T00:15:11Z"
+    },
+    "alchaincyf/huashu-skills": {
+      "firstSeenAt": "2026-11-13T00:53:27.200Z",
+      "lastCheckedAt": "2026-11-13T00:53:27.939Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": false,
+      "stars": 2266,
+      "pushedAt": "2026-11-09T07:38:53Z"
+    },
+    "alchaincyf/x-mentor-skill": {
+      "firstSeenAt": "2026-11-13T00:53:27.939Z",
+      "lastCheckedAt": "2026-11-13T00:53:28.632Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": false,
+      "stars": 1336,
+      "pushedAt": "2026-10-13T06:56:15Z"
+    },
+    "alexgreensh/anidoodle": {
+      "firstSeenAt": "2026-11-13T00:53:28.632Z",
+      "lastCheckedAt": "2026-11-13T00:53:29.350Z",
+      "status": "dynamic",
+      "reason": "adicionado a dynamic-sources",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "skillsPathOk": true,
+      "stars": 1649,
+      "pushedAt": "2026-11-05T20:35:49Z"
+    },
+    "alexgreensh/attention-span": {
+      "firstSeenAt": "2026-11-13T00:53:29.350Z",
+      "lastCheckedAt": "2026-11-13T00:53:30.076Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": null,
+      "skillsPathOk": false,
+      "stars": 1572,
+      "pushedAt": "2026-10-30T19:05:02Z"
+    },
+    "answerzhao/agent-skills": {
+      "firstSeenAt": "2026-11-13T00:53:30.076Z",
+      "lastCheckedAt": "2026-11-13T00:53:30.800Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": null,
+      "skillsPathOk": false,
+      "stars": 26,
+      "pushedAt": "2026-01-15T12:06:40Z"
+    },
+    "antfu/skills": {
+      "firstSeenAt": "2026-11-13T00:53:30.800Z",
+      "lastCheckedAt": "2026-11-13T00:53:31.564Z",
+      "status": "dynamic",
+      "reason": "adicionado a dynamic-sources",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": true,
+      "stars": 6067,
+      "pushedAt": "2026-11-11T08:13:27Z"
+    },
+    "antonbabenko/terraform-skill": {
+      "firstSeenAt": "2026-11-13T00:53:31.564Z",
+      "lastCheckedAt": "2026-11-13T00:53:32.292Z",
+      "status": "rejected",
+      "reason": "licença SPDX fora da allowlist / ausente",
+      "path": "skills",
+      "defaultLicense": null,
+      "skillsPathOk": true,
+      "stars": 2463,
+      "pushedAt": "2026-10-24T11:55:58Z"
+    },
+    "antvis/l7": {
+      "firstSeenAt": "2026-11-13T00:53:32.292Z",
+      "lastCheckedAt": "2026-11-13T00:53:33.025Z",
+      "status": "dynamic",
+      "reason": "adicionado a dynamic-sources",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": true,
+      "stars": 4079,
+      "pushedAt": "2026-10-20T06:41:50Z"
+    },
+    "ar9av/obsidian-wiki": {
+      "firstSeenAt": "2026-11-13T00:53:33.025Z",
+      "lastCheckedAt": "2026-11-13T00:53:33.771Z",
+      "status": "dynamic",
+      "reason": "adicionado a dynamic-sources",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": true,
+      "stars": 3720,
+      "pushedAt": "2026-11-12T12:15:04Z"
+    },
+    "arjun988/blender-skills": {
+      "firstSeenAt": "2026-11-13T00:53:33.771Z",
+      "lastCheckedAt": "2026-11-13T00:53:34.506Z",
+      "status": "rejected",
+      "reason": "sem pasta skills/ com subdirs",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": false,
+      "stars": 2601,
+      "pushedAt": "2026-11-06T08:42:41Z"
+    },
+    "arpitg1304/robotics-agent-skills": {
+      "firstSeenAt": "2026-11-13T00:53:34.506Z",
+      "lastCheckedAt": "2026-11-13T00:53:35.275Z",
+      "status": "dynamic",
+      "reason": "adicionado a dynamic-sources",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "skillsPathOk": true,
+      "stars": 401,
+      "pushedAt": "2026-08-12T01:29:38Z"
     }
   }
 }
