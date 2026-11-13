@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T00:53:35.281Z",
+  "updatedAt": "2026-11-13T18:28:59.393Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -13,9 +13,36 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-0xintuition-agent-skills",
+      "type": "github-repo-skills",
+      "repo": "0xintuition/agent-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
       "id": "discovered-addyosmani-web-quality-skills",
       "type": "github-repo-skills",
       "repo": "addyosmani/web-quality-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-aerospike-agent-skills",
+      "type": "github-repo-skills",
+      "repo": "aerospike/agent-skills",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-agent-skills-hub-agent-skills-hub",
+      "type": "github-repo-skills",
+      "repo": "agent-skills-hub/agent-skills-hub",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
@@ -40,6 +67,15 @@
       "discoveredAt": "2026-11-12"
     },
     {
+      "id": "discovered-agricidaniel-claude-blog",
+      "type": "github-repo-skills",
+      "repo": "agricidaniel/claude-blog",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
       "id": "discovered-agricidaniel-claude-obsidian",
       "type": "github-repo-skills",
       "repo": "agricidaniel/claude-obsidian",
@@ -47,6 +83,24 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-ahacker-1-cre-agent-skills",
+      "type": "github-repo-skills",
+      "repo": "ahacker-1/cre-agent-skills",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-aiworkskills-wechat-article-skills",
+      "type": "github-repo-skills",
+      "repo": "aiworkskills/wechat-article-skills",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
     },
     {
       "id": "discovered-alchaincyf-huashu-motion",
@@ -74,6 +128,15 @@
       "defaultLicense": "Apache-2.0",
       "enabled": true,
       "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-amelnagdy-delegate-skills",
+      "type": "github-repo-skills",
+      "repo": "amelnagdy/delegate-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
     },
     {
       "id": "discovered-antfu-skills",
@@ -106,6 +169,15 @@
       "id": "discovered-ar9av-obsidian-wiki",
       "type": "github-repo-skills",
       "repo": "ar9av/obsidian-wiki",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-ark0n-codeman",
+      "type": "github-repo-skills",
+      "repo": "ark0n/codeman",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,

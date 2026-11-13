@@ -2,7 +2,7 @@
 
 - **Novos publicados:** 0
 - **Candidatos staging:** 400
-- **Rejeitados no crawl:** 536
+- **Rejeitados no crawl:** 581
 - **Skipped no publish:** 1
 - **Held (manual/teto):** 1
 
@@ -20,7 +20,6 @@ _Nenhum skill novo SAFE hoje._
 - **2026-11-11** — 70: academy-guide, agent-skill-creator, algorithmic-art, analyze-experiment, api-and-interface-design, brand-guidelines, browser-testing-with-devtools, canvas-design, ci-cd-and-automation, claude-api, code-review-and-quality, code-simplification (+58)
 
 ## Rejeições (top)
-- 445× duplicata
-- 87× pasta scripts/
-- 3× description curta / ausente (anti-lixo)
-- 1× HTTP 404 https://raw.githubusercontent.com/antvis/l7/HEAD/skills/l7-single/SKILL
+- 480× duplicata
+- 96× pasta scripts/
+- 5× description curta / ausente (anti-lixo)
