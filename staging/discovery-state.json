@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T16:55:28.917Z",
+  "updatedAt": "2026-11-14T23:37:21.264Z",
   "note": "Cache de descoberta (repos/queries). Postgres/Redis = futuro se volume exigir.",
   "queries": {
     "code-skill-md-skills-path": {
@@ -16,23 +16,23 @@
     "repo-topic-agent-skills": {
       "lastPage": 10,
       "lastRunAt": "2026-11-14T16:55:04.211Z",
-      "done": false
+      "done": true
     },
     "repo-topic-claude-skills": {
       "lastPage": 10,
       "lastRunAt": "2026-11-14T16:55:08.360Z",
-      "done": false
+      "done": true
     },
     "repo-name-agent-skills": {
       "lastPage": 10,
       "lastRunAt": "2026-11-14T16:55:12.799Z",
-      "done": false
+      "done": true
     }
   },
   "repos": {
     "addyosmani/agent-skills": {
       "firstSeenAt": "2026-11-12T18:46:12.854Z",
-      "lastCheckedAt": "2026-11-14T16:55:15.604Z",
+      "lastCheckedAt": "2026-11-14T23:37:21.258Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -195,7 +195,7 @@
     },
     "anthropics/skills": {
       "firstSeenAt": "2026-11-12T18:46:29.019Z",
-      "lastCheckedAt": "2026-11-14T00:39:42.910Z",
+      "lastCheckedAt": "2026-11-14T23:37:21.258Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -567,7 +567,7 @@
     },
     "aaron-he-zhu/aaron-marketing-skills": {
       "firstSeenAt": "2026-11-13T18:28:46.044Z",
-      "lastCheckedAt": "2026-11-14T16:55:14.797Z",
+      "lastCheckedAt": "2026-11-14T23:37:21.258Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
