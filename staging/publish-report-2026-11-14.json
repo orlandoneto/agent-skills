@@ -1,0 +1,2109 @@
+{
+  "date": "2026-11-14",
+  "published": [
+    {
+      "id": "aitmpl-mlops-weights-and-biases",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/mlops-weights-and-biases",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-model-architecture-litgpt",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-litgpt",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-model-architecture-mamba",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-mamba",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-model-architecture-nanogpt",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-nanogpt",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-model-architecture-rwkv",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-rwkv",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-model-architecture-torchtitan",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-torchtitan",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-multimodal-audiocraft",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-audiocraft",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-multimodal-blip-2",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-blip-2",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-multimodal-clip",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-clip",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-multimodal-llava",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-llava",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-multimodal-segment-anything",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-segment-anything",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-multimodal-stable-diffusion",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-stable-diffusion",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-multimodal-whisper",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-whisper",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-observability-langsmith",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/observability-langsmith",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-observability-phoenix",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/observability-phoenix",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-openai-docs",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/openai-docs",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-optimization-awq",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-awq",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-optimization-bitsandbytes",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-bitsandbytes",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-optimization-flash-attention",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-flash-attention",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-optimization-gguf",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-gguf",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-optimization-gptq",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-gptq",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-optimization-hqq",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-hqq",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-parallel-agents",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/parallel-agents",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-perplexity",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/perplexity",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-post-training-grpo-rl-training",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-grpo-rl-training",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-post-training-miles",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-miles",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-post-training-openrlhf",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-openrlhf",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-post-training-slime",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-slime",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-post-training-torchforge",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-torchforge",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-post-training-trl-fine-tuning",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-trl-fine-tuning",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-post-training-verl",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-verl",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-prompt-caching",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-caching",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-prompt-engineer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-prompt-engineering-dspy",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering-dspy",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-prompt-engineering-guidance",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering-guidance",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-prompt-engineering-instructor",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering-instructor",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-prompt-engineering-outlines",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering-outlines",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-prompt-engineering",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-prompt-library",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-library",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-pydantic-ai",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/pydantic-ai",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-rag-chroma",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-chroma",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-rag-engineer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-engineer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-rag-faiss",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-faiss",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-rag-implementation",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-implementation",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-rag-pinecone",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-pinecone",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-rag-qdrant",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-qdrant",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-rag-sentence-transformers",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-sentence-transformers",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-safety-alignment-constitutional-ai",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/safety-alignment-constitutional-ai",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-safety-alignment-llamaguard",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/safety-alignment-llamaguard",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-safety-alignment-nemo-guardrails",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/safety-alignment-nemo-guardrails",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-tokenization-huggingface-tokenizers",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/tokenization-huggingface-tokenizers",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-tokenization-sentencepiece",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/tokenization-sentencepiece",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-voice-ai-development",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/voice-ai-development",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-academic-cv-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/academic-cv-builder",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-career-changer-translator",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/career-changer-translator",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-cover-letter-generator",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/cover-letter-generator",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-creative-portfolio-resume",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/creative-portfolio-resume",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-executive-resume-writer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/executive-resume-writer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-healthcare-job-search",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/healthcare-job-search",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-interview-prep-generator",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/interview-prep-generator",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-job-description-analyzer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/job-description-analyzer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-linkedin-profile-optimizer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/linkedin-profile-optimizer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-offer-comparison-analyzer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/offer-comparison-analyzer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-portfolio-case-study-writer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/portfolio-case-study-writer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-reference-list-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/reference-list-builder",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-resume-ats-optimizer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-ats-optimizer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-resume-bullet-writer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-bullet-writer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-resume-formatter",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-formatter",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-resume-quantifier",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-quantifier",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-resume-section-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-section-builder",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-resume-tailor",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-tailor",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-resume-version-manager",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-version-manager",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-salary-negotiation-prep",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/salary-negotiation-prep",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-tech-resume-optimizer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/tech-resume-optimizer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-3d-web-experience",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/3d-web-experience",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-accessibility-auditor",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/accessibility-auditor",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-c4-architecture",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/c4-architecture",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-claude-d3js-skill",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/claude-d3js-skill",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-diagrammer",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/diagrammer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-excalidraw",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/excalidraw",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-game-development",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/game-development",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-interactive-portfolio",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/interactive-portfolio",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-marp-slide",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/marp-slide",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-mermaid-diagrams",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/mermaid-diagrams",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-patentfig",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/patentfig",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-remotion-best-practices",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/remotion-best-practices",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-scroll-experience",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/scroll-experience",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-tailwind-patterns",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/tailwind-patterns",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-curviate-engage",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-engage",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-curviate-inbox",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-inbox",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-curviate-jobs",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-jobs",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-curviate-network",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-network",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-curviate-premium",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-premium",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-curviate-profile",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-profile",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-curviate-quickstart",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-quickstart",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-curviate-search",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-search",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-curviate",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-neon-instagres",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/neon-instagres",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-postgresql-optimization",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/postgresql-optimization",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-readonly-sql-guard",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/readonly-sql-guard",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-using-neon",
+      "score": 100,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/using-neon",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "super-video-maker",
+      "score": 100,
+      "sourceUrl": "https://github.com/Bomx/OpenVideo/tree/HEAD/.",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "accessibility",
+      "score": 100,
+      "sourceUrl": "https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/accessibility",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "best-practices",
+      "score": 100,
+      "sourceUrl": "https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/best-practices",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "core-web-vitals",
+      "score": 100,
+      "sourceUrl": "https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/core-web-vitals",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "performance",
+      "score": 100,
+      "sourceUrl": "https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/performance",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "seo",
+      "score": 100,
+      "sourceUrl": "https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/seo",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aerospike-data-modeling",
+      "score": 100,
+      "sourceUrl": "https://github.com/aerospike/agent-skills/tree/HEAD/skills/aerospike-data-modeling",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aerospike-development",
+      "score": 100,
+      "sourceUrl": "https://github.com/aerospike/agent-skills/tree/HEAD/skills/aerospike-development",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aerospike-getting-started",
+      "score": 100,
+      "sourceUrl": "https://github.com/aerospike/agent-skills/tree/HEAD/skills/aerospike-getting-started",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "ab-test-setup",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ab-test-setup",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "ad-creative",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ad-creative",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "adaptyv",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/adaptyv",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "address-github-comments",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/address-github-comments",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aeon",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/aeon",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "agent-orchestration-improve-agent",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/agent-orchestration-improve-agent",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "agent-orchestration-multi-agent-optimize",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/agent-orchestration-multi-agent-optimize",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "ai-antislop",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ai-antislop",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "ai-seo",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ai-seo",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "ai-wrapper-product",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ai-wrapper-product",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "airflow-dag-patterns",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/airflow-dag-patterns",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "alpha-vantage",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/alpha-vantage",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "alphafold-database",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/alphafold-database",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "analytics-tracking",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/analytics-tracking",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "angular-best-practices",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/angular-best-practices",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "angular-migration",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/angular-migration",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "angular-state-management",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/angular-state-management",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "angular-ui-patterns",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/angular-ui-patterns",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "anndata",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/anndata",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "anti-reversing-techniques",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/anti-reversing-techniques",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "api-security-best-practices",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/api-security-best-practices",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "application-performance-performance-optimization",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/application-performance-performance-optimization",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "architecture-decision-records",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/architecture-decision-records",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "architecture-patterns",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/architecture-patterns",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "artifact-yylo",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/artifact-yylo",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "astropy",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/astropy",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "attack-tree-construction",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/attack-tree-construction",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "auth-implementation-patterns",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/auth-implementation-patterns",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "automate-whatsapp",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/automate-whatsapp",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aws-skills",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/aws-skills",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "backend-dev-guidelines",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/backend-dev-guidelines",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "backend-development-feature-development",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/backend-development-feature-development",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "backend-security-coder",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/backend-security-coder",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "backtesting-frameworks",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/backtesting-frameworks",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "bash-defensive-patterns",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bash-defensive-patterns",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "bats-testing-patterns",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bats-testing-patterns",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "bazel-build-optimization",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bazel-build-optimization",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "beautiful-prose",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/beautiful-prose",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "benchling-integration",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/benchling-integration",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "bgpt-paper-search",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bgpt-paper-search",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "bilig-workpaper",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bilig-workpaper",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "billing-automation",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/billing-automation",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "binary-analysis-patterns",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/binary-analysis-patterns",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "biopython",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/biopython",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blockrun",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/blockrun",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "browser-extension-builder",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/browser-extension-builder",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "build-sdf-liquid-glass",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/build-sdf-liquid-glass",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "build-webgl-liquid-glass",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/build-webgl-liquid-glass",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "c4-code",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/c4-code",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "cellxgene-census",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/cellxgene-census",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "changelog-automation",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/changelog-automation",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "churn-prevention",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/churn-prevention",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "cirq",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/cirq",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "clarity-gate",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/clarity-gate",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "claude-ally-health",
+      "score": 100,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/claude-ally-health",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blog-analyze",
+      "score": 100,
+      "sourceUrl": "https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-analyze",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blog-audit",
+      "score": 100,
+      "sourceUrl": "https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-audit",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blog-brand",
+      "score": 100,
+      "sourceUrl": "https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-brand",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blog-brief",
+      "score": 100,
+      "sourceUrl": "https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-brief",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blog-calendar",
+      "score": 100,
+      "sourceUrl": "https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-calendar",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blog-cannibalization",
+      "score": 100,
+      "sourceUrl": "https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-cannibalization",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blog-cluster",
+      "score": 100,
+      "sourceUrl": "https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-cluster",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blog-decay",
+      "score": 100,
+      "sourceUrl": "https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-decay",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "autoresearch",
+      "score": 100,
+      "sourceUrl": "https://github.com/agricidaniel/claude-obsidian/tree/HEAD/skills/autoresearch",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-condense",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/code-quality/condense",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-joy-check",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/code-quality/joy-check",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-domain",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/domain/domain",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-cli-design",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/engineering/cli-design",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-frontend",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/frontend/frontend",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-webgl-card-effects",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/frontend/webgl-card-effects",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-game-asset-generator",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/game/game-asset-generator",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-motion-pipeline",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/game/motion-pipeline",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-browser-jev-automation",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/browser-jev-automation",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-cve-source-check",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/cve-source-check",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-deploy",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/deploy",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-endpoint-validator",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/endpoint-validator",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-headless-cron-creator",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/headless-cron-creator",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-kubernetes",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/kubernetes",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-github",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/integrations/github",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-accounts",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/accounts",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-auto-dream",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/auto-dream",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-building-with-jev",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/building-with-jev",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-codex",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/codex",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-d",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/d",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-do",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/do",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-debugging",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/debugging",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-improve",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/improve",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-quick",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/quick",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-testing",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/testing",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-with-anti-rationalization",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/with-anti-rationalization",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-workflow",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/workflow",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-worktree-agent",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/worktree-agent",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-integration-checker",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/review/integration-checker",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-review",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/review/review",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "notque-security",
+      "score": 95,
+      "sourceUrl": "https://github.com/notque/vexjoy-agent/tree/HEAD/skills/review/security",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-agent-memory-mcp",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agent-memory-mcp",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-agent-memory-systems",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agent-memory-systems",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-agent-tool-builder",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agent-tool-builder",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-autonomous-agents",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/autonomous-agents",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-claude-code-guide",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/claude-code-guide",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-data-engineer",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/data-engineer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-data-scientist",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/data-scientist",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-datadog-cli",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/datadog-cli",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-deep-research-notebooklm",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/deep-research-notebooklm",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-gemini-api-agent-platform",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/gemini-api-agent-platform",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-llm-evaluation",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/llm-evaluation",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-ml-engineer",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/ml-engineer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-research-engineer",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/research-engineer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-voice-agents",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/voice-agents",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-figma-implement-design",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/figma-implement-design",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-figma",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/figma",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-premium-web-design",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/premium-web-design",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-alloydb-basics",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/alloydb-basics",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-bigquery-basics",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/bigquery-basics",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-cloud-sql-basics",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/cloud-sql-basics",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-database-architect",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/database-architect",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-database-migration",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/database-migration",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-database-optimizer",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/database-optimizer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-postgres-schema-design",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/postgres-schema-design",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-postgresql",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/postgresql",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-sql-pro",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/sql-pro",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aitmpl-supabase-postgres-best-practices",
+      "score": 95,
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/supabase-postgres-best-practices",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "ck-security-best-practices",
+      "score": 95,
+      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/security-best-practices",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "ck-security-threat-model",
+      "score": 95,
+      "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/security-threat-model",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "intuition",
+      "score": 95,
+      "sourceUrl": "https://github.com/0xintuition/agent-skills/tree/HEAD/skills/intuition",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "accessibility-compliance-accessibility-audit",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/accessibility-compliance-accessibility-audit",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "active-directory-attacks",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/active-directory-attacks",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "ai-engineer",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ai-engineer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "api-documenter",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/api-documenter",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "api-testing-observability-api-mock",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/api-testing-observability-api-mock",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "architect-review",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/architect-review",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "arm-cortex-expert",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/arm-cortex-expert",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "aws-penetration-testing",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/aws-penetration-testing",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "blockchain-developer",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/blockchain-developer",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "brainstorming",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/brainstorming",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "browser-automation",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/browser-automation",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "business-analyst",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/business-analyst",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "busybox-on-windows",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/busybox-on-windows",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "c4-architecture-c4-architecture",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/c4-architecture-c4-architecture",
+      "addedAt": "2026-11-14"
+    },
+    {
+      "id": "c4-component",
+      "score": 95,
+      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/c4-component",
+      "addedAt": "2026-11-14"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "doc-coauthoring",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "kostja-brand-visual",
+      "reason": "name \"brand-visual-generator\" deve casar com pasta \"kostja-brand-visual\""
+    },
+    {
+      "id": "kostja-favicon",
+      "reason": "name \"favicon-generator\" deve casar com pasta \"kostja-favicon\""
+    },
+    {
+      "id": "kostja-url-slug",
+      "reason": "name \"url-slug-generator\" deve casar com pasta \"kostja-url-slug\""
+    },
+    {
+      "id": "kostja-article",
+      "reason": "name \"article-content\" deve casar com pasta \"kostja-article\""
+    },
+    {
+      "id": "kostja-podcast",
+      "reason": "name \"podcast-marketing\" deve casar com pasta \"kostja-podcast\""
+    },
+    {
+      "id": "kostja-video",
+      "reason": "name \"video-marketing\" deve casar com pasta \"kostja-video\""
+    },
+    {
+      "id": "kostja-grokipedia",
+      "reason": "name \"grokipedia-recommendations\" deve casar com pasta \"kostja-grokipedia\""
+    },
+    {
+      "id": "kostja-linkedin",
+      "reason": "name \"linkedin-posts\" deve casar com pasta \"kostja-linkedin\""
+    },
+    {
+      "id": "kostja-medium",
+      "reason": "name \"medium-posts\" deve casar com pasta \"kostja-medium\""
+    },
+    {
+      "id": "kostja-pinterest",
+      "reason": "name \"pinterest-posts\" deve casar com pasta \"kostja-pinterest\""
+    },
+    {
+      "id": "kostja-reddit",
+      "reason": "name \"reddit-posts\" deve casar com pasta \"kostja-reddit\""
+    },
+    {
+      "id": "kostja-tiktok",
+      "reason": "name \"tiktok-captions\" deve casar com pasta \"kostja-tiktok\""
+    },
+    {
+      "id": "kostja-x",
+      "reason": "name \"twitter-x-posts\" deve casar com pasta \"kostja-x\""
+    },
+    {
+      "id": "kostja-youtube",
+      "reason": "name \"youtube-seo\" deve casar com pasta \"kostja-youtube\""
+    },
+    {
+      "id": "kostja-local",
+      "reason": "name \"local-seo\" deve casar com pasta \"kostja-local\""
+    },
+    {
+      "id": "kostja-crawlability",
+      "reason": "name \"site-crawlability\" deve casar com pasta \"kostja-crawlability\""
+    },
+    {
+      "id": "kostja-robots",
+      "reason": "name \"robots-txt\" deve casar com pasta \"kostja-robots\""
+    },
+    {
+      "id": "kostja-sitemap",
+      "reason": "name \"xml-sitemap\" deve casar com pasta \"kostja-sitemap\""
+    },
+    {
+      "id": "kostja-rebranding",
+      "reason": "name \"rebranding-strategy\" deve casar com pasta \"kostja-rebranding\""
+    },
+    {
+      "id": "kostja-geo",
+      "reason": "name \"generative-engine-optimization\" deve casar com pasta \"kostja-geo\""
+    },
+    {
+      "id": "kostja-open-source",
+      "reason": "name \"open-source-strategy\" deve casar com pasta \"kostja-open-source\""
+    },
+    {
+      "id": "kostja-paid-ads",
+      "reason": "name \"paid-ads-strategy\" deve casar com pasta \"kostja-paid-ads\""
+    },
+    {
+      "id": "kostja-discount-marketing",
+      "reason": "name \"discount-marketing-strategy\" deve casar com pasta \"kostja-discount-marketing\""
+    },
+    {
+      "id": "kostja-cold-start",
+      "reason": "name \"cold-start-strategy\" deve casar com pasta \"kostja-cold-start\""
+    },
+    {
+      "id": "kostja-conversion",
+      "reason": "name \"conversion-optimization\" deve casar com pasta \"kostja-conversion\""
+    },
+    {
+      "id": "kostja-gtm",
+      "reason": "name \"gtm-strategy\" deve casar com pasta \"kostja-gtm\""
+    },
+    {
+      "id": "kostja-indie-hacker",
+      "reason": "name \"indie-hacker-strategy\" deve casar com pasta \"kostja-indie-hacker\""
+    },
+    {
+      "id": "kostja-pmf",
+      "reason": "name \"pmf-strategy\" deve casar com pasta \"kostja-pmf\""
+    },
+    {
+      "id": "kostja-retention",
+      "reason": "name \"retention-strategy\" deve casar com pasta \"kostja-retention\""
+    },
+    {
+      "id": "kostja-seo",
+      "reason": "name \"seo-strategy\" deve casar com pasta \"kostja-seo\""
+    },
+    {
+      "id": "aitmpl-distributed-training-deepspeed",
+      "reason": "SKILL.md muito grande (145009 B)"
+    },
+    {
+      "id": "aitmpl-distributed-training-pytorch-fsdp",
+      "reason": "SKILL.md muito grande (160184 B)"
+    },
+    {
+      "id": "claude-d3js-skill",
+      "reason": "name \"d3-viz\" deve casar com pasta \"claude-d3js-skill\""
+    },
+    {
+      "id": "kostja-ai-traffic",
+      "reason": "name \"ai-traffic-tracking\" deve casar com pasta \"kostja-ai-traffic\""
+    },
+    {
+      "id": "kostja-traffic",
+      "reason": "name \"traffic-analysis\" deve casar com pasta \"kostja-traffic\""
+    },
+    {
+      "id": "kostja-tracking",
+      "reason": "name \"analytics-tracking\" deve casar com pasta \"kostja-tracking\""
+    },
+    {
+      "id": "kostja-hero",
+      "reason": "name \"hero-generator\" deve casar com pasta \"kostja-hero\""
+    },
+    {
+      "id": "kostja-logo",
+      "reason": "name \"logo-generator\" deve casar com pasta \"kostja-logo\""
+    },
+    {
+      "id": "kostja-comparison-table",
+      "reason": "name \"comparison-table-generator\" deve casar com pasta \"kostja-comparison-table\""
+    },
+    {
+      "id": "kostja-howto-section",
+      "reason": "name \"howto-section-generator\" deve casar com pasta \"kostja-howto-section\""
+    },
+    {
+      "id": "kostja-cta",
+      "reason": "name \"cta-generator\" deve casar com pasta \"kostja-cta\""
+    },
+    {
+      "id": "kostja-newsletter-signup",
+      "reason": "name \"newsletter-signup-generator\" deve casar com pasta \"kostja-newsletter-signup\""
+    },
+    {
+      "id": "kostja-popup",
+      "reason": "name \"popup-generator\" deve casar com pasta \"kostja-popup\""
+    },
+    {
+      "id": "kostja-testimonials",
+      "reason": "name \"testimonials-generator\" deve casar com pasta \"kostja-testimonials\""
+    },
+    {
+      "id": "kostja-trust-badges",
+      "reason": "name \"trust-badges-generator\" deve casar com pasta \"kostja-trust-badges\""
+    },
+    {
+      "id": "kostja-breadcrumb",
+      "reason": "name \"breadcrumb-generator\" deve casar com pasta \"kostja-breadcrumb\""
+    },
+    {
+      "id": "kostja-footer",
+      "reason": "name \"footer-generator\" deve casar com pasta \"kostja-footer\""
+    },
+    {
+      "id": "kostja-navigation-menu",
+      "reason": "name \"navigation-menu-generator\" deve casar com pasta \"kostja-navigation-menu\""
+    },
+    {
+      "id": "kostja-sidebar",
+      "reason": "name \"sidebar-generator\" deve casar com pasta \"kostja-sidebar\""
+    },
+    {
+      "id": "kostja-toc",
+      "reason": "name \"toc-generator\" deve casar com pasta \"kostja-toc\""
+    },
+    {
+      "id": "kostja-social-share",
+      "reason": "name \"social-share-generator\" deve casar com pasta \"kostja-social-share\""
+    },
+    {
+      "id": "kostja-top-banner",
+      "reason": "name \"top-banner-generator\" deve casar com pasta \"kostja-top-banner\""
+    },
+    {
+      "id": "kostja-about",
+      "reason": "name \"about-page-generator\" deve casar com pasta \"kostja-about\""
+    },
+    {
+      "id": "kostja-contact",
+      "reason": "name \"contact-page-generator\" deve casar com pasta \"kostja-contact\""
+    },
+    {
+      "id": "kostja-home",
+      "reason": "name \"homepage-generator\" deve casar com pasta \"kostja-home\""
+    },
+    {
+      "id": "kostja-api",
+      "reason": "name \"api-page-generator\" deve casar com pasta \"kostja-api\""
+    },
+    {
+      "id": "kostja-article",
+      "reason": "name \"article-page-generator\" deve casar com pasta \"kostja-article\""
+    },
+    {
+      "id": "kostja-blog",
+      "reason": "name \"blog-page-generator\" deve casar com pasta \"kostja-blog\""
+    },
+    {
+      "id": "kostja-faq",
+      "reason": "name \"faq-page-generator\" deve casar com pasta \"kostja-faq\""
+    },
+    {
+      "id": "kostja-features",
+      "reason": "name \"features-page-generator\" deve casar com pasta \"kostja-features\""
+    },
+    {
+      "id": "kostja-glossary",
+      "reason": "name \"glossary-page-generator\" deve casar com pasta \"kostja-glossary\""
+    },
+    {
+      "id": "kostja-resources",
+      "reason": "name \"resources-page-generator\" deve casar com pasta \"kostja-resources\""
+    },
+    {
+      "id": "kostja-template-page",
+      "reason": "name \"template-page-generator\" deve casar com pasta \"kostja-template-page\""
+    },
+    {
+      "id": "kostja-tools",
+      "reason": "name \"tools-page-generator\" deve casar com pasta \"kostja-tools\""
+    },
+    {
+      "id": "kostja-cookie-policy",
+      "reason": "name \"cookie-policy-page-generator\" deve casar com pasta \"kostja-cookie-policy\""
+    },
+    {
+      "id": "kostja-legal",
+      "reason": "name \"legal-page-generator\" deve casar com pasta \"kostja-legal\""
+    },
+    {
+      "id": "kostja-privacy",
+      "reason": "name \"privacy-page-generator\" deve casar com pasta \"kostja-privacy\""
+    },
+    {
+      "id": "kostja-refund",
+      "reason": "name \"refund-page-generator\" deve casar com pasta \"kostja-refund\""
+    },
+    {
+      "id": "kostja-shipping",
+      "reason": "name \"shipping-page-generator\" deve casar com pasta \"kostja-shipping\""
+    },
+    {
+      "id": "kostja-terms",
+      "reason": "name \"terms-page-generator\" deve casar com pasta \"kostja-terms\""
+    },
+    {
+      "id": "kostja-affiliate-program",
+      "reason": "name \"affiliate-page-generator\" deve casar com pasta \"kostja-affiliate-program\""
+    },
+    {
+      "id": "kostja-alternatives",
+      "reason": "name \"alternatives-page-generator\" deve casar com pasta \"kostja-alternatives\""
+    },
+    {
+      "id": "kostja-category-pages",
+      "reason": "name \"category-page-generator\" deve casar com pasta \"kostja-category-pages\""
+    },
+    {
+      "id": "kostja-contest",
+      "reason": "name \"contest-page-generator\" deve casar com pasta \"kostja-contest\""
+    },
+    {
+      "id": "kostja-customer-stories",
+      "reason": "name \"customer-stories-page-generator\" deve casar com pasta \"kostja-customer-stories\""
+    },
+    {
+      "id": "kostja-download",
+      "reason": "name \"download-page-generator\" deve casar com pasta \"kostja-download\""
+    },
+    {
+      "id": "kostja-integrations",
+      "reason": "name \"integrations-page-generator\" deve casar com pasta \"kostja-integrations\""
+    },
+    {
+      "id": "kostja-landing-page",
+      "reason": "name \"landing-page-generator\" deve casar com pasta \"kostja-landing-page\""
+    },
+    {
+      "id": "kostja-media-kit",
+      "reason": "name \"media-kit-page-generator\" deve casar com pasta \"kostja-media-kit\""
+    },
+    {
+      "id": "kostja-migration",
+      "reason": "name \"migration-page-generator\" deve casar com pasta \"kostja-migration\""
+    },
+    {
+      "id": "kostja-press-coverage",
+      "reason": "name \"press-coverage-page-generator\" deve casar com pasta \"kostja-press-coverage\""
+    },
+    {
+      "id": "kostja-pricing",
+      "reason": "name \"pricing-page-generator\" deve casar com pasta \"kostja-pricing\""
+    },
+    {
+      "id": "kostja-products",
+      "reason": "name \"products-page-generator\" deve casar com pasta \"kostja-products\""
+    },
+    {
+      "id": "kostja-services",
+      "reason": "name \"services-page-generator\" deve casar com pasta \"kostja-services\""
+    },
+    {
+      "id": "kostja-showcase",
+      "reason": "name \"showcase-page-generator\" deve casar com pasta \"kostja-showcase\""
+    },
+    {
+      "id": "kostja-solutions",
+      "reason": "name \"solutions-page-generator\" deve casar com pasta \"kostja-solutions\""
+    },
+    {
+      "id": "kostja-startups",
+      "reason": "name \"startups-page-generator\" deve casar com pasta \"kostja-startups\""
+    },
+    {
+      "id": "kostja-use-cases",
+      "reason": "name \"use-cases-page-generator\" deve casar com pasta \"kostja-use-cases\""
+    },
+    {
+      "id": "kostja-404",
+      "reason": "name \"404-page-generator\" deve casar com pasta \"kostja-404\""
+    },
+    {
+      "id": "kostja-careers",
+      "reason": "name \"careers-page-generator\" deve casar com pasta \"kostja-careers\""
+    },
+    {
+      "id": "kostja-changelog",
+      "reason": "name \"changelog-page-generator\" deve casar com pasta \"kostja-changelog\""
+    },
+    {
+      "id": "kostja-disclosure",
+      "reason": "name \"disclosure-page-generator\" deve casar com pasta \"kostja-disclosure\""
+    },
+    {
+      "id": "kostja-feedback",
+      "reason": "name \"feedback-page-generator\" deve casar com pasta \"kostja-feedback\""
+    },
+    {
+      "id": "kostja-signup-login",
+      "reason": "name \"signup-login-page-generator\" deve casar com pasta \"kostja-signup-login\""
+    },
+    {
+      "id": "kostja-status",
+      "reason": "name \"status-page-generator\" deve casar com pasta \"kostja-status\""
+    },
+    {
+      "id": "kostja-description",
+      "reason": "name \"meta-description\" deve casar com pasta \"kostja-description\""
+    },
+    {
+      "id": "kostja-heading",
+      "reason": "name \"heading-structure\" deve casar com pasta \"kostja-heading\""
+    },
+    {
+      "id": "kostja-metadata",
+      "reason": "name \"page-metadata\" deve casar com pasta \"kostja-metadata\""
+    },
+    {
+      "id": "kostja-title",
+      "reason": "name \"title-tag\" deve casar com pasta \"kostja-title\""
+    },
+    {
+      "id": "kostja-canonical",
+      "reason": "name \"canonical-tag\" deve casar com pasta \"kostja-canonical\""
+    },
+    {
+      "id": "kostja-localization",
+      "reason": "name \"localization-strategy\" deve casar com pasta \"kostja-localization\""
+    },
+    {
+      "id": "api-fuzzing-bug-bounty",
+      "reason": "name \"API Fuzzing for Bug Bounty\" deve casar com pasta \"api-fuzzing-bug-bounty\""
+    },
+    {
+      "id": "broken-authentication",
+      "reason": "name \"Broken Authentication Testing\" deve casar com pasta \"broken-authentication\""
+    },
+    {
+      "id": "burp-suite-testing",
+      "reason": "name \"Burp Suite Web Application Testing\" deve casar com pasta \"burp-suite-testing\""
+    }
+  ],
+  "held": [
+    {
+      "id": "c4-container",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "c4-context",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "cc-skill-backend-patterns",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "cc-skill-clickhouse-io",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "cc-skill-coding-standards",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "cc-skill-frontend-patterns",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "cc-skill-security-review",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "cicd-automation-workflow-automate",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-amazon",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-apple",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-attribution",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-audit",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-budget",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-competitor",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-create",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-creative",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-dna",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-generate",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-google",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-landing",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-launch",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-linkedin",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-math",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-meta",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-microsoft",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-monitor",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-optimize",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-photoshoot",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-pinterest",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-plan",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-reddit",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-report",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-research",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-server-side-tracking",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-setup",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-snapchat",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-test",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-tiktok",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-validate",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-x",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "ads-youtube",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "canvas",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "cc-skill-continuous-learning",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "cc-skill-strategic-compact",
+      "reason": "teto maxAutoPromotePerDay"
+    },
+    {
+      "id": "aitmpl-post-training-simpo",
+      "reason": "teto maxAutoPromotePerDay"
+    }
+  ]
+}

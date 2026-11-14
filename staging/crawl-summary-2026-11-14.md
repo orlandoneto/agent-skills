@@ -1,0 +1,336 @@
+# Crawl summary — 2026-11-14
+
+- **Novos publicados:** 250
+- **Candidatos staging:** 400
+- **Rejeitados no crawl:** 683
+- **Skipped no publish:** 105
+- **Held (manual/teto):** 45
+
+## Adicionados neste run
+- **aitmpl-mlops-weights-and-biases** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/mlops-weights-and-biases)
+- **aitmpl-model-architecture-litgpt** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-litgpt)
+- **aitmpl-model-architecture-mamba** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-mamba)
+- **aitmpl-model-architecture-nanogpt** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-nanogpt)
+- **aitmpl-model-architecture-rwkv** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-rwkv)
+- **aitmpl-model-architecture-torchtitan** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/model-architecture-torchtitan)
+- **aitmpl-multimodal-audiocraft** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-audiocraft)
+- **aitmpl-multimodal-blip-2** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-blip-2)
+- **aitmpl-multimodal-clip** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-clip)
+- **aitmpl-multimodal-llava** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-llava)
+- **aitmpl-multimodal-segment-anything** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-segment-anything)
+- **aitmpl-multimodal-stable-diffusion** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-stable-diffusion)
+- **aitmpl-multimodal-whisper** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/multimodal-whisper)
+- **aitmpl-observability-langsmith** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/observability-langsmith)
+- **aitmpl-observability-phoenix** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/observability-phoenix)
+- **aitmpl-openai-docs** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/openai-docs)
+- **aitmpl-optimization-awq** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-awq)
+- **aitmpl-optimization-bitsandbytes** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-bitsandbytes)
+- **aitmpl-optimization-flash-attention** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-flash-attention)
+- **aitmpl-optimization-gguf** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-gguf)
+- **aitmpl-optimization-gptq** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-gptq)
+- **aitmpl-optimization-hqq** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/optimization-hqq)
+- **aitmpl-parallel-agents** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/parallel-agents)
+- **aitmpl-perplexity** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/perplexity)
+- **aitmpl-post-training-grpo-rl-training** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-grpo-rl-training)
+- **aitmpl-post-training-miles** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-miles)
+- **aitmpl-post-training-openrlhf** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-openrlhf)
+- **aitmpl-post-training-slime** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-slime)
+- **aitmpl-post-training-torchforge** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-torchforge)
+- **aitmpl-post-training-trl-fine-tuning** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-trl-fine-tuning)
+- **aitmpl-post-training-verl** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/post-training-verl)
+- **aitmpl-prompt-caching** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-caching)
+- **aitmpl-prompt-engineer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineer)
+- **aitmpl-prompt-engineering-dspy** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering-dspy)
+- **aitmpl-prompt-engineering-guidance** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering-guidance)
+- **aitmpl-prompt-engineering-instructor** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering-instructor)
+- **aitmpl-prompt-engineering-outlines** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering-outlines)
+- **aitmpl-prompt-engineering** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-engineering)
+- **aitmpl-prompt-library** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/prompt-library)
+- **aitmpl-pydantic-ai** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/pydantic-ai)
+- **aitmpl-rag-chroma** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-chroma)
+- **aitmpl-rag-engineer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-engineer)
+- **aitmpl-rag-faiss** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-faiss)
+- **aitmpl-rag-implementation** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-implementation)
+- **aitmpl-rag-pinecone** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-pinecone)
+- **aitmpl-rag-qdrant** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-qdrant)
+- **aitmpl-rag-sentence-transformers** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/rag-sentence-transformers)
+- **aitmpl-safety-alignment-constitutional-ai** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/safety-alignment-constitutional-ai)
+- **aitmpl-safety-alignment-llamaguard** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/safety-alignment-llamaguard)
+- **aitmpl-safety-alignment-nemo-guardrails** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/safety-alignment-nemo-guardrails)
+- **aitmpl-tokenization-huggingface-tokenizers** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/tokenization-huggingface-tokenizers)
+- **aitmpl-tokenization-sentencepiece** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/tokenization-sentencepiece)
+- **aitmpl-voice-ai-development** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/voice-ai-development)
+- **aitmpl-academic-cv-builder** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/academic-cv-builder)
+- **aitmpl-career-changer-translator** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/career-changer-translator)
+- **aitmpl-cover-letter-generator** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/cover-letter-generator)
+- **aitmpl-creative-portfolio-resume** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/creative-portfolio-resume)
+- **aitmpl-executive-resume-writer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/executive-resume-writer)
+- **aitmpl-healthcare-job-search** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/healthcare-job-search)
+- **aitmpl-interview-prep-generator** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/interview-prep-generator)
+- **aitmpl-job-description-analyzer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/job-description-analyzer)
+- **aitmpl-linkedin-profile-optimizer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/linkedin-profile-optimizer)
+- **aitmpl-offer-comparison-analyzer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/offer-comparison-analyzer)
+- **aitmpl-portfolio-case-study-writer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/portfolio-case-study-writer)
+- **aitmpl-reference-list-builder** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/reference-list-builder)
+- **aitmpl-resume-ats-optimizer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-ats-optimizer)
+- **aitmpl-resume-bullet-writer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-bullet-writer)
+- **aitmpl-resume-formatter** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-formatter)
+- **aitmpl-resume-quantifier** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-quantifier)
+- **aitmpl-resume-section-builder** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-section-builder)
+- **aitmpl-resume-tailor** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-tailor)
+- **aitmpl-resume-version-manager** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/resume-version-manager)
+- **aitmpl-salary-negotiation-prep** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/salary-negotiation-prep)
+- **aitmpl-tech-resume-optimizer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/career/tech-resume-optimizer)
+- **aitmpl-3d-web-experience** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/3d-web-experience)
+- **aitmpl-accessibility-auditor** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/accessibility-auditor)
+- **aitmpl-c4-architecture** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/c4-architecture)
+- **aitmpl-claude-d3js-skill** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/claude-d3js-skill)
+- **aitmpl-diagrammer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/diagrammer)
+- **aitmpl-excalidraw** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/excalidraw)
+- **aitmpl-game-development** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/game-development)
+- **aitmpl-interactive-portfolio** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/interactive-portfolio)
+- **aitmpl-marp-slide** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/marp-slide)
+- **aitmpl-mermaid-diagrams** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/mermaid-diagrams)
+- **aitmpl-patentfig** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/patentfig)
+- **aitmpl-remotion-best-practices** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/remotion-best-practices)
+- **aitmpl-scroll-experience** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/scroll-experience)
+- **aitmpl-tailwind-patterns** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/tailwind-patterns)
+- **aitmpl-curviate-engage** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-engage)
+- **aitmpl-curviate-inbox** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-inbox)
+- **aitmpl-curviate-jobs** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-jobs)
+- **aitmpl-curviate-network** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-network)
+- **aitmpl-curviate-premium** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-premium)
+- **aitmpl-curviate-profile** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-profile)
+- **aitmpl-curviate-quickstart** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-quickstart)
+- **aitmpl-curviate-search** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate-search)
+- **aitmpl-curviate** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/curviate/curviate)
+- **aitmpl-neon-instagres** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/neon-instagres)
+- **aitmpl-postgresql-optimization** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/postgresql-optimization)
+- **aitmpl-readonly-sql-guard** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/readonly-sql-guard)
+- **aitmpl-using-neon** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/using-neon)
+- **super-video-maker** — 2026-11-14 · [fonte](https://github.com/Bomx/OpenVideo/tree/HEAD/.)
+- **accessibility** — 2026-11-14 · [fonte](https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/accessibility)
+- **best-practices** — 2026-11-14 · [fonte](https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/best-practices)
+- **core-web-vitals** — 2026-11-14 · [fonte](https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/core-web-vitals)
+- **performance** — 2026-11-14 · [fonte](https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/performance)
+- **seo** — 2026-11-14 · [fonte](https://github.com/addyosmani/web-quality-skills/tree/HEAD/skills/seo)
+- **aerospike-data-modeling** — 2026-11-14 · [fonte](https://github.com/aerospike/agent-skills/tree/HEAD/skills/aerospike-data-modeling)
+- **aerospike-development** — 2026-11-14 · [fonte](https://github.com/aerospike/agent-skills/tree/HEAD/skills/aerospike-development)
+- **aerospike-getting-started** — 2026-11-14 · [fonte](https://github.com/aerospike/agent-skills/tree/HEAD/skills/aerospike-getting-started)
+- **ab-test-setup** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ab-test-setup)
+- **ad-creative** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ad-creative)
+- **adaptyv** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/adaptyv)
+- **address-github-comments** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/address-github-comments)
+- **aeon** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/aeon)
+- **agent-orchestration-improve-agent** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/agent-orchestration-improve-agent)
+- **agent-orchestration-multi-agent-optimize** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/agent-orchestration-multi-agent-optimize)
+- **ai-antislop** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ai-antislop)
+- **ai-seo** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ai-seo)
+- **ai-wrapper-product** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ai-wrapper-product)
+- **airflow-dag-patterns** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/airflow-dag-patterns)
+- **alpha-vantage** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/alpha-vantage)
+- **alphafold-database** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/alphafold-database)
+- **analytics-tracking** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/analytics-tracking)
+- **angular-best-practices** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/angular-best-practices)
+- **angular-migration** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/angular-migration)
+- **angular-state-management** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/angular-state-management)
+- **angular-ui-patterns** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/angular-ui-patterns)
+- **anndata** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/anndata)
+- **anti-reversing-techniques** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/anti-reversing-techniques)
+- **api-security-best-practices** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/api-security-best-practices)
+- **application-performance-performance-optimization** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/application-performance-performance-optimization)
+- **architecture-decision-records** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/architecture-decision-records)
+- **architecture-patterns** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/architecture-patterns)
+- **artifact-yylo** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/artifact-yylo)
+- **astropy** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/astropy)
+- **attack-tree-construction** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/attack-tree-construction)
+- **auth-implementation-patterns** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/auth-implementation-patterns)
+- **automate-whatsapp** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/automate-whatsapp)
+- **aws-skills** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/aws-skills)
+- **backend-dev-guidelines** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/backend-dev-guidelines)
+- **backend-development-feature-development** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/backend-development-feature-development)
+- **backend-security-coder** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/backend-security-coder)
+- **backtesting-frameworks** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/backtesting-frameworks)
+- **bash-defensive-patterns** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bash-defensive-patterns)
+- **bats-testing-patterns** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bats-testing-patterns)
+- **bazel-build-optimization** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bazel-build-optimization)
+- **beautiful-prose** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/beautiful-prose)
+- **benchling-integration** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/benchling-integration)
+- **bgpt-paper-search** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bgpt-paper-search)
+- **bilig-workpaper** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/bilig-workpaper)
+- **billing-automation** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/billing-automation)
+- **binary-analysis-patterns** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/binary-analysis-patterns)
+- **biopython** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/biopython)
+- **blockrun** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/blockrun)
+- **browser-extension-builder** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/browser-extension-builder)
+- **build-sdf-liquid-glass** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/build-sdf-liquid-glass)
+- **build-webgl-liquid-glass** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/build-webgl-liquid-glass)
+- **c4-code** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/c4-code)
+- **cellxgene-census** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/cellxgene-census)
+- **changelog-automation** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/changelog-automation)
+- **churn-prevention** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/churn-prevention)
+- **cirq** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/cirq)
+- **clarity-gate** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/clarity-gate)
+- **claude-ally-health** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/claude-ally-health)
+- **blog-analyze** — 2026-11-14 · [fonte](https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-analyze)
+- **blog-audit** — 2026-11-14 · [fonte](https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-audit)
+- **blog-brand** — 2026-11-14 · [fonte](https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-brand)
+- **blog-brief** — 2026-11-14 · [fonte](https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-brief)
+- **blog-calendar** — 2026-11-14 · [fonte](https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-calendar)
+- **blog-cannibalization** — 2026-11-14 · [fonte](https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-cannibalization)
+- **blog-cluster** — 2026-11-14 · [fonte](https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-cluster)
+- **blog-decay** — 2026-11-14 · [fonte](https://github.com/agricidaniel/claude-blog/tree/HEAD/skills/blog-decay)
+- **autoresearch** — 2026-11-14 · [fonte](https://github.com/agricidaniel/claude-obsidian/tree/HEAD/skills/autoresearch)
+- **notque-condense** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/code-quality/condense)
+- **notque-joy-check** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/code-quality/joy-check)
+- **notque-domain** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/domain/domain)
+- **notque-cli-design** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/engineering/cli-design)
+- **notque-frontend** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/frontend/frontend)
+- **notque-webgl-card-effects** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/frontend/webgl-card-effects)
+- **notque-game-asset-generator** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/game/game-asset-generator)
+- **notque-motion-pipeline** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/game/motion-pipeline)
+- **notque-browser-jev-automation** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/browser-jev-automation)
+- **notque-cve-source-check** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/cve-source-check)
+- **notque-deploy** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/deploy)
+- **notque-endpoint-validator** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/endpoint-validator)
+- **notque-headless-cron-creator** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/headless-cron-creator)
+- **notque-kubernetes** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/infrastructure/kubernetes)
+- **notque-github** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/integrations/github)
+- **notque-accounts** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/accounts)
+- **notque-auto-dream** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/auto-dream)
+- **notque-building-with-jev** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/building-with-jev)
+- **notque-codex** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/codex)
+- **notque-d** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/d)
+- **notque-do** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/meta/do)
+- **notque-debugging** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/debugging)
+- **notque-improve** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/improve)
+- **notque-quick** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/quick)
+- **notque-testing** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/testing)
+- **notque-with-anti-rationalization** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/with-anti-rationalization)
+- **notque-workflow** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/workflow)
+- **notque-worktree-agent** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/process/worktree-agent)
+- **notque-integration-checker** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/review/integration-checker)
+- **notque-review** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/review/review)
+- **notque-security** — 2026-11-14 · [fonte](https://github.com/notque/vexjoy-agent/tree/HEAD/skills/review/security)
+- **aitmpl-agent-memory-mcp** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agent-memory-mcp)
+- **aitmpl-agent-memory-systems** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agent-memory-systems)
+- **aitmpl-agent-tool-builder** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/agent-tool-builder)
+- **aitmpl-autonomous-agents** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/autonomous-agents)
+- **aitmpl-claude-code-guide** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/claude-code-guide)
+- **aitmpl-data-engineer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/data-engineer)
+- **aitmpl-data-scientist** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/data-scientist)
+- **aitmpl-datadog-cli** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/datadog-cli)
+- **aitmpl-deep-research-notebooklm** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/deep-research-notebooklm)
+- **aitmpl-gemini-api-agent-platform** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/gemini-api-agent-platform)
+- **aitmpl-llm-evaluation** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/llm-evaluation)
+- **aitmpl-ml-engineer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/ml-engineer)
+- **aitmpl-research-engineer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/research-engineer)
+- **aitmpl-voice-agents** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/ai-research/voice-agents)
+- **aitmpl-figma-implement-design** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/figma-implement-design)
+- **aitmpl-figma** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/figma)
+- **aitmpl-premium-web-design** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/premium-web-design)
+- **aitmpl-alloydb-basics** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/alloydb-basics)
+- **aitmpl-bigquery-basics** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/bigquery-basics)
+- **aitmpl-cloud-sql-basics** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/cloud-sql-basics)
+- **aitmpl-database-architect** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/database-architect)
+- **aitmpl-database-migration** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/database-migration)
+- **aitmpl-database-optimizer** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/database-optimizer)
+- **aitmpl-postgres-schema-design** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/postgres-schema-design)
+- **aitmpl-postgresql** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/postgresql)
+- **aitmpl-sql-pro** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/sql-pro)
+- **aitmpl-supabase-postgres-best-practices** — 2026-11-14 · [fonte](https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/database/supabase-postgres-best-practices)
+- **ck-security-best-practices** — 2026-11-14 · [fonte](https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/security-best-practices)
+- **ck-security-threat-model** — 2026-11-14 · [fonte](https://github.com/ckorhonen/claude-skills/tree/HEAD/skills/security-threat-model)
+- **intuition** — 2026-11-14 · [fonte](https://github.com/0xintuition/agent-skills/tree/HEAD/skills/intuition)
+- **accessibility-compliance-accessibility-audit** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/accessibility-compliance-accessibility-audit)
+- **active-directory-attacks** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/active-directory-attacks)
+- **ai-engineer** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/ai-engineer)
+- **api-documenter** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/api-documenter)
+- **api-testing-observability-api-mock** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/api-testing-observability-api-mock)
+- **architect-review** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/architect-review)
+- **arm-cortex-expert** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/arm-cortex-expert)
+- **aws-penetration-testing** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/aws-penetration-testing)
+- **blockchain-developer** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/blockchain-developer)
+- **brainstorming** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/brainstorming)
+- **browser-automation** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/browser-automation)
+- **business-analyst** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/business-analyst)
+- **busybox-on-windows** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/busybox-on-windows)
+- **c4-architecture-c4-architecture** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/c4-architecture-c4-architecture)
+- **c4-component** — 2026-11-14 · [fonte](https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/c4-component)
+
+## Skipped (por quê)
+- `doc-coauthoring`: já publicado (id)
+- `kostja-brand-visual`: name "brand-visual-generator" deve casar com pasta "kostja-brand-visual"
+- `kostja-favicon`: name "favicon-generator" deve casar com pasta "kostja-favicon"
+- `kostja-url-slug`: name "url-slug-generator" deve casar com pasta "kostja-url-slug"
+- `kostja-article`: name "article-content" deve casar com pasta "kostja-article"
+- `kostja-podcast`: name "podcast-marketing" deve casar com pasta "kostja-podcast"
+- `kostja-video`: name "video-marketing" deve casar com pasta "kostja-video"
+- `kostja-grokipedia`: name "grokipedia-recommendations" deve casar com pasta "kostja-grokipedia"
+- `kostja-linkedin`: name "linkedin-posts" deve casar com pasta "kostja-linkedin"
+- `kostja-medium`: name "medium-posts" deve casar com pasta "kostja-medium"
+- `kostja-pinterest`: name "pinterest-posts" deve casar com pasta "kostja-pinterest"
+- `kostja-reddit`: name "reddit-posts" deve casar com pasta "kostja-reddit"
+- `kostja-tiktok`: name "tiktok-captions" deve casar com pasta "kostja-tiktok"
+- `kostja-x`: name "twitter-x-posts" deve casar com pasta "kostja-x"
+- `kostja-youtube`: name "youtube-seo" deve casar com pasta "kostja-youtube"
+- `kostja-local`: name "local-seo" deve casar com pasta "kostja-local"
+- `kostja-crawlability`: name "site-crawlability" deve casar com pasta "kostja-crawlability"
+- `kostja-robots`: name "robots-txt" deve casar com pasta "kostja-robots"
+- `kostja-sitemap`: name "xml-sitemap" deve casar com pasta "kostja-sitemap"
+- `kostja-rebranding`: name "rebranding-strategy" deve casar com pasta "kostja-rebranding"
+- `kostja-geo`: name "generative-engine-optimization" deve casar com pasta "kostja-geo"
+- `kostja-open-source`: name "open-source-strategy" deve casar com pasta "kostja-open-source"
+- `kostja-paid-ads`: name "paid-ads-strategy" deve casar com pasta "kostja-paid-ads"
+- `kostja-discount-marketing`: name "discount-marketing-strategy" deve casar com pasta "kostja-discount-marketing"
+- `kostja-cold-start`: name "cold-start-strategy" deve casar com pasta "kostja-cold-start"
+- `kostja-conversion`: name "conversion-optimization" deve casar com pasta "kostja-conversion"
+- `kostja-gtm`: name "gtm-strategy" deve casar com pasta "kostja-gtm"
+- `kostja-indie-hacker`: name "indie-hacker-strategy" deve casar com pasta "kostja-indie-hacker"
+- `kostja-pmf`: name "pmf-strategy" deve casar com pasta "kostja-pmf"
+- `kostja-retention`: name "retention-strategy" deve casar com pasta "kostja-retention"
+- `kostja-seo`: name "seo-strategy" deve casar com pasta "kostja-seo"
+- `aitmpl-distributed-training-deepspeed`: SKILL.md muito grande (145009 B)
+- `aitmpl-distributed-training-pytorch-fsdp`: SKILL.md muito grande (160184 B)
+- `claude-d3js-skill`: name "d3-viz" deve casar com pasta "claude-d3js-skill"
+- `kostja-ai-traffic`: name "ai-traffic-tracking" deve casar com pasta "kostja-ai-traffic"
+- `kostja-traffic`: name "traffic-analysis" deve casar com pasta "kostja-traffic"
+- `kostja-tracking`: name "analytics-tracking" deve casar com pasta "kostja-tracking"
+- `kostja-hero`: name "hero-generator" deve casar com pasta "kostja-hero"
+- `kostja-logo`: name "logo-generator" deve casar com pasta "kostja-logo"
+- `kostja-comparison-table`: name "comparison-table-generator" deve casar com pasta "kostja-comparison-table"
+- … +65 mais
+
+## Held
+- `c4-container`: teto maxAutoPromotePerDay
+- `c4-context`: teto maxAutoPromotePerDay
+- `cc-skill-backend-patterns`: teto maxAutoPromotePerDay
+- `cc-skill-clickhouse-io`: teto maxAutoPromotePerDay
+- `cc-skill-coding-standards`: teto maxAutoPromotePerDay
+- `cc-skill-frontend-patterns`: teto maxAutoPromotePerDay
+- `cc-skill-security-review`: teto maxAutoPromotePerDay
+- `cicd-automation-workflow-automate`: teto maxAutoPromotePerDay
+- `ads-amazon`: teto maxAutoPromotePerDay
+- `ads-apple`: teto maxAutoPromotePerDay
+- `ads-attribution`: teto maxAutoPromotePerDay
+- `ads-audit`: teto maxAutoPromotePerDay
+- `ads-budget`: teto maxAutoPromotePerDay
+- `ads-competitor`: teto maxAutoPromotePerDay
+- `ads-create`: teto maxAutoPromotePerDay
+- `ads-creative`: teto maxAutoPromotePerDay
+- `ads-dna`: teto maxAutoPromotePerDay
+- `ads-generate`: teto maxAutoPromotePerDay
+- `ads-google`: teto maxAutoPromotePerDay
+- `ads-landing`: teto maxAutoPromotePerDay
+
+## Quando foram adicionados (catálogo)
+- **2026-11-14** — 250: ab-test-setup, accessibility, accessibility-compliance-accessibility-audit, active-directory-attacks, ad-creative, adaptyv, address-github-comments, aeon, aerospike-data-modeling, aerospike-development, aerospike-getting-started, agent-orchestration-improve-agent (+238)
+- **2026-11-13** — 200: aitmpl-agent-evaluation, aitmpl-agent-management, aitmpl-agent-manager-skill, aitmpl-agent-messaging, aitmpl-agents-autogpt, aitmpl-agents-crewai, aitmpl-agents-langchain, aitmpl-agents-llamaindex, aitmpl-ai-agents-architect, aitmpl-ai-release-hunter, aitmpl-autonomous-agent-patterns, aitmpl-behavioral-modes (+188)
+- **2026-11-12** — 568: aaron-advocacy-program-designer, aaron-audience-belief-mapper, aaron-brand-language-codifier, aaron-category-narrative-mapper, aaron-channel-portfolio-planner, aaron-cold-outbound-sequencer, aaron-competitor-analysis, aaron-content-gap-analysis, aaron-content-quality-auditor, aaron-content-writer, aaron-crisis-response-planner, aaron-dark-social-attributor (+556)
+- **2026-11-11** — 70: academy-guide, agent-skill-creator, algorithmic-art, analyze-experiment, api-and-interface-design, brand-guidelines, browser-testing-with-devtools, canvas-design, ci-cd-and-automation, claude-api, code-review-and-quality, code-simplification (+58)
+
+## Rejeições (top)
+- 484× duplicata
+- 95× pasta scripts/
+- 90× licença ausente ou fora da allowlist
+- 14× description curta / ausente (anti-lixo)

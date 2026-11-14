@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T18:28:59.393Z",
+  "updatedAt": "2026-11-14T00:39:46.243Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -94,6 +94,15 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-aiscientists-dev-flowtrace",
+      "type": "github-repo-skills",
+      "repo": "aiscientists-dev/flowtrace",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
       "id": "discovered-aiworkskills-wechat-article-skills",
       "type": "github-repo-skills",
       "repo": "aiworkskills/wechat-article-skills",
@@ -101,6 +110,15 @@
       "defaultLicense": "Apache-2.0",
       "enabled": true,
       "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-ajnart-self-host",
+      "type": "github-repo-skills",
+      "repo": "ajnart/self-host",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
     },
     {
       "id": "discovered-alchaincyf-huashu-motion",
@@ -139,6 +157,33 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-ancoleman-ai-design-components",
+      "type": "github-repo-skills",
+      "repo": "ancoleman/ai-design-components",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
+      "id": "discovered-andyhuo520-vibe-knowledge",
+      "type": "github-repo-skills",
+      "repo": "andyhuo520/vibe-knowledge",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
+      "id": "discovered-anombyte93-prd-taskmaster",
+      "type": "github-repo-skills",
+      "repo": "anombyte93/prd-taskmaster",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
       "id": "discovered-antfu-skills",
       "type": "github-repo-skills",
       "repo": "antfu/skills",
@@ -148,6 +193,15 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-antvis-ava",
+      "type": "github-repo-skills",
+      "repo": "antvis/ava",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
       "id": "discovered-antvis-l7",
       "type": "github-repo-skills",
       "repo": "antvis/l7",
@@ -155,6 +209,15 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-anysiteio-agent-skills",
+      "type": "github-repo-skills",
+      "repo": "anysiteio/agent-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
     },
     {
       "id": "discovered-appllama-appllama-skills",
@@ -182,6 +245,15 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-aronhy-tiktok-agent-skills",
+      "type": "github-repo-skills",
+      "repo": "aronhy/tiktok-agent-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
     },
     {
       "id": "discovered-arpitg1304-robotics-agent-skills",
