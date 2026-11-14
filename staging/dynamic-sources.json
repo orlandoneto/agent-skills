@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T00:39:46.243Z",
+  "updatedAt": "2026-11-14T16:55:28.917Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -22,6 +22,15 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-917dhj-deeppapernote",
+      "type": "github-repo-skills",
+      "repo": "917dhj/deeppapernote",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
       "id": "discovered-addyosmani-web-quality-skills",
       "type": "github-repo-skills",
       "repo": "addyosmani/web-quality-skills",
@@ -31,6 +40,24 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-adithya-s-k-manim_skill",
+      "type": "github-repo-skills",
+      "repo": "adithya-s-k/manim_skill",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
+      "id": "discovered-aedev-tools-adobe-agent-skills",
+      "type": "github-repo-skills",
+      "repo": "aedev-tools/adobe-agent-skills",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
       "id": "discovered-aerospike-agent-skills",
       "type": "github-repo-skills",
       "repo": "aerospike/agent-skills",
@@ -38,6 +65,15 @@
       "defaultLicense": "Apache-2.0",
       "enabled": true,
       "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-aerovato-container",
+      "type": "github-repo-skills",
+      "repo": "aerovato/container",
+      "path": "skills",
+      "defaultLicense": "BSD-3-Clause",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
     },
     {
       "id": "discovered-agent-skills-hub-agent-skills-hub",
@@ -94,6 +130,15 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-aidevgtm-gtm-cofounder",
+      "type": "github-repo-skills",
+      "repo": "aidevgtm/gtm-cofounder",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
       "id": "discovered-aiscientists-dev-flowtrace",
       "type": "github-repo-skills",
       "repo": "aiscientists-dev/flowtrace",
@@ -139,6 +184,24 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-alexyc9381-court-skill",
+      "type": "github-repo-skills",
+      "repo": "alexyc9381/court-skill",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
+      "id": "discovered-algorand-devrel-algorand-agent-skills",
+      "type": "github-repo-skills",
+      "repo": "algorand-devrel/algorand-agent-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
+    },
+    {
       "id": "discovered-alibaba-open-code-review",
       "type": "github-repo-skills",
       "repo": "alibaba/open-code-review",
@@ -146,6 +209,15 @@
       "defaultLicense": "Apache-2.0",
       "enabled": true,
       "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-alibaba-skill-up",
+      "type": "github-repo-skills",
+      "repo": "alibaba/skill-up",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-14"
     },
     {
       "id": "discovered-amelnagdy-delegate-skills",
