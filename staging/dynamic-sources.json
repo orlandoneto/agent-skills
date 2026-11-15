@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T23:37:21.263Z",
+  "updatedAt": "2026-11-15T17:38:26.556Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -29,6 +29,15 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-14"
+    },
+    {
+      "id": "discovered-a554b554-reactant",
+      "type": "github-repo-skills",
+      "repo": "a554b554/reactant",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
     },
     {
       "id": "discovered-addyosmani-web-quality-skills",
@@ -310,6 +319,15 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-arch3rpro-1panel-appstore",
+      "type": "github-repo-skills",
+      "repo": "arch3rpro/1panel-appstore",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
       "id": "discovered-ark0n-codeman",
       "type": "github-repo-skills",
       "repo": "ark0n/codeman",
@@ -355,6 +373,24 @@
       "discoveredAt": "2026-11-12"
     },
     {
+      "id": "discovered-bintzgavin-helios",
+      "type": "github-repo-skills",
+      "repo": "bintzgavin/helios",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-borenchan-sdkmate",
+      "type": "github-repo-skills",
+      "repo": "borenchan/sdkmate",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
       "id": "discovered-callstackincubator-agent-skills",
       "type": "github-repo-skills",
       "repo": "callstackincubator/agent-skills",
@@ -362,6 +398,42 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-danielsuo117-velocitai",
+      "type": "github-repo-skills",
+      "repo": "danielsuo117/velocitai",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-godothub-godot-minigame",
+      "type": "github-repo-skills",
+      "repo": "godothub/godot-minigame",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-hardhackerlabs-podwise-cli",
+      "type": "github-repo-skills",
+      "repo": "hardhackerlabs/podwise-cli",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-plurigrid-asi",
+      "type": "github-repo-skills",
+      "repo": "plurigrid/asi",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
     }
   ]
 }
