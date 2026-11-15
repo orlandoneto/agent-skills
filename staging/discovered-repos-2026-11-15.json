@@ -2,72 +2,72 @@
   "date": "2026-11-15",
   "newDynamic": [
     {
-      "id": "discovered-a554b554-reactant",
+      "id": "discovered-24601-surreal-skills",
       "type": "github-repo-skills",
-      "repo": "a554b554/reactant",
+      "repo": "24601/surreal-skills",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-15"
     },
     {
-      "id": "discovered-arch3rpro-1panel-appstore",
+      "id": "discovered-affitor-affiliate-skills",
       "type": "github-repo-skills",
-      "repo": "arch3rpro/1panel-appstore",
+      "repo": "affitor/affiliate-skills",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-15"
     },
     {
-      "id": "discovered-bintzgavin-helios",
+      "id": "discovered-amstaff666-figma-pilot",
       "type": "github-repo-skills",
-      "repo": "bintzgavin/helios",
+      "repo": "amstaff666/figma-pilot",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-autoclaw-cc-xiaohongshu-skills",
+      "type": "github-repo-skills",
+      "repo": "autoclaw-cc/xiaohongshu-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-b1rdmania-hinge-profile-optimizer",
+      "type": "github-repo-skills",
+      "repo": "b1rdmania/hinge-profile-optimizer",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-espennilsen-pi",
+      "type": "github-repo-skills",
+      "repo": "espennilsen/pi",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-forcedotcom-sf-skills",
+      "type": "github-repo-skills",
+      "repo": "forcedotcom/sf-skills",
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
       "discoveredAt": "2026-11-15"
     },
     {
-      "id": "discovered-borenchan-sdkmate",
+      "id": "discovered-genomoncology-biomcp-release-rehearsal",
       "type": "github-repo-skills",
-      "repo": "borenchan/sdkmate",
-      "path": "skills",
-      "defaultLicense": "Apache-2.0",
-      "enabled": true,
-      "discoveredAt": "2026-11-15"
-    },
-    {
-      "id": "discovered-danielsuo117-velocitai",
-      "type": "github-repo-skills",
-      "repo": "danielsuo117/velocitai",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-15"
-    },
-    {
-      "id": "discovered-godothub-godot-minigame",
-      "type": "github-repo-skills",
-      "repo": "godothub/godot-minigame",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-15"
-    },
-    {
-      "id": "discovered-hardhackerlabs-podwise-cli",
-      "type": "github-repo-skills",
-      "repo": "hardhackerlabs/podwise-cli",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-15"
-    },
-    {
-      "id": "discovered-plurigrid-asi",
-      "type": "github-repo-skills",
-      "repo": "plurigrid/asi",
+      "repo": "genomoncology/biomcp-release-rehearsal",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
@@ -76,130 +76,178 @@
   ],
   "inspected": [
     {
-      "repo": "a554b554/reactant",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 54
-    },
-    {
-      "repo": "achuan-2/siyuan-plugin-task-note-management",
-      "skillsPathOk": true,
-      "license": null,
-      "stars": 229
-    },
-    {
-      "repo": "andrefetch/postal",
+      "repo": "0xquqi/sun-skill",
       "skillsPathOk": false,
       "license": null,
-      "stars": 210
+      "stars": 366
     },
     {
-      "repo": "arch3rpro/1panel-appstore",
+      "repo": "24601/surreal-skills",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 235
+      "stars": 34
     },
     {
-      "repo": "atoms-studio/nuxt-swiftsearch",
-      "skillsPathOk": false,
-      "license": "MIT",
-      "stars": 66
-    },
-    {
-      "repo": "axiosleo/node-orm-mysql",
-      "skillsPathOk": false,
-      "license": "MIT",
-      "stars": 42
-    },
-    {
-      "repo": "bintzgavin/helios",
-      "skillsPathOk": true,
-      "license": "Apache-2.0",
-      "stars": 130
-    },
-    {
-      "repo": "borenchan/sdkmate",
-      "skillsPathOk": true,
-      "license": "Apache-2.0",
-      "stars": 168
-    },
-    {
-      "repo": "czyt1988/qwt",
+      "repo": "aashaexo/soundshuman",
       "skillsPathOk": false,
       "license": null,
-      "stars": 164
+      "stars": 306
     },
     {
-      "repo": "danielsuo117/velocitai",
+      "repo": "affitor/affiliate-skills",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 158
+      "stars": 785
     },
     {
-      "repo": "drincs-productions/pixi-vn",
+      "repo": "albedo-tabai/lets-go-rss",
+      "skillsPathOk": false,
+      "license": null,
+      "stars": 104
+    },
+    {
+      "repo": "amanning3390/deepswarm",
+      "skillsPathOk": false,
+      "license": null,
+      "stars": 122
+    },
+    {
+      "repo": "amstaff666/figma-pilot",
+      "skillsPathOk": true,
+      "license": "MIT",
+      "stars": 0
+    },
+    {
+      "repo": "archibate/dotfiles-opencode",
       "skillsPathOk": true,
       "license": null,
-      "stars": 155
+      "stars": 109
     },
     {
-      "repo": "dzhng/crm.cli",
+      "repo": "assafkip/research-mode",
       "skillsPathOk": false,
-      "license": "MIT",
-      "stars": 126
+      "license": null,
+      "stars": 154
     },
     {
-      "repo": "godothub/godot-minigame",
+      "repo": "autoclaw-cc/xiaohongshu-skills",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 217
+      "stars": 2044
     },
     {
-      "repo": "halfwhey/claudraband",
-      "skillsPathOk": false,
-      "license": "MIT",
-      "stars": 288
-    },
-    {
-      "repo": "hardhackerlabs/podwise-cli",
+      "repo": "b1rdmania/hinge-profile-optimizer",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 418
+      "stars": 97
     },
     {
-      "repo": "hyaxia/blogwatcher",
+      "repo": "bangbuilds/code-poem-film",
       "skillsPathOk": false,
       "license": "MIT",
-      "stars": 149
+      "stars": 65
     },
     {
-      "repo": "nirholas/pai",
+      "repo": "beamuswayne/simp-skill",
+      "skillsPathOk": false,
+      "license": "MIT",
+      "stars": 338
+    },
+    {
+      "repo": "btseytlin/ultrapack",
       "skillsPathOk": true,
       "license": null,
-      "stars": 124
+      "stars": 47
     },
     {
-      "repo": "nullptrx/pangle_flutter",
+      "repo": "bzd6661/wechat-article-for-ai",
+      "skillsPathOk": false,
+      "license": null,
+      "stars": 104
+    },
+    {
+      "repo": "cangtianhuang/humanizer-academic-zh",
       "skillsPathOk": false,
       "license": "MIT",
-      "stars": 129
+      "stars": 78
     },
     {
-      "repo": "opendatalab/mineru-ecosystem",
+      "repo": "clockless-org/html-anything",
+      "skillsPathOk": false,
+      "license": null,
+      "stars": 162
+    },
+    {
+      "repo": "dataforseo/mcp-server-typescript",
       "skillsPathOk": false,
       "license": "Apache-2.0",
-      "stars": 230
+      "stars": 262
     },
     {
-      "repo": "ploi/ploi-php-sdk",
+      "repo": "denissergeevitch/repo-task-proof-loop",
+      "skillsPathOk": false,
+      "license": "Apache-2.0",
+      "stars": 725
+    },
+    {
+      "repo": "dharicharan/qwen3-asr-rust-cpu-windows",
+      "skillsPathOk": false,
+      "license": "Apache-2.0",
+      "stars": 0
+    },
+    {
+      "repo": "eddmann/strava-cli",
       "skillsPathOk": false,
       "license": "MIT",
-      "stars": 77
+      "stars": 28
     },
     {
-      "repo": "plurigrid/asi",
+      "repo": "elliottophellia/ryuumonbuchi",
+      "skillsPathOk": false,
+      "license": null,
+      "stars": 81
+    },
+    {
+      "repo": "espennilsen/pi",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 72
+      "stars": 122
+    },
+    {
+      "repo": "forcedotcom/sf-skills",
+      "skillsPathOk": true,
+      "license": "Apache-2.0",
+      "stars": 1167
+    },
+    {
+      "repo": "forter/agentic-readiness-guide",
+      "skillsPathOk": false,
+      "license": null,
+      "stars": 106
+    },
+    {
+      "repo": "fuwenhao12/academic-ref-inserter",
+      "skillsPathOk": false,
+      "license": "MIT",
+      "stars": 62
+    },
+    {
+      "repo": "garinmckayl/anima",
+      "skillsPathOk": false,
+      "license": "MIT",
+      "stars": 261
+    },
+    {
+      "repo": "gavdalf/total-recall",
+      "skillsPathOk": false,
+      "license": "MIT",
+      "stars": 276
+    },
+    {
+      "repo": "genomoncology/biomcp-release-rehearsal",
+      "skillsPathOk": true,
+      "license": "MIT",
+      "stars": 1
     }
   ],
   "skipped": [
@@ -228,6 +276,10 @@
       "reason": "recheck em 7d"
     },
     {
+      "repo": "a554b554/reactant",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "a5c-ai/babysitter",
       "reason": "status=rejected"
     },
@@ -237,6 +289,10 @@
     },
     {
       "repo": "acciowork/agent-skills",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "achuan-2/siyuan-plugin-task-note-management",
       "reason": "status=rejected"
     },
     {
@@ -504,6 +560,10 @@
       "reason": "recheck em 7d"
     },
     {
+      "repo": "andrefetch/postal",
+      "reason": "status=rejected"
+    },
+    {
       "repo": "andyhuo520/vibe-knowledge",
       "reason": "recheck em 7d"
     },
@@ -556,6 +616,10 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "arch3rpro/1panel-appstore",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "arindam200/cc-lens",
       "reason": "status=rejected"
     },
@@ -576,6 +640,10 @@
       "reason": "recheck em 7d"
     },
     {
+      "repo": "atoms-studio/nuxt-swiftsearch",
+      "reason": "status=rejected"
+    },
+    {
       "repo": "auth0/agent-skills",
       "reason": "status=rejected"
     },
@@ -584,11 +652,19 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "axiosleo/node-orm-mysql",
+      "reason": "status=rejected"
+    },
+    {
       "repo": "ayghri/i-have-adhd",
       "reason": "recheck em 7d"
     },
     {
       "repo": "backnotprop/pstack",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "bintzgavin/helios",
       "reason": "recheck em 7d"
     },
     {
@@ -604,65 +680,117 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "borenchan/sdkmate",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "browser-act/skills",
       "reason": "status=rejected"
     },
     {
       "repo": "callstackincubator/agent-skills",
       "reason": "recheck em 7d"
+    },
+    {
+      "repo": "czyt1988/qwt",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "danielsuo117/velocitai",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "drincs-productions/pixi-vn",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "dzhng/crm.cli",
+      "reason": "status=rejected"
     }
   ],
   "rejected": [
     {
-      "repo": "achuan-2/siyuan-plugin-task-note-management",
+      "repo": "0xquqi/sun-skill",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "aashaexo/soundshuman",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "albedo-tabai/lets-go-rss",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "amanning3390/deepswarm",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "archibate/dotfiles-opencode",
       "reason": "licença SPDX fora da allowlist / ausente"
     },
     {
-      "repo": "andrefetch/postal",
+      "repo": "assafkip/research-mode",
       "reason": "sem pasta skills/ com subdirs"
     },
     {
-      "repo": "atoms-studio/nuxt-swiftsearch",
+      "repo": "bangbuilds/code-poem-film",
       "reason": "sem pasta skills/ com subdirs"
     },
     {
-      "repo": "axiosleo/node-orm-mysql",
+      "repo": "beamuswayne/simp-skill",
       "reason": "sem pasta skills/ com subdirs"
     },
     {
-      "repo": "czyt1988/qwt",
-      "reason": "sem pasta skills/ com subdirs"
-    },
-    {
-      "repo": "drincs-productions/pixi-vn",
+      "repo": "btseytlin/ultrapack",
       "reason": "licença SPDX fora da allowlist / ausente"
     },
     {
-      "repo": "dzhng/crm.cli",
+      "repo": "bzd6661/wechat-article-for-ai",
       "reason": "sem pasta skills/ com subdirs"
     },
     {
-      "repo": "halfwhey/claudraband",
+      "repo": "cangtianhuang/humanizer-academic-zh",
       "reason": "sem pasta skills/ com subdirs"
     },
     {
-      "repo": "hyaxia/blogwatcher",
+      "repo": "clockless-org/html-anything",
       "reason": "sem pasta skills/ com subdirs"
     },
     {
-      "repo": "nirholas/pai",
-      "reason": "licença SPDX fora da allowlist / ausente"
-    },
-    {
-      "repo": "nullptrx/pangle_flutter",
+      "repo": "dataforseo/mcp-server-typescript",
       "reason": "sem pasta skills/ com subdirs"
     },
     {
-      "repo": "opendatalab/mineru-ecosystem",
+      "repo": "denissergeevitch/repo-task-proof-loop",
       "reason": "sem pasta skills/ com subdirs"
     },
     {
-      "repo": "ploi/ploi-php-sdk",
+      "repo": "dharicharan/qwen3-asr-rust-cpu-windows",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "eddmann/strava-cli",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "elliottophellia/ryuumonbuchi",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "forter/agentic-readiness-guide",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "fuwenhao12/academic-ref-inserter",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "garinmckayl/anima",
+      "reason": "sem pasta skills/ com subdirs"
+    },
+    {
+      "repo": "gavdalf/total-recall",
       "reason": "sem pasta skills/ com subdirs"
     }
   ],

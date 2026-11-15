@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T17:38:26.556Z",
+  "updatedAt": "2026-11-15T23:45:27.411Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -20,6 +20,15 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-24601-surreal-skills",
+      "type": "github-repo-skills",
+      "repo": "24601/surreal-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
     },
     {
       "id": "discovered-917dhj-deeppapernote",
@@ -83,6 +92,15 @@
       "defaultLicense": "BSD-3-Clause",
       "enabled": true,
       "discoveredAt": "2026-11-14"
+    },
+    {
+      "id": "discovered-affitor-affiliate-skills",
+      "type": "github-repo-skills",
+      "repo": "affitor/affiliate-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
     },
     {
       "id": "discovered-agent-skills-hub-agent-skills-hub",
@@ -238,6 +256,15 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-amstaff666-figma-pilot",
+      "type": "github-repo-skills",
+      "repo": "amstaff666/figma-pilot",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
       "id": "discovered-ancoleman-ai-design-components",
       "type": "github-repo-skills",
       "repo": "ancoleman/ai-design-components",
@@ -355,6 +382,15 @@
       "discoveredAt": "2026-11-13"
     },
     {
+      "id": "discovered-autoclaw-cc-xiaohongshu-skills",
+      "type": "github-repo-skills",
+      "repo": "autoclaw-cc/xiaohongshu-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
       "id": "discovered-ayghri-i-have-adhd",
       "type": "github-repo-skills",
       "repo": "ayghri/i-have-adhd",
@@ -362,6 +398,15 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-b1rdmania-hinge-profile-optimizer",
+      "type": "github-repo-skills",
+      "repo": "b1rdmania/hinge-profile-optimizer",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
     },
     {
       "id": "discovered-backnotprop-pstack",
@@ -403,6 +448,33 @@
       "id": "discovered-danielsuo117-velocitai",
       "type": "github-repo-skills",
       "repo": "danielsuo117/velocitai",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-espennilsen-pi",
+      "type": "github-repo-skills",
+      "repo": "espennilsen/pi",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-forcedotcom-sf-skills",
+      "type": "github-repo-skills",
+      "repo": "forcedotcom/sf-skills",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-genomoncology-biomcp-release-rehearsal",
+      "type": "github-repo-skills",
+      "repo": "genomoncology/biomcp-release-rehearsal",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
