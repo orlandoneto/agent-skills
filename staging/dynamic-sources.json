@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T23:45:27.411Z",
+  "updatedAt": "2026-11-16T20:54:29.632Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -443,6 +443,24 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-cruisediary-apple-app-review-skills",
+      "type": "github-repo-skills",
+      "repo": "cruisediary/apple-app-review-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-16"
+    },
+    {
+      "id": "discovered-dalroot-agentic-seo",
+      "type": "github-repo-skills",
+      "repo": "dalroot/agentic-seo",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-16"
     },
     {
       "id": "discovered-danielsuo117-velocitai",

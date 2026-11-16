@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-16",
+  "published": [],
+  "skipped": [
+    {
+      "id": "documentation-and-adrs",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "frontend-ui-engineering",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "planning-and-task-breakdown",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "security-and-hardening",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "spec-driven-development",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "doc-coauthoring",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "claude-seo-seo-drift",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "claude-seo-seo-geo",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "claude-seo-seo-google",
+      "reason": "já publicado (id)"
+    }
+  ],
+  "held": [
+    {
+      "id": "claude-seo-seo-shopify",
+      "reason": "maxPublishedCommunity"
+    }
+  ]
+}
