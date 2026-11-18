@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T19:42:40.774Z",
+  "updatedAt": "2026-11-18T02:05:11.814Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -94,6 +94,15 @@
       "discoveredAt": "2026-11-14"
     },
     {
+      "id": "discovered-aetheria-labs1-storefront-skills",
+      "type": "github-repo-skills",
+      "repo": "aetheria-labs1/storefront-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-18"
+    },
+    {
       "id": "discovered-affitor-affiliate-skills",
       "type": "github-repo-skills",
       "repo": "affitor/affiliate-skills",
@@ -119,6 +128,15 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-12"
+    },
+    {
+      "id": "discovered-agentskillexchange-skills",
+      "type": "github-repo-skills",
+      "repo": "agentskillexchange/skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-18"
     },
     {
       "id": "discovered-agricidaniel-claude-ads",
@@ -155,6 +173,15 @@
       "defaultLicense": "Apache-2.0",
       "enabled": true,
       "discoveredAt": "2026-11-13"
+    },
+    {
+      "id": "discovered-ahgraber-skills",
+      "type": "github-repo-skills",
+      "repo": "ahgraber/skills",
+      "path": "skills",
+      "defaultLicense": "CC0-1.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-18"
     },
     {
       "id": "discovered-aidevgtm-gtm-cofounder",
@@ -445,6 +472,15 @@
       "discoveredAt": "2026-11-12"
     },
     {
+      "id": "discovered-comeonoliver-skillshub",
+      "type": "github-repo-skills",
+      "repo": "comeonoliver/skillshub",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-18"
+    },
+    {
       "id": "discovered-cruisediary-apple-app-review-skills",
       "type": "github-repo-skills",
       "repo": "cruisediary/apple-app-review-skills",
@@ -515,6 +551,42 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-15"
+    },
+    {
+      "id": "discovered-kairyou-agent-tools",
+      "type": "github-repo-skills",
+      "repo": "kairyou/agent-tools",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-18"
+    },
+    {
+      "id": "discovered-majiayu000-claude-skill-registry",
+      "type": "github-repo-skills",
+      "repo": "majiayu000/claude-skill-registry",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-18"
+    },
+    {
+      "id": "discovered-meltedinhex-analyst-ai-pack",
+      "type": "github-repo-skills",
+      "repo": "meltedinhex/analyst-ai-pack",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-18"
+    },
+    {
+      "id": "discovered-odinfree-storm-ecdsa-harness",
+      "type": "github-repo-skills",
+      "repo": "odinfree/storm-ecdsa-harness",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-18"
     },
     {
       "id": "discovered-plurigrid-asi",
