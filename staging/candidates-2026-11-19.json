@@ -17,7 +17,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:12.754Z"
+      "fetchedAt": "2026-11-19T19:26:40.784Z"
     },
     {
       "id": "code-review-and-quality",
@@ -32,7 +32,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:12.928Z"
+      "fetchedAt": "2026-11-19T19:26:40.863Z"
     },
     {
       "id": "documentation-and-adrs",
@@ -47,7 +47,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:13.919Z"
+      "fetchedAt": "2026-11-19T19:26:41.308Z"
     },
     {
       "id": "frontend-ui-engineering",
@@ -62,7 +62,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:14.213Z"
+      "fetchedAt": "2026-11-19T19:26:41.461Z"
     },
     {
       "id": "planning-and-task-breakdown",
@@ -77,7 +77,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:15.429Z"
+      "fetchedAt": "2026-11-19T19:26:41.954Z"
     },
     {
       "id": "security-and-hardening",
@@ -92,7 +92,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:15.592Z"
+      "fetchedAt": "2026-11-19T19:26:42.056Z"
     },
     {
       "id": "spec-driven-development",
@@ -107,7 +107,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:16.124Z"
+      "fetchedAt": "2026-11-19T19:26:42.271Z"
     },
     {
       "id": "using-agent-skills",
@@ -122,7 +122,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:16.495Z"
+      "fetchedAt": "2026-11-19T19:26:42.485Z"
     },
     {
       "id": "doc-coauthoring",
@@ -137,7 +137,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:21.745Z"
+      "fetchedAt": "2026-11-19T19:26:45.709Z"
     },
     {
       "id": "ms-ad-creative",
@@ -152,7 +152,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:54.057Z"
+      "fetchedAt": "2026-11-19T19:27:03.461Z"
     },
     {
       "id": "ms-copywriting",
@@ -167,7 +167,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:56.719Z"
+      "fetchedAt": "2026-11-19T19:27:04.979Z"
     },
     {
       "id": "ms-image",
@@ -182,7 +182,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:42:57.859Z"
+      "fetchedAt": "2026-11-19T19:27:05.586Z"
     },
     {
       "id": "ms-sales-enablement",
@@ -197,7 +197,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:01.528Z"
+      "fetchedAt": "2026-11-19T19:27:07.481Z"
     },
     {
       "id": "ms-social",
@@ -212,7 +212,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:02.625Z"
+      "fetchedAt": "2026-11-19T19:27:07.901Z"
     },
     {
       "id": "ms-video",
@@ -227,7 +227,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:02.791Z"
+      "fetchedAt": "2026-11-19T19:27:07.978Z"
     },
     {
       "id": "claude-seo-seo-audit",
@@ -242,7 +242,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:09.012Z"
+      "fetchedAt": "2026-11-19T19:27:12.425Z"
     },
     {
       "id": "claude-seo-seo-bing",
@@ -257,7 +257,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:09.366Z"
+      "fetchedAt": "2026-11-19T19:27:12.575Z"
     },
     {
       "id": "claude-seo-seo-cluster",
@@ -272,7 +272,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:09.574Z"
+      "fetchedAt": "2026-11-19T19:27:12.661Z"
     },
     {
       "id": "claude-seo-seo-content",
@@ -287,7 +287,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:09.990Z"
+      "fetchedAt": "2026-11-19T19:27:12.931Z"
     },
     {
       "id": "claude-seo-seo-drift",
@@ -302,7 +302,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:10.342Z"
+      "fetchedAt": "2026-11-19T19:27:13.084Z"
     },
     {
       "id": "claude-seo-seo-ecommerce",
@@ -317,7 +317,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:10.641Z"
+      "fetchedAt": "2026-11-19T19:27:13.156Z"
     },
     {
       "id": "claude-seo-seo-geo",
@@ -332,7 +332,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:10.919Z"
+      "fetchedAt": "2026-11-19T19:27:13.324Z"
     },
     {
       "id": "claude-seo-seo-google",
@@ -347,7 +347,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:11.061Z"
+      "fetchedAt": "2026-11-19T19:27:13.402Z"
     },
     {
       "id": "claude-seo-seo-posthog",
@@ -362,7 +362,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:12.180Z"
+      "fetchedAt": "2026-11-19T19:27:14.069Z"
     },
     {
       "id": "claude-seo-seo-shopify",
@@ -377,7 +377,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:12.633Z"
+      "fetchedAt": "2026-11-19T19:27:14.305Z"
     },
     {
       "id": "claude-seo-seo-sxo",
@@ -392,7 +392,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:12.889Z"
+      "fetchedAt": "2026-11-19T19:27:14.476Z"
     },
     {
       "id": "claude-seo-seo-technical",
@@ -407,7 +407,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:13.022Z"
+      "fetchedAt": "2026-11-19T19:27:14.548Z"
     },
     {
       "id": "claude-seo-seo",
@@ -422,7 +422,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:13.210Z"
+      "fetchedAt": "2026-11-19T19:27:14.632Z"
     },
     {
       "id": "kostja-ai-traffic",
@@ -437,7 +437,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:51.980Z"
+      "fetchedAt": "2026-11-19T19:27:44.475Z"
     },
     {
       "id": "kostja-traffic",
@@ -452,7 +452,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:52.343Z"
+      "fetchedAt": "2026-11-19T19:27:44.580Z"
     },
     {
       "id": "kostja-tracking",
@@ -467,7 +467,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:52.496Z"
+      "fetchedAt": "2026-11-19T19:27:44.667Z"
     },
     {
       "id": "kostja-brand-visual",
@@ -482,7 +482,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:55.051Z"
+      "fetchedAt": "2026-11-19T19:27:45.851Z"
     },
     {
       "id": "kostja-favicon",
@@ -497,7 +497,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:55.206Z"
+      "fetchedAt": "2026-11-19T19:27:45.939Z"
     },
     {
       "id": "kostja-hero",
@@ -512,7 +512,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:55.342Z"
+      "fetchedAt": "2026-11-19T19:27:46.043Z"
     },
     {
       "id": "kostja-logo",
@@ -527,7 +527,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:55.681Z"
+      "fetchedAt": "2026-11-19T19:27:46.119Z"
     },
     {
       "id": "kostja-comparison-table",
@@ -542,7 +542,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:55.827Z"
+      "fetchedAt": "2026-11-19T19:27:46.199Z"
     },
     {
       "id": "kostja-howto-section",
@@ -557,7 +557,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:55.984Z"
+      "fetchedAt": "2026-11-19T19:27:46.284Z"
     },
     {
       "id": "kostja-cta",
@@ -572,7 +572,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:56.284Z"
+      "fetchedAt": "2026-11-19T19:27:46.454Z"
     },
     {
       "id": "kostja-newsletter-signup",
@@ -587,7 +587,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:56.456Z"
+      "fetchedAt": "2026-11-19T19:27:46.538Z"
     },
     {
       "id": "kostja-popup",
@@ -602,7 +602,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:56.602Z"
+      "fetchedAt": "2026-11-19T19:27:46.607Z"
     },
     {
       "id": "kostja-testimonials",
@@ -617,7 +617,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:56.746Z"
+      "fetchedAt": "2026-11-19T19:27:46.690Z"
     },
     {
       "id": "kostja-trust-badges",
@@ -632,7 +632,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:56.910Z"
+      "fetchedAt": "2026-11-19T19:27:46.779Z"
     },
     {
       "id": "kostja-breadcrumb",
@@ -647,7 +647,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:57.813Z"
+      "fetchedAt": "2026-11-19T19:27:47.281Z"
     },
     {
       "id": "kostja-footer",
@@ -662,7 +662,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:57.956Z"
+      "fetchedAt": "2026-11-19T19:27:47.379Z"
     },
     {
       "id": "kostja-navigation-menu",
@@ -677,7 +677,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:58.092Z"
+      "fetchedAt": "2026-11-19T19:27:47.453Z"
     },
     {
       "id": "kostja-sidebar",
@@ -692,7 +692,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:58.244Z"
+      "fetchedAt": "2026-11-19T19:27:47.553Z"
     },
     {
       "id": "kostja-toc",
@@ -707,7 +707,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:58.374Z"
+      "fetchedAt": "2026-11-19T19:27:47.617Z"
     },
     {
       "id": "kostja-social-share",
@@ -722,7 +722,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:58.513Z"
+      "fetchedAt": "2026-11-19T19:27:47.693Z"
     },
     {
       "id": "kostja-top-banner",
@@ -737,7 +737,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:58.664Z"
+      "fetchedAt": "2026-11-19T19:27:47.771Z"
     },
     {
       "id": "kostja-url-slug",
@@ -752,7 +752,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:58.803Z"
+      "fetchedAt": "2026-11-19T19:27:47.838Z"
     },
     {
       "id": "kostja-article",
@@ -767,7 +767,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:58.943Z"
+      "fetchedAt": "2026-11-19T19:27:47.899Z"
     },
     {
       "id": "kostja-podcast",
@@ -782,7 +782,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:59.357Z"
+      "fetchedAt": "2026-11-19T19:27:48.057Z"
     },
     {
       "id": "kostja-video",
@@ -797,7 +797,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:43:59.649Z"
+      "fetchedAt": "2026-11-19T19:27:48.199Z"
     },
     {
       "id": "kostja-about",
@@ -812,7 +812,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:00.886Z"
+      "fetchedAt": "2026-11-19T19:27:48.753Z"
     },
     {
       "id": "kostja-contact",
@@ -827,7 +827,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:01.031Z"
+      "fetchedAt": "2026-11-19T19:27:48.844Z"
     },
     {
       "id": "kostja-home",
@@ -842,7 +842,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:01.179Z"
+      "fetchedAt": "2026-11-19T19:27:48.922Z"
     },
     {
       "id": "kostja-api",
@@ -857,7 +857,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:01.330Z"
+      "fetchedAt": "2026-11-19T19:27:48.994Z"
     },
     {
       "id": "kostja-article",
@@ -872,7 +872,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:01.465Z"
+      "fetchedAt": "2026-11-19T19:27:49.106Z"
     },
     {
       "id": "kostja-blog",
@@ -887,7 +887,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:01.614Z"
+      "fetchedAt": "2026-11-19T19:27:49.182Z"
     },
     {
       "id": "kostja-faq",
@@ -902,7 +902,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:01.771Z"
+      "fetchedAt": "2026-11-19T19:27:49.257Z"
     },
     {
       "id": "kostja-features",
@@ -917,7 +917,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:01.917Z"
+      "fetchedAt": "2026-11-19T19:27:49.338Z"
     },
     {
       "id": "kostja-glossary",
@@ -932,7 +932,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:02.073Z"
+      "fetchedAt": "2026-11-19T19:27:49.404Z"
     },
     {
       "id": "kostja-resources",
@@ -947,7 +947,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:02.407Z"
+      "fetchedAt": "2026-11-19T19:27:49.490Z"
     },
     {
       "id": "kostja-template-page",
@@ -962,7 +962,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:02.548Z"
+      "fetchedAt": "2026-11-19T19:27:49.558Z"
     },
     {
       "id": "kostja-tools",
@@ -977,7 +977,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:02.686Z"
+      "fetchedAt": "2026-11-19T19:27:49.613Z"
     },
     {
       "id": "kostja-cookie-policy",
@@ -992,7 +992,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:02.832Z"
+      "fetchedAt": "2026-11-19T19:27:49.715Z"
     },
     {
       "id": "kostja-legal",
@@ -1007,7 +1007,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:02.974Z"
+      "fetchedAt": "2026-11-19T19:27:49.782Z"
     },
     {
       "id": "kostja-privacy",
@@ -1022,7 +1022,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:03.112Z"
+      "fetchedAt": "2026-11-19T19:27:49.879Z"
     },
     {
       "id": "kostja-refund",
@@ -1037,7 +1037,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:03.262Z"
+      "fetchedAt": "2026-11-19T19:27:49.955Z"
     },
     {
       "id": "kostja-shipping",
@@ -1052,7 +1052,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:03.395Z"
+      "fetchedAt": "2026-11-19T19:27:50.048Z"
     },
     {
       "id": "kostja-terms",
@@ -1067,7 +1067,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:03.537Z"
+      "fetchedAt": "2026-11-19T19:27:50.169Z"
     },
     {
       "id": "kostja-affiliate-program",
@@ -1082,7 +1082,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:03.677Z"
+      "fetchedAt": "2026-11-19T19:27:50.243Z"
     },
     {
       "id": "kostja-alternatives",
@@ -1097,7 +1097,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:03.821Z"
+      "fetchedAt": "2026-11-19T19:27:50.348Z"
     },
     {
       "id": "kostja-category-pages",
@@ -1112,7 +1112,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:03.962Z"
+      "fetchedAt": "2026-11-19T19:27:50.412Z"
     },
     {
       "id": "kostja-contest",
@@ -1127,7 +1127,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:04.109Z"
+      "fetchedAt": "2026-11-19T19:27:50.477Z"
     },
     {
       "id": "kostja-customer-stories",
@@ -1142,7 +1142,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:04.250Z"
+      "fetchedAt": "2026-11-19T19:27:50.574Z"
     },
     {
       "id": "kostja-download",
@@ -1157,7 +1157,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:04.389Z"
+      "fetchedAt": "2026-11-19T19:27:50.627Z"
     },
     {
       "id": "kostja-integrations",
@@ -1172,7 +1172,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:04.535Z"
+      "fetchedAt": "2026-11-19T19:27:50.699Z"
     },
     {
       "id": "kostja-landing-page",
@@ -1187,7 +1187,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:04.677Z"
+      "fetchedAt": "2026-11-19T19:27:50.751Z"
     },
     {
       "id": "kostja-media-kit",
@@ -1202,7 +1202,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:04.816Z"
+      "fetchedAt": "2026-11-19T19:27:50.824Z"
     },
     {
       "id": "kostja-migration",
@@ -1217,7 +1217,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:04.957Z"
+      "fetchedAt": "2026-11-19T19:27:50.894Z"
     },
     {
       "id": "kostja-press-coverage",
@@ -1232,7 +1232,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:05.103Z"
+      "fetchedAt": "2026-11-19T19:27:50.972Z"
     },
     {
       "id": "kostja-pricing",
@@ -1247,7 +1247,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:05.238Z"
+      "fetchedAt": "2026-11-19T19:27:51.062Z"
     },
     {
       "id": "kostja-products",
@@ -1262,7 +1262,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:05.389Z"
+      "fetchedAt": "2026-11-19T19:27:51.146Z"
     },
     {
       "id": "kostja-services",
@@ -1277,7 +1277,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:05.537Z"
+      "fetchedAt": "2026-11-19T19:27:51.212Z"
     },
     {
       "id": "kostja-showcase",
@@ -1292,7 +1292,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:05.690Z"
+      "fetchedAt": "2026-11-19T19:27:51.307Z"
     },
     {
       "id": "kostja-solutions",
@@ -1307,7 +1307,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:05.832Z"
+      "fetchedAt": "2026-11-19T19:27:51.382Z"
     },
     {
       "id": "kostja-startups",
@@ -1322,7 +1322,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:05.975Z"
+      "fetchedAt": "2026-11-19T19:27:51.456Z"
     },
     {
       "id": "kostja-use-cases",
@@ -1337,7 +1337,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:06.111Z"
+      "fetchedAt": "2026-11-19T19:27:51.563Z"
     },
     {
       "id": "kostja-404",
@@ -1352,7 +1352,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:06.263Z"
+      "fetchedAt": "2026-11-19T19:27:51.666Z"
     },
     {
       "id": "kostja-careers",
@@ -1367,7 +1367,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:06.403Z"
+      "fetchedAt": "2026-11-19T19:27:51.771Z"
     },
     {
       "id": "kostja-changelog",
@@ -1382,7 +1382,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:06.541Z"
+      "fetchedAt": "2026-11-19T19:27:51.840Z"
     },
     {
       "id": "kostja-disclosure",
@@ -1397,7 +1397,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:06.678Z"
+      "fetchedAt": "2026-11-19T19:27:51.932Z"
     },
     {
       "id": "kostja-feedback",
@@ -1412,7 +1412,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:06.820Z"
+      "fetchedAt": "2026-11-19T19:27:52.012Z"
     },
     {
       "id": "kostja-signup-login",
@@ -1427,7 +1427,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:06.963Z"
+      "fetchedAt": "2026-11-19T19:27:52.084Z"
     },
     {
       "id": "kostja-status",
@@ -1442,7 +1442,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:07.112Z"
+      "fetchedAt": "2026-11-19T19:27:52.161Z"
     },
     {
       "id": "kostja-grokipedia",
@@ -1457,7 +1457,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:09.011Z"
+      "fetchedAt": "2026-11-19T19:27:53.277Z"
     },
     {
       "id": "kostja-linkedin",
@@ -1472,7 +1472,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:09.145Z"
+      "fetchedAt": "2026-11-19T19:27:53.353Z"
     },
     {
       "id": "kostja-medium",
@@ -1487,7 +1487,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:09.283Z"
+      "fetchedAt": "2026-11-19T19:27:53.448Z"
     },
     {
       "id": "kostja-pinterest",
@@ -1502,7 +1502,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:09.416Z"
+      "fetchedAt": "2026-11-19T19:27:53.566Z"
     },
     {
       "id": "kostja-reddit",
@@ -1517,7 +1517,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:09.560Z"
+      "fetchedAt": "2026-11-19T19:27:53.655Z"
     },
     {
       "id": "kostja-tiktok",
@@ -1532,7 +1532,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:09.697Z"
+      "fetchedAt": "2026-11-19T19:27:53.737Z"
     },
     {
       "id": "kostja-x",
@@ -1547,7 +1547,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:09.843Z"
+      "fetchedAt": "2026-11-19T19:27:53.839Z"
     },
     {
       "id": "kostja-youtube",
@@ -1562,7 +1562,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:09.986Z"
+      "fetchedAt": "2026-11-19T19:27:53.922Z"
     },
     {
       "id": "kostja-local",
@@ -1577,7 +1577,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:10.676Z"
+      "fetchedAt": "2026-11-19T19:27:54.379Z"
     },
     {
       "id": "kostja-description",
@@ -1592,7 +1592,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:11.083Z"
+      "fetchedAt": "2026-11-19T19:27:54.639Z"
     },
     {
       "id": "kostja-heading",
@@ -1607,7 +1607,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:11.363Z"
+      "fetchedAt": "2026-11-19T19:27:54.818Z"
     },
     {
       "id": "kostja-metadata",
@@ -1622,7 +1622,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:11.796Z"
+      "fetchedAt": "2026-11-19T19:27:55.047Z"
     },
     {
       "id": "kostja-title",
@@ -1637,7 +1637,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:12.359Z"
+      "fetchedAt": "2026-11-19T19:27:55.384Z"
     },
     {
       "id": "kostja-canonical",
@@ -1652,7 +1652,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:13.270Z"
+      "fetchedAt": "2026-11-19T19:27:55.947Z"
     },
     {
       "id": "kostja-crawlability",
@@ -1667,7 +1667,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:13.998Z"
+      "fetchedAt": "2026-11-19T19:27:56.103Z"
     },
     {
       "id": "kostja-robots",
@@ -1682,7 +1682,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:14.699Z"
+      "fetchedAt": "2026-11-19T19:27:56.498Z"
     },
     {
       "id": "kostja-sitemap",
@@ -1697,7 +1697,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:14.831Z"
+      "fetchedAt": "2026-11-19T19:27:56.599Z"
     },
     {
       "id": "kostja-rebranding",
@@ -1712,7 +1712,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:15.674Z"
+      "fetchedAt": "2026-11-19T19:27:57.192Z"
     },
     {
       "id": "kostja-geo",
@@ -1727,7 +1727,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:16.235Z"
+      "fetchedAt": "2026-11-19T19:27:57.622Z"
     },
     {
       "id": "kostja-localization",
@@ -1742,7 +1742,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:16.367Z"
+      "fetchedAt": "2026-11-19T19:27:57.733Z"
     },
     {
       "id": "kostja-open-source",
@@ -1757,7 +1757,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:16.512Z"
+      "fetchedAt": "2026-11-19T19:27:57.830Z"
     },
     {
       "id": "kostja-paid-ads",
@@ -1772,7 +1772,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:16.648Z"
+      "fetchedAt": "2026-11-19T19:27:57.924Z"
     },
     {
       "id": "kostja-discount-marketing",
@@ -1787,7 +1787,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:16.780Z"
+      "fetchedAt": "2026-11-19T19:27:58.011Z"
     },
     {
       "id": "kostja-cold-start",
@@ -1802,7 +1802,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:17.055Z"
+      "fetchedAt": "2026-11-19T19:27:58.198Z"
     },
     {
       "id": "kostja-conversion",
@@ -1817,7 +1817,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:17.186Z"
+      "fetchedAt": "2026-11-19T19:27:58.299Z"
     },
     {
       "id": "kostja-gtm",
@@ -1832,7 +1832,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:17.488Z"
+      "fetchedAt": "2026-11-19T19:27:58.508Z"
     },
     {
       "id": "kostja-indie-hacker",
@@ -1847,7 +1847,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:17.627Z"
+      "fetchedAt": "2026-11-19T19:27:58.590Z"
     },
     {
       "id": "kostja-pmf",
@@ -1862,7 +1862,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:17.764Z"
+      "fetchedAt": "2026-11-19T19:27:58.702Z"
     },
     {
       "id": "kostja-retention",
@@ -1877,7 +1877,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:18.165Z"
+      "fetchedAt": "2026-11-19T19:27:58.960Z"
     },
     {
       "id": "kostja-seo",
@@ -1892,7 +1892,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:44:18.618Z"
+      "fetchedAt": "2026-11-19T19:27:59.167Z"
     },
     {
       "id": "notque-writing",
@@ -1907,7 +1907,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:45:05.451Z"
+      "fetchedAt": "2026-11-19T19:28:37.734Z"
     },
     {
       "id": "notque-review",
@@ -1922,7 +1922,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:45:23.141Z"
+      "fetchedAt": "2026-11-19T19:28:41.889Z"
     },
     {
       "id": "aitmpl-data-processing-nemo-curator",
@@ -1937,7 +1937,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:20.234Z"
+      "fetchedAt": "2026-11-19T19:29:27.685Z"
     },
     {
       "id": "aitmpl-distributed-training-deepspeed",
@@ -1952,7 +1952,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:21.692Z"
+      "fetchedAt": "2026-11-19T19:29:28.485Z"
     },
     {
       "id": "aitmpl-distributed-training-pytorch-fsdp",
@@ -1967,7 +1967,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:22.137Z"
+      "fetchedAt": "2026-11-19T19:29:28.703Z"
     },
     {
       "id": "aitmpl-gemini",
@@ -1982,7 +1982,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:25.288Z"
+      "fetchedAt": "2026-11-19T19:29:30.349Z"
     },
     {
       "id": "aitmpl-inference-serving-llama-cpp",
@@ -1997,7 +1997,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:25.642Z"
+      "fetchedAt": "2026-11-19T19:29:30.551Z"
     },
     {
       "id": "aitmpl-infrastructure-lambda-labs",
@@ -2012,7 +2012,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:26.388Z"
+      "fetchedAt": "2026-11-19T19:29:30.924Z"
     },
     {
       "id": "aitmpl-llm-app-patterns",
@@ -2027,7 +2027,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:27.421Z"
+      "fetchedAt": "2026-11-19T19:29:31.443Z"
     },
     {
       "id": "aitmpl-post-training-simpo",
@@ -2042,7 +2042,7 @@
       "hasScriptsHint": true,
       "requiresManualReview": true,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:35.237Z"
+      "fetchedAt": "2026-11-19T19:29:35.127Z"
     },
     {
       "id": "aitmpl-prompt-engineering-outlines",
@@ -2057,7 +2057,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:37.344Z"
+      "fetchedAt": "2026-11-19T19:29:35.996Z"
     },
     {
       "id": "aitmpl-rag-pinecone",
@@ -2072,7 +2072,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:39.098Z"
+      "fetchedAt": "2026-11-19T19:29:36.876Z"
     },
     {
       "id": "aitmpl-ai-directory-submitter",
@@ -2087,7 +2087,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:41.768Z"
+      "fetchedAt": "2026-11-19T19:29:38.293Z"
     },
     {
       "id": "aitmpl-marketing-psychology",
@@ -2102,7 +2102,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:46.316Z"
+      "fetchedAt": "2026-11-19T19:29:40.315Z"
     },
     {
       "id": "aitmpl-marketing-strategy-pmm",
@@ -2117,7 +2117,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:46.479Z"
+      "fetchedAt": "2026-11-19T19:29:40.411Z"
     },
     {
       "id": "aitmpl-micro-saas-launcher",
@@ -2132,7 +2132,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:46.668Z"
+      "fetchedAt": "2026-11-19T19:29:40.479Z"
     },
     {
       "id": "aitmpl-page-cro",
@@ -2147,7 +2147,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:46.989Z"
+      "fetchedAt": "2026-11-19T19:29:40.643Z"
     },
     {
       "id": "aitmpl-paid-ads",
@@ -2162,7 +2162,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:47.161Z"
+      "fetchedAt": "2026-11-19T19:29:40.744Z"
     },
     {
       "id": "aitmpl-popup-cro",
@@ -2177,7 +2177,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:47.488Z"
+      "fetchedAt": "2026-11-19T19:29:40.924Z"
     },
     {
       "id": "aitmpl-pricing-strategy",
@@ -2192,7 +2192,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:47.649Z"
+      "fetchedAt": "2026-11-19T19:29:41.006Z"
     },
     {
       "id": "aitmpl-programmatic-seo",
@@ -2207,7 +2207,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:48.346Z"
+      "fetchedAt": "2026-11-19T19:29:41.382Z"
     },
     {
       "id": "aitmpl-referral-program",
@@ -2222,7 +2222,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:48.559Z"
+      "fetchedAt": "2026-11-19T19:29:41.452Z"
     },
     {
       "id": "aitmpl-social-content",
@@ -2237,7 +2237,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:49.763Z"
+      "fetchedAt": "2026-11-19T19:29:42.007Z"
     },
     {
       "id": "aitmpl-x-twitter-scraper",
@@ -2252,7 +2252,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:50.095Z"
+      "fetchedAt": "2026-11-19T19:29:42.165Z"
     },
     {
       "id": "aitmpl-academic-cv-builder",
@@ -2267,7 +2267,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:50.269Z"
+      "fetchedAt": "2026-11-19T19:29:42.250Z"
     },
     {
       "id": "aitmpl-offer-comparison-analyzer",
@@ -2282,7 +2282,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:51.840Z"
+      "fetchedAt": "2026-11-19T19:29:42.995Z"
     },
     {
       "id": "aitmpl-portfolio-case-study-writer",
@@ -2297,7 +2297,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:52.013Z"
+      "fetchedAt": "2026-11-19T19:29:43.086Z"
     },
     {
       "id": "aitmpl-resume-ats-optimizer",
@@ -2312,7 +2312,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:52.434Z"
+      "fetchedAt": "2026-11-19T19:29:43.254Z"
     },
     {
       "id": "aitmpl-resume-bullet-writer",
@@ -2327,7 +2327,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:52.605Z"
+      "fetchedAt": "2026-11-19T19:29:43.348Z"
     },
     {
       "id": "aitmpl-resume-quantifier",
@@ -2342,7 +2342,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:52.951Z"
+      "fetchedAt": "2026-11-19T19:29:43.535Z"
     },
     {
       "id": "aitmpl-salary-negotiation-prep",
@@ -2357,7 +2357,22 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:53.668Z"
+      "fetchedAt": "2026-11-19T19:29:43.924Z"
+    },
+    {
+      "id": "aitmpl-game-development",
+      "name": "game-development",
+      "description": "Use when building, fixing or tuning any video game. Invoke it before writing or changing game code (game loop, movement, physics, input, enemies, levels), in any engine (Godot, Unity, Unreal, Phaser, PixiJS, Three.js, Babylon.js, raw Canvas/WebGL) or platform (web, mobile, PC/console, VR/AR). Covers the game loop, fixed timestep, input mapping, frame budgets, AI, collision and game feel, and points to reference guides for 2D, 3D, game design, multiplayer, art and audio.",
+      "license": "MIT",
+      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/game-development",
+      "rawUrl": "https://raw.githubusercontent.com/davila7/claude-code-templates/HEAD/cli-tool/components/skills/creative-design/game-development/SKILL.md",
+      "sourceId": "davila7-claude-code-templates",
+      "fingerprint": "game-development::fb3e906f6f30851e",
+      "score": 100,
+      "hasScriptsHint": false,
+      "requiresManualReview": false,
+      "status": "staging",
+      "fetchedAt": "2026-11-19T19:29:45.312Z"
     },
     {
       "id": "aitmpl-premium-web-design",
@@ -2372,7 +2387,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:46:58.299Z"
+      "fetchedAt": "2026-11-19T19:29:46.076Z"
     },
     {
       "id": "aitmpl-agirails-agent-payments",
@@ -2387,7 +2402,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:47:04.751Z"
+      "fetchedAt": "2026-11-19T19:29:49.286Z"
     },
     {
       "id": "remotion-interactivity",
@@ -2402,7 +2417,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:47:31.717Z"
+      "fetchedAt": "2026-11-19T19:30:05.924Z"
     },
     {
       "id": "remotion-markup",
@@ -2417,7 +2432,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:47:32.116Z"
+      "fetchedAt": "2026-11-19T19:30:06.165Z"
     },
     {
       "id": "remotion-render",
@@ -2432,7 +2447,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:47:32.560Z"
+      "fetchedAt": "2026-11-19T19:30:06.284Z"
     },
     {
       "id": "surreal-sync",
@@ -2447,7 +2462,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:23.208Z"
+      "fetchedAt": "2026-11-19T19:30:44.612Z"
     },
     {
       "id": "surrealfs",
@@ -2462,7 +2477,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:23.353Z"
+      "fetchedAt": "2026-11-19T19:30:44.704Z"
     },
     {
       "id": "surrealism",
@@ -2477,7 +2492,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:23.538Z"
+      "fetchedAt": "2026-11-19T19:30:44.790Z"
     },
     {
       "id": "surrealkit",
@@ -2492,7 +2507,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:23.696Z"
+      "fetchedAt": "2026-11-19T19:30:44.904Z"
     },
     {
       "id": "surrealmcp",
@@ -2507,7 +2522,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:23.854Z"
+      "fetchedAt": "2026-11-19T19:30:45.037Z"
     },
     {
       "id": "chat-user",
@@ -2522,7 +2537,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:28.544Z"
+      "fetchedAt": "2026-11-19T19:30:47.813Z"
     },
     {
       "id": "cite",
@@ -2537,7 +2552,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:28.695Z"
+      "fetchedAt": "2026-11-19T19:30:47.951Z"
     },
     {
       "id": "edit",
@@ -2552,7 +2567,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:29.051Z"
+      "fetchedAt": "2026-11-19T19:30:48.039Z"
     },
     {
       "id": "execute-one",
@@ -2567,7 +2582,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:29.201Z"
+      "fetchedAt": "2026-11-19T19:30:48.135Z"
     },
     {
       "id": "execute",
@@ -2582,7 +2597,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:29.364Z"
+      "fetchedAt": "2026-11-19T19:30:48.279Z"
     },
     {
       "id": "figure",
@@ -2597,7 +2612,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:29.705Z"
+      "fetchedAt": "2026-11-19T19:30:48.375Z"
     },
     {
       "id": "ph",
@@ -2612,7 +2627,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:29.850Z"
+      "fetchedAt": "2026-11-19T19:30:48.462Z"
     },
     {
       "id": "plot",
@@ -2627,7 +2642,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:29.999Z"
+      "fetchedAt": "2026-11-19T19:30:48.563Z"
     },
     {
       "id": "proofread",
@@ -2642,7 +2657,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:30.157Z"
+      "fetchedAt": "2026-11-19T19:30:48.658Z"
     },
     {
       "id": "resolve",
@@ -2657,7 +2672,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:30.313Z"
+      "fetchedAt": "2026-11-19T19:30:48.754Z"
     },
     {
       "id": "skill-generator",
@@ -2672,7 +2687,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:30.459Z"
+      "fetchedAt": "2026-11-19T19:30:48.838Z"
     },
     {
       "id": "manim-composer",
@@ -2687,7 +2702,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:33.720Z"
+      "fetchedAt": "2026-11-19T19:30:51.042Z"
     },
     {
       "id": "manimce-best-practices",
@@ -2702,7 +2717,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:33.875Z"
+      "fetchedAt": "2026-11-19T19:30:51.152Z"
     },
     {
       "id": "manimgl-best-practices",
@@ -2717,7 +2732,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:34.017Z"
+      "fetchedAt": "2026-11-19T19:30:51.234Z"
     },
     {
       "id": "ab-test",
@@ -2732,7 +2747,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:39.207Z"
+      "fetchedAt": "2026-11-19T19:30:55.521Z"
     },
     {
       "id": "audit",
@@ -2747,7 +2762,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:39.353Z"
+      "fetchedAt": "2026-11-19T19:30:55.619Z"
     },
     {
       "id": "cart",
@@ -2762,7 +2777,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:39.519Z"
+      "fetchedAt": "2026-11-19T19:30:55.742Z"
     },
     {
       "id": "conversion-carousel",
@@ -2777,7 +2792,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:39.685Z"
+      "fetchedAt": "2026-11-19T19:30:55.846Z"
     },
     {
       "id": "design-page",
@@ -2792,7 +2807,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:39.825Z"
+      "fetchedAt": "2026-11-19T19:30:55.930Z"
     },
     {
       "id": "optimize",
@@ -2807,7 +2822,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:39.982Z"
+      "fetchedAt": "2026-11-19T19:30:56.068Z"
     },
     {
       "id": "plan-assets",
@@ -2822,7 +2837,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:40.143Z"
+      "fetchedAt": "2026-11-19T19:30:56.179Z"
     },
     {
       "id": "plan-page",
@@ -2837,7 +2852,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:40.288Z"
+      "fetchedAt": "2026-11-19T19:30:56.267Z"
     },
     {
       "id": "publish",
@@ -2852,7 +2867,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:40.427Z"
+      "fetchedAt": "2026-11-19T19:30:56.351Z"
     },
     {
       "id": "quiz",
@@ -2867,7 +2882,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:40.573Z"
+      "fetchedAt": "2026-11-19T19:30:56.442Z"
     },
     {
       "id": "setup",
@@ -2882,7 +2897,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:40.775Z"
+      "fetchedAt": "2026-11-19T19:30:56.561Z"
     },
     {
       "id": "visualize-page",
@@ -2897,7 +2912,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:48:40.918Z"
+      "fetchedAt": "2026-11-19T19:30:56.697Z"
     },
     {
       "id": "api-fuzzing-bug-bounty",
@@ -2912,7 +2927,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:27.657Z"
+      "fetchedAt": "2026-11-19T19:31:32.583Z"
     },
     {
       "id": "broken-authentication",
@@ -2927,7 +2942,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:38.079Z"
+      "fetchedAt": "2026-11-19T19:31:38.409Z"
     },
     {
       "id": "burp-suite-testing",
@@ -2942,7 +2957,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:39.430Z"
+      "fetchedAt": "2026-11-19T19:31:39.189Z"
     },
     {
       "id": "c4-container",
@@ -2957,7 +2972,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:40.868Z"
+      "fetchedAt": "2026-11-19T19:31:39.945Z"
     },
     {
       "id": "c4-context",
@@ -2972,7 +2987,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:41.092Z"
+      "fetchedAt": "2026-11-19T19:31:40.071Z"
     },
     {
       "id": "cc-skill-backend-patterns",
@@ -2987,7 +3002,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:41.475Z"
+      "fetchedAt": "2026-11-19T19:31:40.296Z"
     },
     {
       "id": "cc-skill-clickhouse-io",
@@ -3002,7 +3017,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:41.649Z"
+      "fetchedAt": "2026-11-19T19:31:40.407Z"
     },
     {
       "id": "cc-skill-coding-standards",
@@ -3017,7 +3032,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:41.842Z"
+      "fetchedAt": "2026-11-19T19:31:40.508Z"
     },
     {
       "id": "cc-skill-continuous-learning",
@@ -3032,7 +3047,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:42.027Z"
+      "fetchedAt": "2026-11-19T19:31:40.609Z"
     },
     {
       "id": "cc-skill-frontend-patterns",
@@ -3047,7 +3062,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:42.210Z"
+      "fetchedAt": "2026-11-19T19:31:40.777Z"
     },
     {
       "id": "cc-skill-security-review",
@@ -3062,7 +3077,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:42.594Z"
+      "fetchedAt": "2026-11-19T19:31:41.003Z"
     },
     {
       "id": "cc-skill-strategic-compact",
@@ -3077,7 +3092,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:42.775Z"
+      "fetchedAt": "2026-11-19T19:31:41.141Z"
     },
     {
       "id": "cicd-automation-workflow-automate",
@@ -3092,7 +3107,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:44.004Z"
+      "fetchedAt": "2026-11-19T19:31:41.697Z"
     },
     {
       "id": "claude-d3js-skill",
@@ -3107,7 +3122,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:45.055Z"
+      "fetchedAt": "2026-11-19T19:31:42.342Z"
     },
     {
       "id": "cloud-penetration-testing",
@@ -3122,7 +3137,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:47.167Z"
+      "fetchedAt": "2026-11-19T19:31:43.609Z"
     },
     {
       "id": "cobrapy",
@@ -3137,7 +3152,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:47.374Z"
+      "fetchedAt": "2026-11-19T19:31:43.707Z"
     },
     {
       "id": "code-documentation-code-explain",
@@ -3152,7 +3167,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:47.585Z"
+      "fetchedAt": "2026-11-19T19:31:43.818Z"
     },
     {
       "id": "code-documentation-doc-generate",
@@ -3167,7 +3182,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:47.771Z"
+      "fetchedAt": "2026-11-19T19:31:43.919Z"
     },
     {
       "id": "code-refactoring-refactor-clean",
@@ -3182,7 +3197,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:48.140Z"
+      "fetchedAt": "2026-11-19T19:31:44.134Z"
     },
     {
       "id": "code-refactoring-tech-debt",
@@ -3197,7 +3212,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:48.316Z"
+      "fetchedAt": "2026-11-19T19:31:44.256Z"
     },
     {
       "id": "code-review-ai-ai-review",
@@ -3212,7 +3227,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:48.548Z"
+      "fetchedAt": "2026-11-19T19:31:44.365Z"
     },
     {
       "id": "code-reviewer",
@@ -3227,7 +3242,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:49.107Z"
+      "fetchedAt": "2026-11-19T19:31:44.702Z"
     },
     {
       "id": "codebase-cleanup-deps-audit",
@@ -3242,7 +3257,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:49.280Z"
+      "fetchedAt": "2026-11-19T19:31:44.807Z"
     },
     {
       "id": "codebase-cleanup-refactor-clean",
@@ -3257,7 +3272,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:49.468Z"
+      "fetchedAt": "2026-11-19T19:31:44.914Z"
     },
     {
       "id": "codebase-cleanup-tech-debt",
@@ -3272,7 +3287,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:49.663Z"
+      "fetchedAt": "2026-11-19T19:31:45.022Z"
     },
     {
       "id": "competitive-landscape",
@@ -3287,7 +3302,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:50.371Z"
+      "fetchedAt": "2026-11-19T19:31:45.447Z"
     },
     {
       "id": "comprehensive-review-pr-enhance",
@@ -3302,7 +3317,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:50.973Z"
+      "fetchedAt": "2026-11-19T19:31:45.771Z"
     },
     {
       "id": "conductor-implement",
@@ -3317,7 +3332,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:51.985Z"
+      "fetchedAt": "2026-11-19T19:31:46.249Z"
     },
     {
       "id": "conductor-manage",
@@ -3332,7 +3347,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:52.168Z"
+      "fetchedAt": "2026-11-19T19:31:46.367Z"
     },
     {
       "id": "conductor-new-track",
@@ -3347,7 +3362,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:52.356Z"
+      "fetchedAt": "2026-11-19T19:31:46.472Z"
     },
     {
       "id": "conductor-revert",
@@ -3362,7 +3377,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:52.531Z"
+      "fetchedAt": "2026-11-19T19:31:46.591Z"
     },
     {
       "id": "conductor-setup",
@@ -3377,7 +3392,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:52.703Z"
+      "fetchedAt": "2026-11-19T19:31:46.716Z"
     },
     {
       "id": "conductor-status",
@@ -3392,7 +3407,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:52.882Z"
+      "fetchedAt": "2026-11-19T19:31:46.842Z"
     },
     {
       "id": "conductor-validator",
@@ -3407,7 +3422,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:53.063Z"
+      "fetchedAt": "2026-11-19T19:31:46.973Z"
     },
     {
       "id": "content-marketer",
@@ -3422,7 +3437,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:53.404Z"
+      "fetchedAt": "2026-11-19T19:31:47.192Z"
     },
     {
       "id": "context-driven-development",
@@ -3437,7 +3452,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:54.150Z"
+      "fetchedAt": "2026-11-19T19:31:47.648Z"
     },
     {
       "id": "context-fundamentals",
@@ -3452,7 +3467,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:54.347Z"
+      "fetchedAt": "2026-11-19T19:31:47.760Z"
     },
     {
       "id": "context-management-context-restore",
@@ -3467,7 +3482,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:54.544Z"
+      "fetchedAt": "2026-11-19T19:31:47.867Z"
     },
     {
       "id": "context-management-context-save",
@@ -3482,7 +3497,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:54.771Z"
+      "fetchedAt": "2026-11-19T19:31:47.961Z"
     },
     {
       "id": "context-manager",
@@ -3497,7 +3512,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:54.952Z"
+      "fetchedAt": "2026-11-19T19:31:48.067Z"
     },
     {
       "id": "context-optimization",
@@ -3512,7 +3527,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:55.136Z"
+      "fetchedAt": "2026-11-19T19:31:48.213Z"
     },
     {
       "id": "copy-editing",
@@ -3527,7 +3542,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:55.834Z"
+      "fetchedAt": "2026-11-19T19:31:48.696Z"
     },
     {
       "id": "copywriting",
@@ -3542,7 +3557,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:56.015Z"
+      "fetchedAt": "2026-11-19T19:31:48.835Z"
     },
     {
       "id": "cost-optimization",
@@ -3557,7 +3572,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:56.538Z"
+      "fetchedAt": "2026-11-19T19:31:49.169Z"
     },
     {
       "id": "cqrs-implementation",
@@ -3572,7 +3587,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:56.873Z"
+      "fetchedAt": "2026-11-19T19:31:49.361Z"
     },
     {
       "id": "create-pr",
@@ -3587,7 +3602,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:57.042Z"
+      "fetchedAt": "2026-11-19T19:31:49.504Z"
     },
     {
       "id": "customer-support",
@@ -3602,7 +3617,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:57.791Z"
+      "fetchedAt": "2026-11-19T19:31:50.061Z"
     },
     {
       "id": "daily-news-report",
@@ -3617,7 +3632,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:57.961Z"
+      "fetchedAt": "2026-11-19T19:31:50.154Z"
     },
     {
       "id": "dask",
@@ -3632,7 +3647,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:58.142Z"
+      "fetchedAt": "2026-11-19T19:31:50.308Z"
     },
     {
       "id": "data-engineering-data-driven-feature",
@@ -3647,7 +3662,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:58.505Z"
+      "fetchedAt": "2026-11-19T19:31:50.637Z"
     },
     {
       "id": "data-engineering-data-pipeline",
@@ -3662,7 +3677,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:58.676Z"
+      "fetchedAt": "2026-11-19T19:31:50.750Z"
     },
     {
       "id": "data-quality-frameworks",
@@ -3677,7 +3692,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:58.863Z"
+      "fetchedAt": "2026-11-19T19:31:50.878Z"
     },
     {
       "id": "data-scientist",
@@ -3692,7 +3707,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:59.045Z"
+      "fetchedAt": "2026-11-19T19:31:50.971Z"
     },
     {
       "id": "data-storytelling",
@@ -3707,7 +3722,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:59.224Z"
+      "fetchedAt": "2026-11-19T19:31:51.079Z"
     },
     {
       "id": "database-admin",
@@ -3722,7 +3737,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:59.398Z"
+      "fetchedAt": "2026-11-19T19:31:51.171Z"
     },
     {
       "id": "database-cloud-optimization-cost-optimize",
@@ -3737,7 +3752,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:49:59.746Z"
+      "fetchedAt": "2026-11-19T19:31:51.419Z"
     },
     {
       "id": "ab-test-agent-skills-mcp-changes-with-caliper",
@@ -3752,7 +3767,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:30.079Z"
+      "fetchedAt": "2026-11-19T19:32:14.839Z"
     },
     {
       "id": "academic-paper-citation-network-mapper",
@@ -3767,7 +3782,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:30.220Z"
+      "fetchedAt": "2026-11-19T19:32:14.927Z"
     },
     {
       "id": "acf-custom-fields-rest-exposer",
@@ -3782,7 +3797,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:30.359Z"
+      "fetchedAt": "2026-11-19T19:32:15.032Z"
     },
     {
       "id": "acf-extended-advanced-custom-fields-workflows",
@@ -3797,7 +3812,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:30.501Z"
+      "fetchedAt": "2026-11-19T19:32:15.128Z"
     },
     {
       "id": "acf-to-gutenberg-block-migrator",
@@ -3812,7 +3827,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:30.644Z"
+      "fetchedAt": "2026-11-19T19:32:15.224Z"
     },
     {
       "id": "act-local-github-actions-runner",
@@ -3827,7 +3842,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:30.785Z"
+      "fetchedAt": "2026-11-19T19:32:15.324Z"
     },
     {
       "id": "activepieces-open-source-workflow-automation",
@@ -3842,7 +3857,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:30.934Z"
+      "fetchedAt": "2026-11-19T19:32:15.418Z"
     },
     {
       "id": "activitywatch-automated-time-tracker",
@@ -3857,7 +3872,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:31.083Z"
+      "fetchedAt": "2026-11-19T19:32:15.526Z"
     },
     {
       "id": "add-a-browser-review-checkpoint-before-risky-agent-actions-with-agentclick",
@@ -3872,7 +3887,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:31.237Z"
+      "fetchedAt": "2026-11-19T19:32:15.624Z"
     },
     {
       "id": "add-claude-design-system-and-accessibility-workflows-with-ux-ui-agent-skills",
@@ -3887,7 +3902,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:31.390Z"
+      "fetchedAt": "2026-11-19T19:32:15.717Z"
     },
     {
       "id": "add-graph-backed-memory-and-context-retrieval-to-agent-workflows",
@@ -3902,7 +3917,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:31.724Z"
+      "fetchedAt": "2026-11-19T19:32:15.808Z"
     },
     {
       "id": "add-ide-style-semantic-code-navigation-and-symbol-safe-refactors-to-coding-agents-through-serena",
@@ -3917,7 +3932,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:31.882Z"
+      "fetchedAt": "2026-11-19T19:32:15.898Z"
     },
     {
       "id": "add-managed-long-term-memory-to-langgraph-agents-with-langmem",
@@ -3932,7 +3947,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:32.038Z"
+      "fetchedAt": "2026-11-19T19:32:15.991Z"
     },
     {
       "id": "add-multimodal-lifelong-memory-to-mcp-and-python-agents-with-simplemem",
@@ -3947,7 +3962,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:32.206Z"
+      "fetchedAt": "2026-11-19T19:32:16.082Z"
     },
     {
       "id": "add-persistent-project-memory-and-hook-driven-synthesis-with-claude-memory-kit",
@@ -3962,7 +3977,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:32.342Z"
+      "fetchedAt": "2026-11-19T19:32:16.178Z"
     },
     {
       "id": "add-postgres-native-vector-retrieval-to-agent-and-rag-workflows-with-pgvector",
@@ -3977,7 +3992,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:32.479Z"
+      "fetchedAt": "2026-11-19T19:32:16.265Z"
     },
     {
       "id": "add-runtime-guardrails-to-typescript-agents-with-voltagent",
@@ -3992,7 +4007,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:32.804Z"
+      "fetchedAt": "2026-11-19T19:32:16.352Z"
     },
     {
       "id": "add-shell-and-cli-smoke-tests-before-refactors-ship",
@@ -4007,7 +4022,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:32.960Z"
+      "fetchedAt": "2026-11-19T19:32:16.441Z"
     },
     {
       "id": "add-temporal-context-memory-to-agent-workflows-with-zep",
@@ -4022,7 +4037,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:33.113Z"
+      "fetchedAt": "2026-11-19T19:32:16.531Z"
     },
     {
       "id": "address-github-pr-review-comments-from-the-current-branch-with-gh-address-comments",
@@ -4037,7 +4052,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:33.266Z"
+      "fetchedAt": "2026-11-19T19:32:16.631Z"
     },
     {
       "id": "adobe-firefly-api-batch-image-generator",
@@ -4052,7 +4067,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:33.418Z"
+      "fetchedAt": "2026-11-19T19:32:16.722Z"
     },
     {
       "id": "adobe-photoshop-api-batch-processor",
@@ -4067,7 +4082,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:33.577Z"
+      "fetchedAt": "2026-11-19T19:32:16.806Z"
     },
     {
       "id": "advance-gitops-app-manifests-to-newer-container-tags-with-argo-cd-image-updater",
@@ -4082,7 +4097,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:33.715Z"
+      "fetchedAt": "2026-11-19T19:32:16.895Z"
     },
     {
       "id": "advanced-custom-fields-rest-schema-mapper",
@@ -4097,7 +4112,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:33.872Z"
+      "fetchedAt": "2026-11-19T19:32:16.979Z"
     },
     {
       "id": "aerc-extensible-terminal-email-client",
@@ -4112,7 +4127,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:34.015Z"
+      "fetchedAt": "2026-11-19T19:32:17.077Z"
     },
     {
       "id": "affine-knowledge-base-collaborative-workspace-platform",
@@ -4127,7 +4142,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:34.155Z"
+      "fetchedAt": "2026-11-19T19:32:17.172Z"
     },
     {
       "id": "age-modern-file-encryption-tool",
@@ -4142,7 +4157,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:34.309Z"
+      "fetchedAt": "2026-11-19T19:32:17.256Z"
     },
     {
       "id": "agent-browser-operator",
@@ -4157,7 +4172,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:34.665Z"
+      "fetchedAt": "2026-11-19T19:32:17.337Z"
     },
     {
       "id": "agent-guild-trust",
@@ -4172,7 +4187,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:34.825Z"
+      "fetchedAt": "2026-11-19T19:32:17.431Z"
     },
     {
       "id": "agent-media-ugc-video",
@@ -4187,7 +4202,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:34.972Z"
+      "fetchedAt": "2026-11-19T19:32:17.521Z"
     },
     {
       "id": "agentql-natural-language-web-query-sdk-extraction-automation",
@@ -4202,7 +4217,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:35.119Z"
+      "fetchedAt": "2026-11-19T19:32:17.611Z"
     },
     {
       "id": "agents-observe-claude-code-observability",
@@ -4217,7 +4232,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:35.273Z"
+      "fetchedAt": "2026-11-19T19:32:17.689Z"
     },
     {
       "id": "agno-multi-modal-agent-runtime-platform",
@@ -4232,7 +4247,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:35.428Z"
+      "fetchedAt": "2026-11-19T19:32:17.780Z"
     },
     {
       "id": "ahrefs-backlink-content-planner",
@@ -4247,7 +4262,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:35.570Z"
+      "fetchedAt": "2026-11-19T19:32:17.888Z"
     },
     {
       "id": "ahrefs-content-gap-finder-agent",
@@ -4262,7 +4277,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:35.721Z"
+      "fetchedAt": "2026-11-19T19:32:17.981Z"
     },
     {
       "id": "ahrefs-keyword-gap-analysis-skill",
@@ -4277,7 +4292,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:35.868Z"
+      "fetchedAt": "2026-11-19T19:32:18.065Z"
     },
     {
       "id": "ai-content-readability-optimizer",
@@ -4292,7 +4307,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:36.021Z"
+      "fetchedAt": "2026-11-19T19:32:18.149Z"
     },
     {
       "id": "ai-engine-wordpress-mcp-server-and-ai-automation",
@@ -4307,7 +4322,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:36.161Z"
+      "fetchedAt": "2026-11-19T19:32:18.236Z"
     },
     {
       "id": "ai-meta-description-generator",
@@ -4322,7 +4337,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:36.313Z"
+      "fetchedAt": "2026-11-19T19:32:18.324Z"
     },
     {
       "id": "ai-powered-meta-description-writer",
@@ -4337,7 +4352,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:36.469Z"
+      "fetchedAt": "2026-11-19T19:32:18.406Z"
     },
     {
       "id": "ai-services-market-mcp",
@@ -4352,7 +4367,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:36.606Z"
+      "fetchedAt": "2026-11-19T19:32:18.495Z"
     },
     {
       "id": "aichat-llm-cli-shell-assistant-rag",
@@ -4367,7 +4382,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:36.750Z"
+      "fetchedAt": "2026-11-19T19:32:18.578Z"
     },
     {
       "id": "aident-loadout",
@@ -4382,7 +4397,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:36.899Z"
+      "fetchedAt": "2026-11-19T19:32:18.680Z"
     },
     {
       "id": "aider-ai-pair-programming-cli-agent",
@@ -4397,7 +4412,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:37.042Z"
+      "fetchedAt": "2026-11-19T19:32:18.769Z"
     },
     {
       "id": "aihot-news",
@@ -4412,7 +4427,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:37.196Z"
+      "fetchedAt": "2026-11-19T19:32:18.848Z"
     },
     {
       "id": "airbyte-connector-config-generator",
@@ -4427,7 +4442,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:37.345Z"
+      "fetchedAt": "2026-11-19T19:32:18.933Z"
     },
     {
       "id": "airbyte-open-source-data-integration-platform",
@@ -4442,7 +4457,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:37.678Z"
+      "fetchedAt": "2026-11-19T19:32:19.030Z"
     },
     {
       "id": "alex-inclusive-writing-linter",
@@ -4457,7 +4472,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:37.834Z"
+      "fetchedAt": "2026-11-19T19:32:19.157Z"
     },
     {
       "id": "amplication-open-source-backend-generation-platform",
@@ -4472,7 +4487,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:37.973Z"
+      "fetchedAt": "2026-11-19T19:32:19.283Z"
     },
     {
       "id": "analyze-kubernetes-cluster-issues-through-mcp-with-k8sgpt",
@@ -4487,7 +4502,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:38.120Z"
+      "fetchedAt": "2026-11-19T19:32:19.361Z"
     },
     {
       "id": "analyze-memory-images-for-processes-modules-and-malware-indicators-with-volatility-3",
@@ -4502,7 +4517,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:38.274Z"
+      "fetchedAt": "2026-11-19T19:32:19.441Z"
     },
     {
       "id": "analyze-videos-with-frame-extraction-and-audio-context-in-claude-code",
@@ -4517,7 +4532,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:38.431Z"
+      "fetchedAt": "2026-11-19T19:32:19.546Z"
     },
     {
       "id": "angular-typescript-web-framework",
@@ -4532,7 +4547,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:38.580Z"
+      "fetchedAt": "2026-11-19T19:32:19.637Z"
     },
     {
       "id": "annotate-classical-chinese-corpora-with-hanlp",
@@ -4547,7 +4562,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:38.723Z"
+      "fetchedAt": "2026-11-19T19:32:19.736Z"
     },
     {
       "id": "ansible-playbook-debugger",
@@ -4562,7 +4577,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:38.867Z"
+      "fetchedAt": "2026-11-19T19:32:19.845Z"
     },
     {
       "id": "ansible-playbook-diagnostics-runner",
@@ -4577,7 +4592,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:39.019Z"
+      "fetchedAt": "2026-11-19T19:32:19.947Z"
     },
     {
       "id": "ansible-playbook-dry-run-analyzer",
@@ -4592,7 +4607,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:39.158Z"
+      "fetchedAt": "2026-11-19T19:32:20.034Z"
     },
     {
       "id": "ansible-playbook-dry-run-validator",
@@ -4607,7 +4622,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:39.293Z"
+      "fetchedAt": "2026-11-19T19:32:20.127Z"
     },
     {
       "id": "ansible-playbook-dryrun-validator-agent",
@@ -4622,7 +4637,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:39.446Z"
+      "fetchedAt": "2026-11-19T19:32:20.221Z"
     },
     {
       "id": "ansible-playbook-linter-2",
@@ -4637,7 +4652,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:39.588Z"
+      "fetchedAt": "2026-11-19T19:32:20.315Z"
     },
     {
       "id": "ansible-playbook-linter-pro",
@@ -4652,7 +4667,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:39.734Z"
+      "fetchedAt": "2026-11-19T19:32:20.395Z"
     },
     {
       "id": "ansible-playbook-template-generator",
@@ -4667,7 +4682,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:40.022Z"
+      "fetchedAt": "2026-11-19T19:32:20.564Z"
     },
     {
       "id": "ansible-playbook-template-library",
@@ -4682,7 +4697,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:40.176Z"
+      "fetchedAt": "2026-11-19T19:32:20.657Z"
     },
     {
       "id": "ansible-playbook-vault-runner",
@@ -4697,7 +4712,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:40.316Z"
+      "fetchedAt": "2026-11-19T19:32:20.770Z"
     },
     {
       "id": "ansible-runbook-executor",
@@ -4712,7 +4727,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:40.458Z"
+      "fetchedAt": "2026-11-19T19:32:20.866Z"
     },
     {
       "id": "answer-anthropic-documentation-questions-from-a-versioned-local-archive",
@@ -4727,7 +4742,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:40.596Z"
+      "fetchedAt": "2026-11-19T19:32:20.956Z"
     },
     {
       "id": "answer-from-one-docling-studio-parse-with-verified-citations",
@@ -4742,7 +4757,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:40.738Z"
+      "fetchedAt": "2026-11-19T19:32:21.053Z"
     },
     {
       "id": "anthropic-sdk-token-usage-logger",
@@ -4757,7 +4772,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:40.902Z"
+      "fetchedAt": "2026-11-19T19:32:21.145Z"
     },
     {
       "id": "anyquery-universal-sql-engine-mcp-integration",
@@ -4772,7 +4787,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:41.060Z"
+      "fetchedAt": "2026-11-19T19:32:21.241Z"
     },
     {
       "id": "apache-avro-schema-evolution-agent",
@@ -4787,7 +4802,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:41.363Z"
+      "fetchedAt": "2026-11-19T19:32:21.411Z"
     },
     {
       "id": "apache-camel-route-data-mapper",
@@ -4802,7 +4817,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:41.527Z"
+      "fetchedAt": "2026-11-19T19:32:21.508Z"
     },
     {
       "id": "apache-kafka-consumer-lag-runbook",
@@ -4817,7 +4832,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:41.687Z"
+      "fetchedAt": "2026-11-19T19:32:21.590Z"
     },
     {
       "id": "apache-kafka-schema-extractor",
@@ -4832,7 +4847,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:41.829Z"
+      "fetchedAt": "2026-11-19T19:32:21.676Z"
     },
     {
       "id": "apache-kafka-stream-transformer-2",
@@ -4847,7 +4862,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:42.127Z"
+      "fetchedAt": "2026-11-19T19:32:21.838Z"
     },
     {
       "id": "apache-superset-dashboard-sql-exploration-skill",
@@ -4862,7 +4877,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:42.410Z"
+      "fetchedAt": "2026-11-19T19:32:22.010Z"
     },
     {
       "id": "apache-tika-content-extraction-hub",
@@ -4877,7 +4892,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:42.548Z"
+      "fetchedAt": "2026-11-19T19:32:22.092Z"
     },
     {
       "id": "apache-tika-document-extractor",
@@ -4892,7 +4907,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:42.696Z"
+      "fetchedAt": "2026-11-19T19:32:22.172Z"
     },
     {
       "id": "apache-tika-document-parser-agent",
@@ -4907,7 +4922,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:42.836Z"
+      "fetchedAt": "2026-11-19T19:32:22.276Z"
     },
     {
       "id": "apache-tika-document-parser",
@@ -4922,7 +4937,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:42.977Z"
+      "fetchedAt": "2026-11-19T19:32:22.388Z"
     },
     {
       "id": "aperture-wallet-guide",
@@ -4937,7 +4952,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:43.121Z"
+      "fetchedAt": "2026-11-19T19:32:22.472Z"
     },
     {
       "id": "api-documentation-indexer",
@@ -4952,7 +4967,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:43.399Z"
+      "fetchedAt": "2026-11-19T19:32:22.655Z"
     },
     {
       "id": "apify-actor-development-kit",
@@ -4967,7 +4982,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:43.550Z"
+      "fetchedAt": "2026-11-19T19:32:22.742Z"
     },
     {
       "id": "apify-actor-runner",
@@ -4982,7 +4997,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:43.705Z"
+      "fetchedAt": "2026-11-19T19:32:22.822Z"
     },
     {
       "id": "apify-actor-web-crawler",
@@ -4997,7 +5012,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:43.852Z"
+      "fetchedAt": "2026-11-19T19:32:22.915Z"
     },
     {
       "id": "apify-actor-web-intelligence-agent",
@@ -5012,7 +5027,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:43.998Z"
+      "fetchedAt": "2026-11-19T19:32:23.007Z"
     },
     {
       "id": "apify-sdk-web-scraping-actor-automation",
@@ -5027,7 +5042,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:44.149Z"
+      "fetchedAt": "2026-11-19T19:32:23.089Z"
     },
     {
       "id": "apify-web-scraper-orchestrator-3",
@@ -5042,7 +5057,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:44.305Z"
+      "fetchedAt": "2026-11-19T19:32:23.171Z"
     },
     {
       "id": "apostrophecms-full-stack-nodejs-cms-in-context-editing",
@@ -5057,7 +5072,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:44.444Z"
+      "fetchedAt": "2026-11-19T19:32:23.252Z"
     },
     {
       "id": "appflowy-open-source-collaborative-workspace",
@@ -5072,7 +5087,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:44.610Z"
+      "fetchedAt": "2026-11-19T19:32:23.338Z"
     },
     {
       "id": "apply-an-anti-ai-slop-design-workflow-to-pages-components-audits-and-redesigns-with-hallmark",
@@ -5087,7 +5102,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:44.748Z"
+      "fetchedAt": "2026-11-19T19:32:23.425Z"
     },
     {
       "id": "apply-git-branching-commit-and-pr-best-practices-through-git-workflow-skill",
@@ -5102,7 +5117,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:44.886Z"
+      "fetchedAt": "2026-11-19T19:32:23.519Z"
     },
     {
       "id": "apply-repeatable-imap-rules-to-triage-and-clean-inboxes-with-imapfilter",
@@ -5117,7 +5132,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:45.036Z"
+      "fetchedAt": "2026-11-19T19:32:23.604Z"
     },
     {
       "id": "apply-repeatable-javascript-and-typescript-codemods-across-large-codebases-with-jscodeshift",
@@ -5132,7 +5147,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:45.183Z"
+      "fetchedAt": "2026-11-19T19:32:23.696Z"
     },
     {
       "id": "apply-rule-based-guardrails-to-agent-traces-and-tool-flows-with-invariant",
@@ -5147,7 +5162,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:45.328Z"
+      "fetchedAt": "2026-11-19T19:32:23.800Z"
     },
     {
       "id": "apply-site-specific-action-manuals-with-actionbook",
@@ -5162,7 +5177,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:45.483Z"
+      "fetchedAt": "2026-11-19T19:32:23.885Z"
     },
     {
       "id": "apply-structural-codemods-across-large-codebases-with-comby",
@@ -5177,7 +5192,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:45.631Z"
+      "fetchedAt": "2026-11-19T19:32:23.971Z"
     },
     {
       "id": "apprise-universal-push-notification-library-cli",
@@ -5192,7 +5207,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:45.777Z"
+      "fetchedAt": "2026-11-19T19:32:24.060Z"
     },
     {
       "id": "appsmith-open-source-internal-tools-admin-panel-builder",
@@ -5207,7 +5222,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:45.918Z"
+      "fetchedAt": "2026-11-19T19:32:24.142Z"
     },
     {
       "id": "appwrite-open-source-backend-as-a-service-platform",
@@ -5222,7 +5237,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:46.070Z"
+      "fetchedAt": "2026-11-19T19:32:24.228Z"
     },
     {
       "id": "appwrite-open-source-backend-platform",
@@ -5237,7 +5252,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:46.391Z"
+      "fetchedAt": "2026-11-19T19:32:24.317Z"
     },
     {
       "id": "archive-and-reorganize-local-photo-libraries-with-photo-cli",
@@ -5252,7 +5267,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:46.542Z"
+      "fetchedAt": "2026-11-19T19:32:24.407Z"
     },
     {
       "id": "archive-online-videos-and-metadata-to-the-internet-archive-with-tubeup",
@@ -5267,7 +5282,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:46.705Z"
+      "fetchedAt": "2026-11-19T19:32:24.491Z"
     },
     {
       "id": "arcmira-transcript-search",
@@ -5282,7 +5297,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:46.865Z"
+      "fetchedAt": "2026-11-19T19:32:24.576Z"
     },
     {
       "id": "argo-workflows-dag-optimizer",
@@ -5297,7 +5312,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:47.006Z"
+      "fetchedAt": "2026-11-19T19:32:24.670Z"
     },
     {
       "id": "argo-workflows-dag-pipeline-builder",
@@ -5312,7 +5327,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:47.149Z"
+      "fetchedAt": "2026-11-19T19:32:24.767Z"
     },
     {
       "id": "argo-workflows-deployer",
@@ -5327,7 +5342,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:47.290Z"
+      "fetchedAt": "2026-11-19T19:32:24.863Z"
     },
     {
       "id": "argo-workflows-linter",
@@ -5342,7 +5357,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:47.431Z"
+      "fetchedAt": "2026-11-19T19:32:24.978Z"
     },
     {
       "id": "argocd-application-deployer",
@@ -5357,7 +5372,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:47.570Z"
+      "fetchedAt": "2026-11-19T19:32:25.069Z"
     },
     {
       "id": "argocd-application-health-runbook",
@@ -5372,7 +5387,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:47.709Z"
+      "fetchedAt": "2026-11-19T19:32:25.149Z"
     },
     {
       "id": "argocd-application-sync-manager-2",
@@ -5387,7 +5402,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:47.849Z"
+      "fetchedAt": "2026-11-19T19:32:25.261Z"
     },
     {
       "id": "argocd-application-sync-monitor",
@@ -5402,7 +5417,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:47.997Z"
+      "fetchedAt": "2026-11-19T19:32:25.336Z"
     },
     {
       "id": "argocd-deployment-monitor",
@@ -5417,7 +5432,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:48.138Z"
+      "fetchedAt": "2026-11-19T19:32:25.431Z"
     },
     {
       "id": "argocd-deployment-runbook-agent",
@@ -5432,7 +5447,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:48.275Z"
+      "fetchedAt": "2026-11-19T19:32:25.514Z"
     },
     {
       "id": "argocd-deployment-sync-skill",
@@ -5447,7 +5462,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:48.415Z"
+      "fetchedAt": "2026-11-19T19:32:25.601Z"
     },
     {
       "id": "argocd-gitops-sync-automator",
@@ -5462,7 +5477,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:48.574Z"
+      "fetchedAt": "2026-11-19T19:32:25.686Z"
     },
     {
       "id": "argocd-gitops-sync-controller",
@@ -5477,7 +5492,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:48.712Z"
+      "fetchedAt": "2026-11-19T19:32:25.803Z"
     },
     {
       "id": "argocd-gitops-sync-manager",
@@ -5492,7 +5507,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:48.847Z"
+      "fetchedAt": "2026-11-19T19:32:25.894Z"
     },
     {
       "id": "argocd-gitops-sync-monitor",
@@ -5507,7 +5522,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:48.979Z"
+      "fetchedAt": "2026-11-19T19:32:25.982Z"
     },
     {
       "id": "argocd-sync-drift-detector",
@@ -5522,7 +5537,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:49.261Z"
+      "fetchedAt": "2026-11-19T19:32:26.166Z"
     },
     {
       "id": "argocd-sync-manager-skill",
@@ -5537,7 +5552,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:49.395Z"
+      "fetchedAt": "2026-11-19T19:32:26.253Z"
     },
     {
       "id": "argocd-sync-orchestrator",
@@ -5552,7 +5567,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:49.532Z"
+      "fetchedAt": "2026-11-19T19:32:26.356Z"
     },
     {
       "id": "argocd-sync-status-monitor-7",
@@ -5567,7 +5582,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:49.672Z"
+      "fetchedAt": "2026-11-19T19:32:26.444Z"
     },
     {
       "id": "argocd-sync-troubleshooter",
@@ -5582,7 +5597,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:49.814Z"
+      "fetchedAt": "2026-11-19T19:32:26.536Z"
     },
     {
       "id": "argocd-sync-wave-orchestrator-wave48",
@@ -5597,7 +5612,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:49.948Z"
+      "fetchedAt": "2026-11-19T19:32:26.618Z"
     },
     {
       "id": "argocd-sync-wave-planner",
@@ -5612,7 +5627,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:50.087Z"
+      "fetchedAt": "2026-11-19T19:32:26.710Z"
     },
     {
       "id": "asharehub",
@@ -5627,7 +5642,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:50.227Z"
+      "fetchedAt": "2026-11-19T19:32:26.809Z"
     },
     {
       "id": "assemble-and-review-local-video-cuts-through-concat-mcp",
@@ -5642,7 +5657,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:50.376Z"
+      "fetchedAt": "2026-11-19T19:32:26.914Z"
     },
     {
       "id": "assemble-minimal-oci-images-from-declarative-package-configs-with-apko",
@@ -5657,7 +5672,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:50.513Z"
+      "fetchedAt": "2026-11-19T19:32:27.000Z"
     },
     {
       "id": "assemble-production-agent-harnesses-with-deepagents",
@@ -5672,7 +5687,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:50.647Z"
+      "fetchedAt": "2026-11-19T19:32:27.100Z"
     },
     {
       "id": "assemblyai-audio-intelligence-agent",
@@ -5687,7 +5702,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:50.786Z"
+      "fetchedAt": "2026-11-19T19:32:27.187Z"
     },
     {
       "id": "assemblyai-lemur-summarizer-agent",
@@ -5702,7 +5717,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:50.925Z"
+      "fetchedAt": "2026-11-19T19:32:27.273Z"
     },
     {
       "id": "assemblyai-realtime-call-intelligence",
@@ -5717,7 +5732,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:51.059Z"
+      "fetchedAt": "2026-11-19T19:32:27.365Z"
     },
     {
       "id": "assemblyai-summarization-chapters-skill",
@@ -5732,7 +5747,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:51.202Z"
+      "fetchedAt": "2026-11-19T19:32:27.451Z"
     },
     {
       "id": "ast-grep-structural-code-search-rewrite",
@@ -5747,7 +5762,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:51.339Z"
+      "fetchedAt": "2026-11-19T19:32:27.534Z"
     },
     {
       "id": "astro-content-driven-web-framework",
@@ -5762,7 +5777,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:51.497Z"
+      "fetchedAt": "2026-11-19T19:32:27.620Z"
     },
     {
       "id": "asyncapi-event-catalog-builder",
@@ -5777,7 +5792,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:51.637Z"
+      "fetchedAt": "2026-11-19T19:32:27.715Z"
     },
     {
       "id": "asyncapi-event-catalog-generator",
@@ -5792,7 +5807,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:51.778Z"
+      "fetchedAt": "2026-11-19T19:32:27.824Z"
     },
     {
       "id": "atlassian-mcp-server-jira-confluence",
@@ -5807,7 +5822,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:51.923Z"
+      "fetchedAt": "2026-11-19T19:32:27.912Z"
     },
     {
       "id": "atlassian-rovo-mcp-server",
@@ -5822,7 +5837,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:52.056Z"
+      "fetchedAt": "2026-11-19T19:32:27.999Z"
     },
     {
       "id": "atuin-shell-history-database-sync",
@@ -5837,7 +5852,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:52.183Z"
+      "fetchedAt": "2026-11-19T19:32:28.091Z"
     },
     {
       "id": "audio-fingerprint-identifier-agent",
@@ -5852,7 +5867,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:52.324Z"
+      "fetchedAt": "2026-11-19T19:32:28.165Z"
     },
     {
       "id": "audio-stem-separator-demucs",
@@ -5867,7 +5882,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:52.461Z"
+      "fetchedAt": "2026-11-19T19:32:28.249Z"
     },
     {
       "id": "audiobookshelf-self-hosted-audiobook-podcast-server-api",
@@ -5882,7 +5897,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:52.609Z"
+      "fetchedAt": "2026-11-19T19:32:28.336Z"
     },
     {
       "id": "audioflux-audio-music-analysis-feature-extraction-library",
@@ -5897,22 +5912,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:52.751Z"
-    },
-    {
-      "id": "audiowaveform-bbc-waveform-generator",
-      "name": "audiowaveform-audio-waveform-data-generator-and-image-renderer",
-      "description": "audiowaveform is a BBC open-source C++ CLI tool that generates waveform data from MP3, WAV, FLAC, Ogg Vorbis, and Opus audio files. It outputs binary or JSON waveform data and renders PNG waveform images at configurable zoom levels.",
-      "license": "MIT",
-      "sourceUrl": "https://github.com/agentskillexchange/skills/tree/HEAD/skills/audiowaveform-bbc-waveform-generator",
-      "rawUrl": "https://raw.githubusercontent.com/agentskillexchange/skills/HEAD/skills/audiowaveform-bbc-waveform-generator/SKILL.md",
-      "sourceId": "discovered-agentskillexchange-skills",
-      "fingerprint": "audiowaveform-audio-waveform-data-generator-and-image-renderer::dfb46fe5c46c145b",
-      "score": 95,
-      "hasScriptsHint": false,
-      "requiresManualReview": false,
-      "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:52.919Z"
+      "fetchedAt": "2026-11-19T19:32:28.424Z"
     },
     {
       "id": "ads-amazon",
@@ -5927,7 +5927,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:54.799Z"
+      "fetchedAt": "2026-11-19T19:32:29.498Z"
     },
     {
       "id": "ads-apple",
@@ -5942,7 +5942,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:55.118Z"
+      "fetchedAt": "2026-11-19T19:32:29.579Z"
     },
     {
       "id": "ads-attribution",
@@ -5957,7 +5957,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:55.454Z"
+      "fetchedAt": "2026-11-19T19:32:29.655Z"
     },
     {
       "id": "ads-audit",
@@ -5972,7 +5972,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:55.582Z"
+      "fetchedAt": "2026-11-19T19:32:29.726Z"
     },
     {
       "id": "ads-budget",
@@ -5987,7 +5987,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:55.911Z"
+      "fetchedAt": "2026-11-19T19:32:29.809Z"
     },
     {
       "id": "ads-competitor",
@@ -6002,7 +6002,7 @@
       "hasScriptsHint": false,
       "requiresManualReview": false,
       "status": "staging",
-      "fetchedAt": "2026-11-19T01:50:56.040Z"
+      "fetchedAt": "2026-11-19T19:32:29.938Z"
     }
   ],
   "rejected": [
@@ -10247,14 +10247,6 @@
       "reason": "duplicata de {\"origin\":\"community\",\"id\":\"frontend-design\"}"
     },
     {
-      "id": "aitmpl-game-development",
-      "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/game-development",
-      "rawUrl": "https://raw.githubusercontent.com/davila7/claude-code-templates/HEAD/cli-tool/components/skills/creative-design/game-development/SKILL.md",
-      "sourceId": "davila7-claude-code-templates",
-      "repo": "davila7/claude-code-templates",
-      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"aitmpl-game-development\"}"
-    },
-    {
       "id": "aitmpl-imagegen",
       "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/HEAD/cli-tool/components/skills/creative-design/imagegen",
       "rawUrl": "https://raw.githubusercontent.com/davila7/claude-code-templates/HEAD/cli-tool/components/skills/creative-design/imagegen/SKILL.md",
@@ -13375,14 +13367,6 @@
       "sourceId": "discovered-agent-skills-hub-agent-skills-hub",
       "repo": "agent-skills-hub/agent-skills-hub",
       "reason": "pasta scripts/ → só review manual (não auto-staging)"
-    },
-    {
-      "id": "database-migration",
-      "sourceUrl": "https://github.com/agent-skills-hub/agent-skills-hub/tree/HEAD/skills/database-migration",
-      "rawUrl": "https://raw.githubusercontent.com/agent-skills-hub/agent-skills-hub/HEAD/skills/database-migration/SKILL.md",
-      "sourceId": "discovered-agent-skills-hub-agent-skills-hub",
-      "repo": "agent-skills-hub/agent-skills-hub",
-      "reason": "duplicata de {\"origin\":\"community\",\"id\":\"aitmpl-database-migration\"}"
     },
     {
       "id": "drawio-skill",

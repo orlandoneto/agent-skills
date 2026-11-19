@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:42:05.923Z",
+  "updatedAt": "2026-11-19T19:26:36.000Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -127,7 +127,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-12"
+      "discoveredAt": "2026-11-19"
     },
     {
       "id": "discovered-agentskillexchange-skills",
@@ -145,7 +145,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-12"
+      "discoveredAt": "2026-11-19"
     },
     {
       "id": "discovered-agricidaniel-claude-blog",
@@ -163,7 +163,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-12"
+      "discoveredAt": "2026-11-19"
     },
     {
       "id": "discovered-ahacker-1-cre-agent-skills",
@@ -262,7 +262,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-12"
+      "discoveredAt": "2026-11-19"
     },
     {
       "id": "discovered-alibaba-skill-up",
@@ -361,7 +361,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-12"
+      "discoveredAt": "2026-11-19"
     },
     {
       "id": "discovered-ar9av-obsidian-wiki",
@@ -424,7 +424,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-12"
+      "discoveredAt": "2026-11-19"
     },
     {
       "id": "discovered-b1rdmania-hinge-profile-optimizer",
@@ -442,7 +442,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-12"
+      "discoveredAt": "2026-11-19"
     },
     {
       "id": "discovered-bintzgavin-helios",
@@ -469,7 +469,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-12"
+      "discoveredAt": "2026-11-19"
     },
     {
       "id": "discovered-comeonoliver-skillshub",
