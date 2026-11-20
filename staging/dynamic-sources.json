@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T19:26:36.000Z",
+  "updatedAt": "2026-11-20T01:38:24.502Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -10,7 +10,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-0xintuition-agent-skills",
@@ -55,7 +55,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-adithya-s-k-manim_skill",
@@ -226,7 +226,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-alexgreensh-anidoodle",
@@ -235,7 +235,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-alexyc9381-court-skill",
@@ -325,7 +325,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-antvis-ava",
@@ -343,7 +343,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-anysiteio-agent-skills",
@@ -370,7 +370,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-arch3rpro-1panel-appstore",
@@ -406,7 +406,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-autoclaw-cc-xiaohongshu-skills",
