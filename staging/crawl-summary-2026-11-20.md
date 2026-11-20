@@ -2,8 +2,8 @@
 
 - **Novos publicados:** 0
 - **Candidatos staging:** 400
-- **Rejeitados no crawl:** 852
-- **Skipped no publish:** 18
+- **Rejeitados no crawl:** 841
+- **Skipped no publish:** 20
 - **Held (manual/teto):** 1
 
 ## Adicionados neste run
@@ -22,7 +22,9 @@ _Nenhum skill novo SAFE hoje._
 - `ms-ads`: já publicado (id)
 - `ms-co-marketing`: já publicado (id)
 - `ms-competitor-profiling`: já publicado (id)
+- `ms-directory-submissions`: já publicado (id)
 - `ms-image`: já publicado (id)
+- `ms-marketing-plan`: já publicado (id)
 - `ms-sales-enablement`: já publicado (id)
 - `ms-video`: já publicado (id)
 - `claude-seo-seo-drift`: já publicado (id)
@@ -39,7 +41,7 @@ _Nenhum skill novo SAFE hoje._
 - **2026-11-11** — 70: academy-guide, agent-skill-creator, algorithmic-art, analyze-experiment, api-and-interface-design, brand-guidelines, browser-testing-with-devtools, canvas-design, ci-cd-and-automation, claude-api, code-review-and-quality, code-simplification (+58)
 
 ## Rejeições (top)
-- 640× duplicata
-- 102× pasta scripts/
+- 630× duplicata
+- 101× pasta scripts/
 - 90× licença ausente ou fora da allowlist
 - 20× description curta / ausente (anti-lixo)

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:38:24.502Z",
+  "updatedAt": "2026-11-20T19:01:29.631Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -19,7 +19,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-24601-surreal-skills",
@@ -82,7 +82,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-aerovato-container",
@@ -118,7 +118,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-agents365-ai-drawio-skill",
@@ -154,7 +154,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-agricidaniel-claude-obsidian",
@@ -172,7 +172,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-ahgraber-skills",
@@ -208,7 +208,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-ajnart-self-host",
@@ -280,7 +280,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-amstaff666-figma-pilot",
@@ -388,7 +388,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-13"
+      "discoveredAt": "2026-11-20"
     },
     {
       "id": "discovered-aronhy-tiktok-agent-skills",

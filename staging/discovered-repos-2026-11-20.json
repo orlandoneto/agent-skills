@@ -2,131 +2,131 @@
   "date": "2026-11-20",
   "newDynamic": [
     {
-      "id": "discovered-0x0funky-agent-sprite-forge",
+      "id": "discovered-0xintuition-agent-skills",
       "type": "github-repo-skills",
-      "repo": "0x0funky/agent-sprite-forge",
+      "repo": "0xintuition/agent-skills",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-20"
     },
     {
-      "id": "discovered-addyosmani-web-quality-skills",
+      "id": "discovered-aerospike-agent-skills",
       "type": "github-repo-skills",
-      "repo": "addyosmani/web-quality-skills",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-20"
-    },
-    {
-      "id": "discovered-alchaincyf-huashu-motion",
-      "type": "github-repo-skills",
-      "repo": "alchaincyf/huashu-motion",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-20"
-    },
-    {
-      "id": "discovered-alexgreensh-anidoodle",
-      "type": "github-repo-skills",
-      "repo": "alexgreensh/anidoodle",
+      "repo": "aerospike/agent-skills",
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
       "discoveredAt": "2026-11-20"
     },
     {
-      "id": "discovered-antfu-skills",
+      "id": "discovered-agent-skills-hub-agent-skills-hub",
       "type": "github-repo-skills",
-      "repo": "antfu/skills",
+      "repo": "agent-skills-hub/agent-skills-hub",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-20"
     },
     {
-      "id": "discovered-antvis-l7",
+      "id": "discovered-agricidaniel-claude-blog",
       "type": "github-repo-skills",
-      "repo": "antvis/l7",
+      "repo": "agricidaniel/claude-blog",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-20"
     },
     {
-      "id": "discovered-ar9av-obsidian-wiki",
+      "id": "discovered-ahacker-1-cre-agent-skills",
       "type": "github-repo-skills",
-      "repo": "ar9av/obsidian-wiki",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-20"
-    },
-    {
-      "id": "discovered-arpitg1304-robotics-agent-skills",
-      "type": "github-repo-skills",
-      "repo": "arpitg1304/robotics-agent-skills",
+      "repo": "ahacker-1/cre-agent-skills",
       "path": "skills",
       "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-20"
+    },
+    {
+      "id": "discovered-aiworkskills-wechat-article-skills",
+      "type": "github-repo-skills",
+      "repo": "aiworkskills/wechat-article-skills",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-20"
+    },
+    {
+      "id": "discovered-amelnagdy-delegate-skills",
+      "type": "github-repo-skills",
+      "repo": "amelnagdy/delegate-skills",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-20"
+    },
+    {
+      "id": "discovered-ark0n-codeman",
+      "type": "github-repo-skills",
+      "repo": "ark0n/codeman",
+      "path": "skills",
+      "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-20"
     }
   ],
   "inspected": [
     {
-      "repo": "0x0funky/agent-sprite-forge",
+      "repo": "0xintuition/agent-skills",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 5859
+      "stars": 22
     },
     {
-      "repo": "addyosmani/web-quality-skills",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 3111
-    },
-    {
-      "repo": "alchaincyf/huashu-motion",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 2901
-    },
-    {
-      "repo": "alexgreensh/anidoodle",
+      "repo": "aerospike/agent-skills",
       "skillsPathOk": true,
       "license": "Apache-2.0",
-      "stars": 1861
+      "stars": 20
     },
     {
-      "repo": "antfu/skills",
+      "repo": "agent-skills-hub/agent-skills-hub",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 6087
+      "stars": 137
     },
     {
-      "repo": "antvis/l7",
+      "repo": "agricidaniel/claude-blog",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 4081
+      "stars": 2826
     },
     {
-      "repo": "ar9av/obsidian-wiki",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 3787
-    },
-    {
-      "repo": "arpitg1304/robotics-agent-skills",
+      "repo": "ahacker-1/cre-agent-skills",
       "skillsPathOk": true,
       "license": "Apache-2.0",
-      "stars": 404
+      "stars": 142
+    },
+    {
+      "repo": "aiworkskills/wechat-article-skills",
+      "skillsPathOk": true,
+      "license": "Apache-2.0",
+      "stars": 757
+    },
+    {
+      "repo": "amelnagdy/delegate-skills",
+      "skillsPathOk": true,
+      "license": "MIT",
+      "stars": 2634
+    },
+    {
+      "repo": "ark0n/codeman",
+      "skillsPathOk": true,
+      "license": "MIT",
+      "stars": 844
     }
   ],
   "skipped": [
     {
-      "repo": "0xintuition/agent-skills",
+      "repo": "0x0funky/agent-sprite-forge",
       "reason": "recheck em 7d"
     },
     {
@@ -190,6 +190,10 @@
       "reason": "já na policy allowlist"
     },
     {
+      "repo": "addyosmani/web-quality-skills",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "aden-hive/hive",
       "reason": "status=rejected"
     },
@@ -204,10 +208,6 @@
     {
       "repo": "aeonfun/soul.md",
       "reason": "status=rejected"
-    },
-    {
-      "repo": "aerospike/agent-skills",
-      "reason": "recheck em 7d"
     },
     {
       "repo": "aerovato/container",
@@ -228,10 +228,6 @@
     {
       "repo": "agamm/claude-code-owasp",
       "reason": "status=rejected"
-    },
-    {
-      "repo": "agent-skills-hub/agent-skills-hub",
-      "reason": "recheck em 7d"
     },
     {
       "repo": "agent37-platform/agent37-skills-collection",
@@ -270,15 +266,7 @@
       "reason": "recheck em 7d"
     },
     {
-      "repo": "agricidaniel/claude-blog",
-      "reason": "recheck em 7d"
-    },
-    {
       "repo": "agricidaniel/claude-obsidian",
-      "reason": "recheck em 7d"
-    },
-    {
-      "repo": "ahacker-1/cre-agent-skills",
       "reason": "recheck em 7d"
     },
     {
@@ -322,10 +310,6 @@
       "reason": "status=rejected"
     },
     {
-      "repo": "aiworkskills/wechat-article-skills",
-      "reason": "recheck em 7d"
-    },
-    {
       "repo": "ajnart/self-host",
       "reason": "recheck em 7d"
     },
@@ -366,6 +350,10 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "alchaincyf/huashu-motion",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "alchaincyf/huashu-report",
       "reason": "status=rejected"
     },
@@ -400,6 +388,10 @@
     {
       "repo": "alexgaoth/awesome-reverse-engineered",
       "reason": "status=rejected"
+    },
+    {
+      "repo": "alexgreensh/anidoodle",
+      "reason": "recheck em 7d"
     },
     {
       "repo": "alexgreensh/attention-span",
@@ -442,10 +434,6 @@
       "reason": "status=rejected"
     },
     {
-      "repo": "amelnagdy/delegate-skills",
-      "reason": "recheck em 7d"
-    },
-    {
       "repo": "amontlabs/lcu",
       "reason": "status=rejected"
     },
@@ -482,6 +470,10 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "antfu/skills",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "anthropics/skills",
       "reason": "já na policy allowlist"
     },
@@ -494,6 +486,10 @@
       "reason": "recheck em 7d"
     },
     {
+      "repo": "antvis/l7",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "anysiteio/agent-skills",
       "reason": "recheck em 7d"
     },
@@ -503,6 +499,10 @@
     },
     {
       "repo": "appllama/appllama-skills",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "ar9av/obsidian-wiki",
       "reason": "recheck em 7d"
     },
     {
@@ -524,14 +524,6 @@
     {
       "repo": "arjun988/blender-skills",
       "reason": "status=rejected"
-    },
-    {
-      "repo": "ark0n/codeman",
-      "reason": "recheck em 7d"
-    },
-    {
-      "repo": "aronhy/tiktok-agent-skills",
-      "reason": "recheck em 7d"
     }
   ],
   "rejected": [],

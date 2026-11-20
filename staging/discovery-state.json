@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T01:38:24.502Z",
+  "updatedAt": "2026-11-20T19:01:29.631Z",
   "note": "Cache de descoberta (repos/queries). Postgres/Redis = futuro se volume exigir.",
   "queries": {
     "code-skill-md-skills-path": {
@@ -32,7 +32,7 @@
   "repos": {
     "addyosmani/agent-skills": {
       "firstSeenAt": "2026-11-12T18:46:12.854Z",
-      "lastCheckedAt": "2026-11-20T01:38:19.150Z",
+      "lastCheckedAt": "2026-11-20T19:01:23.074Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -195,7 +195,7 @@
     },
     "anthropics/skills": {
       "firstSeenAt": "2026-11-12T18:46:29.019Z",
-      "lastCheckedAt": "2026-11-20T01:38:22.278Z",
+      "lastCheckedAt": "2026-11-20T19:01:28.757Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -545,7 +545,7 @@
     },
     "0xintuition/agent-skills": {
       "firstSeenAt": "2026-11-13T18:28:44.143Z",
-      "lastCheckedAt": "2026-11-13T18:28:45.066Z",
+      "lastCheckedAt": "2026-11-20T19:01:23.074Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
@@ -567,7 +567,7 @@
     },
     "aaron-he-zhu/aaron-marketing-skills": {
       "firstSeenAt": "2026-11-13T18:28:46.044Z",
-      "lastCheckedAt": "2026-11-20T01:38:19.150Z",
+      "lastCheckedAt": "2026-11-20T19:01:23.074Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -587,7 +587,7 @@
     },
     "aerospike/agent-skills": {
       "firstSeenAt": "2026-11-13T18:28:47.054Z",
-      "lastCheckedAt": "2026-11-13T18:28:47.991Z",
+      "lastCheckedAt": "2026-11-20T19:01:24.015Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
@@ -598,13 +598,13 @@
     },
     "agent-skills-hub/agent-skills-hub": {
       "firstSeenAt": "2026-11-13T18:28:47.991Z",
-      "lastCheckedAt": "2026-11-13T18:28:49.089Z",
+      "lastCheckedAt": "2026-11-20T19:01:25.120Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 133,
+      "stars": 137,
       "pushedAt": "2026-10-02T09:16:02Z"
     },
     "agent37-platform/agent37-skills-collection": {
@@ -620,35 +620,35 @@
     },
     "agricidaniel/claude-blog": {
       "firstSeenAt": "2026-11-13T18:28:50.038Z",
-      "lastCheckedAt": "2026-11-13T18:28:50.897Z",
+      "lastCheckedAt": "2026-11-20T19:01:25.998Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 2743,
+      "stars": 2826,
       "pushedAt": "2026-11-03T00:20:12Z"
     },
     "ahacker-1/cre-agent-skills": {
       "firstSeenAt": "2026-11-13T18:28:50.897Z",
-      "lastCheckedAt": "2026-11-13T18:28:51.810Z",
+      "lastCheckedAt": "2026-11-20T19:01:27.069Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "skillsPathOk": true,
-      "stars": 138,
+      "stars": 142,
       "pushedAt": "2026-09-02T00:54:26Z"
     },
     "aiworkskills/wechat-article-skills": {
       "firstSeenAt": "2026-11-13T18:28:51.810Z",
-      "lastCheckedAt": "2026-11-13T18:28:52.726Z",
+      "lastCheckedAt": "2026-11-20T19:01:27.923Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "skillsPathOk": true,
-      "stars": 742,
+      "stars": 757,
       "pushedAt": "2026-09-23T01:36:09Z"
     },
     "alchaincyf/huashu-md-html": {
@@ -697,14 +697,14 @@
     },
     "amelnagdy/delegate-skills": {
       "firstSeenAt": "2026-11-13T18:28:56.623Z",
-      "lastCheckedAt": "2026-11-13T18:28:57.507Z",
+      "lastCheckedAt": "2026-11-20T19:01:28.757Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 2600,
-      "pushedAt": "2026-11-05T20:32:18Z"
+      "stars": 2634,
+      "pushedAt": "2026-11-14T20:10:36Z"
     },
     "ar9av/paperorchestra": {
       "firstSeenAt": "2026-11-13T18:28:57.507Z",
@@ -719,14 +719,14 @@
     },
     "ark0n/codeman": {
       "firstSeenAt": "2026-11-13T18:28:58.463Z",
-      "lastCheckedAt": "2026-11-13T18:28:59.388Z",
+      "lastCheckedAt": "2026-11-20T19:01:29.626Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 839,
-      "pushedAt": "2026-11-12T17:21:08Z"
+      "stars": 844,
+      "pushedAt": "2026-11-20T03:50:08Z"
     },
     "24kchengye/human-skill-tree": {
       "firstSeenAt": "2026-11-14T00:39:29.408Z",
