@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T19:01:29.631Z",
+  "updatedAt": "2026-11-21T01:04:14.059Z",
   "note": "Cache de descoberta (repos/queries). Postgres/Redis = futuro se volume exigir.",
   "queries": {
     "code-skill-md-skills-path": {
@@ -32,7 +32,7 @@
   "repos": {
     "addyosmani/agent-skills": {
       "firstSeenAt": "2026-11-12T18:46:12.854Z",
-      "lastCheckedAt": "2026-11-20T19:01:23.074Z",
+      "lastCheckedAt": "2026-11-21T01:04:07.180Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -195,7 +195,7 @@
     },
     "anthropics/skills": {
       "firstSeenAt": "2026-11-12T18:46:29.019Z",
-      "lastCheckedAt": "2026-11-20T19:01:28.757Z",
+      "lastCheckedAt": "2026-11-21T01:04:11.544Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -567,7 +567,7 @@
     },
     "aaron-he-zhu/aaron-marketing-skills": {
       "firstSeenAt": "2026-11-13T18:28:46.044Z",
-      "lastCheckedAt": "2026-11-20T19:01:23.074Z",
+      "lastCheckedAt": "2026-11-21T01:04:07.180Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -774,13 +774,13 @@
     },
     "aiscientists-dev/flowtrace": {
       "firstSeenAt": "2026-11-14T00:39:32.821Z",
-      "lastCheckedAt": "2026-11-14T00:39:33.726Z",
+      "lastCheckedAt": "2026-11-21T01:04:08.152Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 484,
+      "stars": 483,
       "pushedAt": "2026-06-09T14:47:07Z"
     },
     "aiskillstore/marketplace": {
@@ -796,14 +796,14 @@
     },
     "ajnart/self-host": {
       "firstSeenAt": "2026-11-14T00:39:34.700Z",
-      "lastCheckedAt": "2026-11-14T00:39:35.519Z",
+      "lastCheckedAt": "2026-11-21T01:04:09.029Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "skillsPathOk": true,
-      "stars": 1592,
-      "pushedAt": "2026-11-09T16:11:13Z"
+      "stars": 1599,
+      "pushedAt": "2026-11-16T15:38:54Z"
     },
     "aktsmm/agent-skills": {
       "firstSeenAt": "2026-11-14T00:39:35.519Z",
@@ -873,51 +873,51 @@
     },
     "ancoleman/ai-design-components": {
       "firstSeenAt": "2026-11-14T00:39:40.368Z",
-      "lastCheckedAt": "2026-11-14T00:39:41.171Z",
+      "lastCheckedAt": "2026-11-21T01:04:09.925Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 532,
+      "stars": 533,
       "pushedAt": "2025-12-11T00:50:33Z"
     },
     "andyhuo520/vibe-knowledge": {
       "firstSeenAt": "2026-11-14T00:39:41.171Z",
-      "lastCheckedAt": "2026-11-14T00:39:41.952Z",
+      "lastCheckedAt": "2026-11-21T01:04:10.768Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 655,
+      "stars": 741,
       "pushedAt": "2026-10-28T15:30:54Z"
     },
     "anombyte93/prd-taskmaster": {
       "firstSeenAt": "2026-11-14T00:39:41.952Z",
-      "lastCheckedAt": "2026-11-14T00:39:42.910Z",
+      "lastCheckedAt": "2026-11-21T01:04:11.544Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 611,
+      "stars": 612,
       "pushedAt": "2026-11-04T23:27:54Z"
     },
     "antvis/ava": {
       "firstSeenAt": "2026-11-14T00:39:42.910Z",
-      "lastCheckedAt": "2026-11-14T00:39:43.780Z",
+      "lastCheckedAt": "2026-11-21T01:04:12.386Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 1632,
-      "pushedAt": "2026-11-13T10:41:28Z"
+      "stars": 1669,
+      "pushedAt": "2026-11-19T08:43:43Z"
     },
     "anysiteio/agent-skills": {
       "firstSeenAt": "2026-11-14T00:39:43.780Z",
-      "lastCheckedAt": "2026-11-14T00:39:44.643Z",
+      "lastCheckedAt": "2026-11-21T01:04:13.251Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
@@ -939,13 +939,13 @@
     },
     "aronhy/tiktok-agent-skills": {
       "firstSeenAt": "2026-11-14T00:39:45.487Z",
-      "lastCheckedAt": "2026-11-14T00:39:46.236Z",
+      "lastCheckedAt": "2026-11-21T01:04:14.054Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 186,
+      "stars": 190,
       "pushedAt": "2026-08-03T17:42:29Z"
     },
     "917dhj/deeppapernote": {

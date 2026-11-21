@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T19:01:29.631Z",
+  "updatedAt": "2026-11-21T01:04:14.059Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -199,7 +199,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-aiworkskills-wechat-article-skills",
@@ -217,7 +217,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-alchaincyf-huashu-motion",
@@ -298,7 +298,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-andyhuo520-vibe-knowledge",
@@ -307,7 +307,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-anombyte93-prd-taskmaster",
@@ -316,7 +316,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-antfu-skills",
@@ -334,7 +334,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-antvis-l7",
@@ -352,7 +352,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-appllama-appllama-skills",
@@ -397,7 +397,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-arpitg1304-robotics-agent-skills",
