@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T01:04:14.059Z",
+  "updatedAt": "2026-11-21T17:55:21.553Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -37,7 +37,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-a554b554-reactant",
@@ -64,7 +64,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-aedev-tools-adobe-agent-skills",
@@ -73,7 +73,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-aerospike-agent-skills",
@@ -91,7 +91,7 @@
       "path": "skills",
       "defaultLicense": "BSD-3-Clause",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-aetheria-labs1-storefront-skills",
@@ -190,7 +190,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-aiscientists-dev-flowtrace",
@@ -244,7 +244,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-algorand-devrel-algorand-agent-skills",
@@ -253,7 +253,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-alibaba-open-code-review",
@@ -271,7 +271,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-14"
+      "discoveredAt": "2026-11-21"
     },
     {
       "id": "discovered-amelnagdy-delegate-skills",
