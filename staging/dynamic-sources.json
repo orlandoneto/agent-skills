@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T00:04:34.620Z",
+  "updatedAt": "2026-11-22T18:22:37.616Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -46,7 +46,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-15"
+      "discoveredAt": "2026-11-22"
     },
     {
       "id": "discovered-addyosmani-web-quality-skills",
@@ -379,7 +379,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-15"
+      "discoveredAt": "2026-11-22"
     },
     {
       "id": "discovered-ark0n-codeman",
@@ -451,7 +451,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-15"
+      "discoveredAt": "2026-11-22"
     },
     {
       "id": "discovered-borenchan-sdkmate",
@@ -460,7 +460,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-15"
+      "discoveredAt": "2026-11-22"
     },
     {
       "id": "discovered-callstackincubator-agent-skills",
@@ -505,7 +505,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-15"
+      "discoveredAt": "2026-11-22"
     },
     {
       "id": "discovered-espennilsen-pi",
@@ -541,7 +541,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-15"
+      "discoveredAt": "2026-11-22"
     },
     {
       "id": "discovered-hardhackerlabs-podwise-cli",
@@ -550,7 +550,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-15"
+      "discoveredAt": "2026-11-22"
     },
     {
       "id": "discovered-kairyou-agent-tools",
@@ -595,7 +595,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-15"
+      "discoveredAt": "2026-11-22"
     }
   ]
 }
