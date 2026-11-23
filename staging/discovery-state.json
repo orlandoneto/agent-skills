@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T00:35:37.669Z",
+  "updatedAt": "2026-11-23T22:30:09.563Z",
   "note": "Cache de descoberta (repos/queries). Postgres/Redis = futuro se volume exigir.",
   "queries": {
     "code-skill-md-skills-path": {
@@ -32,7 +32,7 @@
   "repos": {
     "addyosmani/agent-skills": {
       "firstSeenAt": "2026-11-12T18:46:12.854Z",
-      "lastCheckedAt": "2026-11-23T00:35:32.360Z",
+      "lastCheckedAt": "2026-11-23T22:30:07.542Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -195,7 +195,7 @@
     },
     "anthropics/skills": {
       "firstSeenAt": "2026-11-12T18:46:29.019Z",
-      "lastCheckedAt": "2026-11-23T00:35:33.927Z",
+      "lastCheckedAt": "2026-11-23T22:30:07.543Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -567,7 +567,7 @@
     },
     "aaron-he-zhu/aaron-marketing-skills": {
       "firstSeenAt": "2026-11-13T18:28:46.044Z",
-      "lastCheckedAt": "2026-11-23T00:35:32.359Z",
+      "lastCheckedAt": "2026-11-23T22:30:07.542Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -1731,7 +1731,7 @@
     },
     "cruisediary/apple-app-review-skills": {
       "firstSeenAt": "2026-11-16T20:54:07.065Z",
-      "lastCheckedAt": "2026-11-16T20:54:07.901Z",
+      "lastCheckedAt": "2026-11-23T22:30:08.618Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
@@ -1753,14 +1753,14 @@
     },
     "dalroot/agentic-seo": {
       "firstSeenAt": "2026-11-16T20:54:08.672Z",
-      "lastCheckedAt": "2026-11-16T20:54:09.501Z",
+      "lastCheckedAt": "2026-11-23T22:30:09.555Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
       "stars": 26,
-      "pushedAt": "2026-11-14T15:18:21Z"
+      "pushedAt": "2026-11-17T11:06:10Z"
     },
     "diggiehippie/ai-consulting-onboarding": {
       "firstSeenAt": "2026-11-16T20:54:09.501Z",

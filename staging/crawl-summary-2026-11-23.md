@@ -2,8 +2,8 @@
 
 - **Novos publicados:** 0
 - **Candidatos staging:** 400
-- **Rejeitados no crawl:** 839
-- **Skipped no publish:** 21
+- **Rejeitados no crawl:** 837
+- **Skipped no publish:** 22
 - **Held (manual/teto):** 1
 
 ## Adicionados neste run
@@ -21,6 +21,7 @@ _Nenhum skill novo SAFE hoje._
 - `doc-coauthoring`: já publicado (id)
 - `web-design-guidelines`: já publicado (id)
 - `ms-ads`: já publicado (id)
+- `ms-aso`: já publicado (id)
 - `ms-co-marketing`: já publicado (id)
 - `ms-competitor-profiling`: já publicado (id)
 - `ms-directory-submissions`: já publicado (id)
@@ -42,7 +43,11 @@ _Nenhum skill novo SAFE hoje._
 - **2026-11-11** — 70: academy-guide, agent-skill-creator, algorithmic-art, analyze-experiment, api-and-interface-design, brand-guidelines, browser-testing-with-devtools, canvas-design, ci-cd-and-automation, claude-api, code-review-and-quality, code-simplification (+58)
 
 ## Rejeições (top)
-- 629× duplicata
-- 100× pasta scripts/
+- 624× duplicata
+- 96× pasta scripts/
 - 90× licença ausente ou fora da allowlist
 - 20× description curta / ausente (anti-lixo)
+- 1× HTTP 503 https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/brand-g
+- 1× HTTP 503 https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/web-art
+- 1× HTTP 503 https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/webapp-
+- 1× HTTP 503 https://raw.githubusercontent.com/anthropics/skills/HEAD/skills/xlsx/SK

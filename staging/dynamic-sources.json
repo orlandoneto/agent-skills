@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T00:35:37.669Z",
+  "updatedAt": "2026-11-23T22:30:09.563Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -487,7 +487,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-16"
+      "discoveredAt": "2026-11-23"
     },
     {
       "id": "discovered-dalroot-agentic-seo",
@@ -496,7 +496,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-16"
+      "discoveredAt": "2026-11-23"
     },
     {
       "id": "discovered-danielsuo117-velocitai",

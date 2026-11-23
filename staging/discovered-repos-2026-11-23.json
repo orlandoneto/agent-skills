@@ -2,72 +2,18 @@
   "date": "2026-11-23",
   "newDynamic": [
     {
-      "id": "discovered-24601-surreal-skills",
+      "id": "discovered-cruisediary-apple-app-review-skills",
       "type": "github-repo-skills",
-      "repo": "24601/surreal-skills",
+      "repo": "cruisediary/apple-app-review-skills",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-23"
     },
     {
-      "id": "discovered-affitor-affiliate-skills",
+      "id": "discovered-dalroot-agentic-seo",
       "type": "github-repo-skills",
-      "repo": "affitor/affiliate-skills",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-23"
-    },
-    {
-      "id": "discovered-amstaff666-figma-pilot",
-      "type": "github-repo-skills",
-      "repo": "amstaff666/figma-pilot",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-23"
-    },
-    {
-      "id": "discovered-autoclaw-cc-xiaohongshu-skills",
-      "type": "github-repo-skills",
-      "repo": "autoclaw-cc/xiaohongshu-skills",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-23"
-    },
-    {
-      "id": "discovered-b1rdmania-hinge-profile-optimizer",
-      "type": "github-repo-skills",
-      "repo": "b1rdmania/hinge-profile-optimizer",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-23"
-    },
-    {
-      "id": "discovered-espennilsen-pi",
-      "type": "github-repo-skills",
-      "repo": "espennilsen/pi",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-23"
-    },
-    {
-      "id": "discovered-forcedotcom-sf-skills",
-      "type": "github-repo-skills",
-      "repo": "forcedotcom/sf-skills",
-      "path": "skills",
-      "defaultLicense": "Apache-2.0",
-      "enabled": true,
-      "discoveredAt": "2026-11-23"
-    },
-    {
-      "id": "discovered-genomoncology-biomcp-release-rehearsal",
-      "type": "github-repo-skills",
-      "repo": "genomoncology/biomcp-release-rehearsal",
+      "repo": "dalroot/agentic-seo",
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
@@ -76,52 +22,16 @@
   ],
   "inspected": [
     {
-      "repo": "24601/surreal-skills",
+      "repo": "cruisediary/apple-app-review-skills",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 34
+      "stars": 20
     },
     {
-      "repo": "affitor/affiliate-skills",
+      "repo": "dalroot/agentic-seo",
       "skillsPathOk": true,
       "license": "MIT",
-      "stars": 802
-    },
-    {
-      "repo": "amstaff666/figma-pilot",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 0
-    },
-    {
-      "repo": "autoclaw-cc/xiaohongshu-skills",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 2061
-    },
-    {
-      "repo": "b1rdmania/hinge-profile-optimizer",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 101
-    },
-    {
-      "repo": "espennilsen/pi",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 122
-    },
-    {
-      "repo": "forcedotcom/sf-skills",
-      "skillsPathOk": true,
-      "license": "Apache-2.0",
-      "stars": 1184
-    },
-    {
-      "repo": "genomoncology/biomcp-release-rehearsal",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 1
+      "stars": 26
     }
   ],
   "skipped": [
@@ -144,6 +54,10 @@
     {
       "repo": "0xsline/openchatcut",
       "reason": "status=rejected"
+    },
+    {
+      "repo": "24601/surreal-skills",
+      "reason": "recheck em 7d"
     },
     {
       "repo": "24kchengye/human-skill-tree",
@@ -223,6 +137,10 @@
     },
     {
       "repo": "aetheria-labs1/storefront-skills",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "affitor/affiliate-skills",
       "reason": "recheck em 7d"
     },
     {
@@ -458,6 +376,10 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "amstaff666/figma-pilot",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "anbeime/skill",
       "reason": "status=rejected"
     },
@@ -566,6 +488,10 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "autoclaw-cc/xiaohongshu-skills",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "automattic/agent-skills",
       "reason": "status=rejected"
     },
@@ -575,6 +501,10 @@
     },
     {
       "repo": "ayghri/i-have-adhd",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "b1rdmania/hinge-profile-optimizer",
       "reason": "recheck em 7d"
     },
     {
@@ -646,20 +576,12 @@
       "reason": "recheck em 7d"
     },
     {
-      "repo": "cruisediary/apple-app-review-skills",
-      "reason": "recheck em 7d"
-    },
-    {
       "repo": "czyt1988/qwt",
       "reason": "status=rejected"
     },
     {
       "repo": "daizedong/self-evolve",
       "reason": "status=rejected"
-    },
-    {
-      "repo": "dalroot/agentic-seo",
-      "reason": "recheck em 7d"
     },
     {
       "repo": "danielsuo117/velocitai",
@@ -706,8 +628,16 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "espennilsen/pi",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "fahrenheitresearch/hermes-weather-plugin",
       "reason": "status=rejected"
+    },
+    {
+      "repo": "forcedotcom/sf-skills",
+      "reason": "recheck em 7d"
     },
     {
       "repo": "forter/agentic-readiness-guide",
@@ -731,6 +661,150 @@
     },
     {
       "repo": "gavdalf/total-recall",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "genomoncology/biomcp-release-rehearsal",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "gitofuser/workbuddy-checkin",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "godothub/godot-minigame",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "halfwhey/claudraband",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "hardhackerlabs/podwise-cli",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "hyaxia/blogwatcher",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "ilandahan/aid",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "joshferrara/ghostwriter",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "kairyou/agent-tools",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "kali20gakki/msagent",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "majiayu000/claude-skill-registry",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "meltedinhex/analyst-ai-pack",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "mikuz12/exampass-assistant",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "moontzai/debate-coach",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "moonweave-research/ref-verify",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "naoterumaker/japan-gyousei-data",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "nirholas/pai",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "nullptrx/pangle_flutter",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "odinfree/storm-ecdsa-harness",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "opendatalab/mineru-ecosystem",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "ostikwhy-blip/claude-code-handoff-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "pearyj/sillytavern-cards-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "ploi/ploi-php-sdk",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "plurigrid/asi",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "publicdotcom/claw-skill-public-dot-com",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "shaowen-ye/manuscript-review-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "sharepoint/sharepoint-html",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "sstklen/infinite-gratitude",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "sxuan-coder/alibaba-java-development-guide",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "systemtce/dify-skills",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "tbdavid2019/openclaw-docs-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "tengj/article-poster-generator",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "timoncool/civitai-mcp-ultimate",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "vinceglakas/receipt-pattern",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "wsbm393/fable-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "yixiajack/dating-master-skill",
       "reason": "status=rejected"
     }
   ],
