@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-24",
+  "published": [],
+  "skipped": [
+    {
+      "id": "ci-cd-and-automation",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "code-review-and-quality",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "documentation-and-adrs",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "frontend-ui-engineering",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "planning-and-task-breakdown",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "security-and-hardening",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "spec-driven-development",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "using-agent-skills",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "doc-coauthoring",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "web-design-guidelines",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ms-ads",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ms-aso",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ms-co-marketing",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ms-competitor-profiling",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ms-directory-submissions",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ms-image",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ms-marketing-plan",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ms-sales-enablement",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "ms-video",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "claude-seo-seo-drift",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "claude-seo-seo-geo",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "claude-seo-seo-google",
+      "reason": "já publicado (id)"
+    }
+  ],
+  "held": [
+    {
+      "id": "claude-seo-seo-shopify",
+      "reason": "maxPublishedCommunity"
+    }
+  ]
+}
