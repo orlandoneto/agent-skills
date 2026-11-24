@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T04:35:05.654Z",
+  "updatedAt": "2026-11-24T21:03:48.927Z",
   "note": "Cache de descoberta (repos/queries). Postgres/Redis = futuro se volume exigir.",
   "queries": {
     "code-skill-md-skills-path": {
@@ -32,7 +32,7 @@
   "repos": {
     "addyosmani/agent-skills": {
       "firstSeenAt": "2026-11-12T18:46:12.854Z",
-      "lastCheckedAt": "2026-11-24T04:35:05.648Z",
+      "lastCheckedAt": "2026-11-24T21:03:48.919Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -195,7 +195,7 @@
     },
     "anthropics/skills": {
       "firstSeenAt": "2026-11-12T18:46:29.019Z",
-      "lastCheckedAt": "2026-11-24T04:35:05.648Z",
+      "lastCheckedAt": "2026-11-24T21:03:48.919Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -567,7 +567,7 @@
     },
     "aaron-he-zhu/aaron-marketing-skills": {
       "firstSeenAt": "2026-11-13T18:28:46.044Z",
-      "lastCheckedAt": "2026-11-24T04:35:05.648Z",
+      "lastCheckedAt": "2026-11-24T21:03:48.919Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",

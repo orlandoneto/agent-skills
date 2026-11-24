@@ -2,8 +2,8 @@
 
 - **Novos publicados:** 0
 - **Candidatos staging:** 400
-- **Rejeitados no crawl:** 837
-- **Skipped no publish:** 22
+- **Rejeitados no crawl:** 821
+- **Skipped no publish:** 28
 - **Held (manual/teto):** 1
 
 ## Adicionados neste run
@@ -13,10 +13,16 @@ _Nenhum skill novo SAFE hoje._
 - `ci-cd-and-automation`: já publicado (id)
 - `code-review-and-quality`: já publicado (id)
 - `documentation-and-adrs`: já publicado (id)
+- `doubt-driven-development`: já publicado (id)
 - `frontend-ui-engineering`: já publicado (id)
+- `incremental-implementation`: já publicado (id)
+- `observability-and-instrumentation`: já publicado (id)
+- `performance-optimization`: já publicado (id)
 - `planning-and-task-breakdown`: já publicado (id)
 - `security-and-hardening`: já publicado (id)
+- `shipping-and-launch`: já publicado (id)
 - `spec-driven-development`: já publicado (id)
+- `test-driven-development`: já publicado (id)
 - `using-agent-skills`: já publicado (id)
 - `doc-coauthoring`: já publicado (id)
 - `web-design-guidelines`: já publicado (id)
@@ -43,7 +49,7 @@ _Nenhum skill novo SAFE hoje._
 - **2026-11-11** — 70: academy-guide, agent-skill-creator, algorithmic-art, analyze-experiment, api-and-interface-design, brand-guidelines, browser-testing-with-devtools, canvas-design, ci-cd-and-automation, claude-api, code-review-and-quality, code-simplification (+58)
 
 ## Rejeições (top)
-- 628× duplicata
-- 99× pasta scripts/
+- 613× duplicata
+- 98× pasta scripts/
 - 90× licença ausente ou fora da allowlist
 - 20× description curta / ausente (anti-lixo)

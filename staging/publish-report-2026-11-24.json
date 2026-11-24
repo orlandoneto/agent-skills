@@ -15,7 +15,23 @@
       "reason": "já publicado (id)"
     },
     {
+      "id": "doubt-driven-development",
+      "reason": "já publicado (id)"
+    },
+    {
       "id": "frontend-ui-engineering",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "incremental-implementation",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "observability-and-instrumentation",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "performance-optimization",
       "reason": "já publicado (id)"
     },
     {
@@ -27,7 +43,15 @@
       "reason": "já publicado (id)"
     },
     {
+      "id": "shipping-and-launch",
+      "reason": "já publicado (id)"
+    },
+    {
       "id": "spec-driven-development",
+      "reason": "já publicado (id)"
+    },
+    {
+      "id": "test-driven-development",
       "reason": "já publicado (id)"
     },
     {
