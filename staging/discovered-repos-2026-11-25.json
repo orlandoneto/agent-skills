@@ -1,129 +1,7 @@
 {
   "date": "2026-11-25",
-  "newDynamic": [
-    {
-      "id": "discovered-aetheria-labs1-storefront-skills",
-      "type": "github-repo-skills",
-      "repo": "aetheria-labs1/storefront-skills",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-25"
-    },
-    {
-      "id": "discovered-agentskillexchange-skills",
-      "type": "github-repo-skills",
-      "repo": "agentskillexchange/skills",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-25"
-    },
-    {
-      "id": "discovered-ahgraber-skills",
-      "type": "github-repo-skills",
-      "repo": "ahgraber/skills",
-      "path": "skills",
-      "defaultLicense": "CC0-1.0",
-      "enabled": true,
-      "discoveredAt": "2026-11-25"
-    },
-    {
-      "id": "discovered-comeonoliver-skillshub",
-      "type": "github-repo-skills",
-      "repo": "comeonoliver/skillshub",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-25"
-    },
-    {
-      "id": "discovered-kairyou-agent-tools",
-      "type": "github-repo-skills",
-      "repo": "kairyou/agent-tools",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-25"
-    },
-    {
-      "id": "discovered-majiayu000-claude-skill-registry",
-      "type": "github-repo-skills",
-      "repo": "majiayu000/claude-skill-registry",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-25"
-    },
-    {
-      "id": "discovered-meltedinhex-analyst-ai-pack",
-      "type": "github-repo-skills",
-      "repo": "meltedinhex/analyst-ai-pack",
-      "path": "skills",
-      "defaultLicense": "Apache-2.0",
-      "enabled": true,
-      "discoveredAt": "2026-11-25"
-    },
-    {
-      "id": "discovered-odinfree-storm-ecdsa-harness",
-      "type": "github-repo-skills",
-      "repo": "odinfree/storm-ecdsa-harness",
-      "path": "skills",
-      "defaultLicense": "MIT",
-      "enabled": true,
-      "discoveredAt": "2026-11-25"
-    }
-  ],
-  "inspected": [
-    {
-      "repo": "aetheria-labs1/storefront-skills",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 8
-    },
-    {
-      "repo": "agentskillexchange/skills",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 65
-    },
-    {
-      "repo": "ahgraber/skills",
-      "skillsPathOk": true,
-      "license": "CC0-1.0",
-      "stars": 6
-    },
-    {
-      "repo": "comeonoliver/skillshub",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 67
-    },
-    {
-      "repo": "kairyou/agent-tools",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 181
-    },
-    {
-      "repo": "majiayu000/claude-skill-registry",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 753
-    },
-    {
-      "repo": "meltedinhex/analyst-ai-pack",
-      "skillsPathOk": true,
-      "license": "Apache-2.0",
-      "stars": 24
-    },
-    {
-      "repo": "odinfree/storm-ecdsa-harness",
-      "skillsPathOk": true,
-      "license": "MIT",
-      "stars": 4
-    }
-  ],
+  "newDynamic": [],
+  "inspected": [],
   "skipped": [
     {
       "repo": "0x0funky/agent-sprite-forge",
@@ -226,6 +104,10 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "aetheria-labs1/storefront-skills",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "affitor/affiliate-skills",
       "reason": "recheck em 7d"
     },
@@ -254,6 +136,10 @@
       "reason": "recheck em 7d"
     },
     {
+      "repo": "agentskillexchange/skills",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "agentskills/agentskills",
       "reason": "status=rejected"
     },
@@ -279,6 +165,10 @@
     },
     {
       "repo": "ahacker-1/cre-agent-skills",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "ahgraber/skills",
       "reason": "recheck em 7d"
     },
     {
@@ -650,6 +540,10 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "comeonoliver/skillshub",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "cruisediary/apple-app-review-skills",
       "reason": "recheck em 7d"
     },
@@ -778,8 +672,20 @@
       "reason": "status=rejected"
     },
     {
+      "repo": "kairyou/agent-tools",
+      "reason": "recheck em 7d"
+    },
+    {
       "repo": "kali20gakki/msagent",
       "reason": "status=rejected"
+    },
+    {
+      "repo": "majiayu000/claude-skill-registry",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "meltedinhex/analyst-ai-pack",
+      "reason": "recheck em 7d"
     },
     {
       "repo": "mikuz12/exampass-assistant",
@@ -803,6 +709,78 @@
     },
     {
       "repo": "nullptrx/pangle_flutter",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "odinfree/storm-ecdsa-harness",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "opendatalab/mineru-ecosystem",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "ostikwhy-blip/claude-code-handoff-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "pearyj/sillytavern-cards-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "ploi/ploi-php-sdk",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "plurigrid/asi",
+      "reason": "recheck em 7d"
+    },
+    {
+      "repo": "publicdotcom/claw-skill-public-dot-com",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "shaowen-ye/manuscript-review-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "sharepoint/sharepoint-html",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "sstklen/infinite-gratitude",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "sxuan-coder/alibaba-java-development-guide",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "systemtce/dify-skills",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "tbdavid2019/openclaw-docs-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "tengj/article-poster-generator",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "timoncool/civitai-mcp-ultimate",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "vinceglakas/receipt-pattern",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "wsbm393/fable-skill",
+      "reason": "status=rejected"
+    },
+    {
+      "repo": "yixiajack/dating-master-skill",
       "reason": "status=rejected"
     }
   ],

@@ -2,7 +2,7 @@
 
 - **Novos publicados:** 0
 - **Candidatos staging:** 400
-- **Rejeitados no crawl:** 821
+- **Rejeitados no crawl:** 820
 - **Skipped no publish:** 28
 - **Held (manual/teto):** 1
 
@@ -49,7 +49,7 @@ _Nenhum skill novo SAFE hoje._
 - **2026-11-11** — 70: academy-guide, agent-skill-creator, algorithmic-art, analyze-experiment, api-and-interface-design, brand-guidelines, browser-testing-with-devtools, canvas-design, ci-cd-and-automation, claude-api, code-review-and-quality, code-simplification (+58)
 
 ## Rejeições (top)
-- 613× duplicata
+- 612× duplicata
 - 98× pasta scripts/
 - 90× licença ausente ou fora da allowlist
 - 20× description curta / ausente (anti-lixo)
