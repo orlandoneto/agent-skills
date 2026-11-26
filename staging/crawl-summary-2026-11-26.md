@@ -2,7 +2,7 @@
 
 - **Novos publicados:** 0
 - **Candidatos staging:** 400
-- **Rejeitados no crawl:** 820
+- **Rejeitados no crawl:** 819
 - **Skipped no publish:** 28
 - **Held (manual/teto):** 1
 
@@ -50,6 +50,6 @@ _Nenhum skill novo SAFE hoje._
 
 ## Rejeições (top)
 - 612× duplicata
-- 98× pasta scripts/
+- 97× pasta scripts/
 - 90× licença ausente ou fora da allowlist
 - 20× description curta / ausente (anti-lixo)
