@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T02:38:48.994Z",
+  "updatedAt": "2026-11-27T19:52:48.723Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -19,7 +19,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-20"
+      "discoveredAt": "2026-11-27"
     },
     {
       "id": "discovered-24601-surreal-skills",
@@ -67,6 +67,15 @@
       "discoveredAt": "2026-11-21"
     },
     {
+      "id": "discovered-adrianco-retort",
+      "type": "github-repo-skills",
+      "repo": "adrianco/retort",
+      "path": "skills",
+      "defaultLicense": "Apache-2.0",
+      "enabled": true,
+      "discoveredAt": "2026-11-27"
+    },
+    {
       "id": "discovered-aedev-tools-adobe-agent-skills",
       "type": "github-repo-skills",
       "repo": "aedev-tools/adobe-agent-skills",
@@ -82,7 +91,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-20"
+      "discoveredAt": "2026-11-27"
     },
     {
       "id": "discovered-aerovato-container",
@@ -118,7 +127,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-20"
+      "discoveredAt": "2026-11-27"
     },
     {
       "id": "discovered-agents365-ai-drawio-skill",
@@ -154,7 +163,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-20"
+      "discoveredAt": "2026-11-27"
     },
     {
       "id": "discovered-agricidaniel-claude-obsidian",
@@ -172,7 +181,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-20"
+      "discoveredAt": "2026-11-27"
     },
     {
       "id": "discovered-ahgraber-skills",
@@ -208,7 +217,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-20"
+      "discoveredAt": "2026-11-27"
     },
     {
       "id": "discovered-ajnart-self-host",
@@ -280,7 +289,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-20"
+      "discoveredAt": "2026-11-27"
     },
     {
       "id": "discovered-amstaff666-figma-pilot",
