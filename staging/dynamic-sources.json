@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:52:48.723Z",
+  "updatedAt": "2026-11-28T02:28:39.292Z",
   "policyVersion": 1,
   "note": "Fontes descobertas automaticamente. Crawl mescla com policy.sourcesAllowlist. Postgres = futuro.",
   "sources": [
@@ -47,6 +47,15 @@
       "defaultLicense": "MIT",
       "enabled": true,
       "discoveredAt": "2026-11-22"
+    },
+    {
+      "id": "discovered-abpaul-phxstack",
+      "type": "github-repo-skills",
+      "repo": "abpaul/phxstack",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "enabled": true,
+      "discoveredAt": "2026-11-28"
     },
     {
       "id": "discovered-addyosmani-web-quality-skills",
@@ -208,7 +217,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-21"
+      "discoveredAt": "2026-11-28"
     },
     {
       "id": "discovered-aiworkskills-wechat-article-skills",
@@ -226,7 +235,7 @@
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "enabled": true,
-      "discoveredAt": "2026-11-21"
+      "discoveredAt": "2026-11-28"
     },
     {
       "id": "discovered-alchaincyf-huashu-motion",
@@ -307,7 +316,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-21"
+      "discoveredAt": "2026-11-28"
     },
     {
       "id": "discovered-andyhuo520-vibe-knowledge",
@@ -316,7 +325,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-21"
+      "discoveredAt": "2026-11-28"
     },
     {
       "id": "discovered-anombyte93-prd-taskmaster",
@@ -325,7 +334,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-21"
+      "discoveredAt": "2026-11-28"
     },
     {
       "id": "discovered-antfu-skills",
@@ -343,7 +352,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-21"
+      "discoveredAt": "2026-11-28"
     },
     {
       "id": "discovered-antvis-l7",
@@ -361,7 +370,7 @@
       "path": "skills",
       "defaultLicense": "MIT",
       "enabled": true,
-      "discoveredAt": "2026-11-21"
+      "discoveredAt": "2026-11-28"
     },
     {
       "id": "discovered-appllama-appllama-skills",

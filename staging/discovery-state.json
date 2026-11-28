@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T19:52:48.723Z",
+  "updatedAt": "2026-11-28T02:28:39.292Z",
   "note": "Cache de descoberta (repos/queries). Postgres/Redis = futuro se volume exigir.",
   "queries": {
     "code-skill-md-skills-path": {
-      "lastPage": 8,
-      "lastRunAt": "2026-11-27T19:52:20.554Z",
+      "lastPage": 9,
+      "lastRunAt": "2026-11-28T02:28:22.680Z",
       "done": false
     },
     "code-skill-md": {
@@ -32,7 +32,7 @@
   "repos": {
     "addyosmani/agent-skills": {
       "firstSeenAt": "2026-11-12T18:46:12.854Z",
-      "lastCheckedAt": "2026-11-27T19:52:42.000Z",
+      "lastCheckedAt": "2026-11-28T02:28:31.448Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -195,7 +195,7 @@
     },
     "anthropics/skills": {
       "firstSeenAt": "2026-11-12T18:46:29.019Z",
-      "lastCheckedAt": "2026-11-27T02:38:46.682Z",
+      "lastCheckedAt": "2026-11-28T02:28:37.578Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -567,7 +567,7 @@
     },
     "aaron-he-zhu/aaron-marketing-skills": {
       "firstSeenAt": "2026-11-13T18:28:46.044Z",
-      "lastCheckedAt": "2026-11-27T19:52:42.000Z",
+      "lastCheckedAt": "2026-11-28T02:28:30.609Z",
       "status": "allowlisted",
       "reason": "já na policy",
       "path": "skills",
@@ -774,13 +774,13 @@
     },
     "aiscientists-dev/flowtrace": {
       "firstSeenAt": "2026-11-14T00:39:32.821Z",
-      "lastCheckedAt": "2026-11-21T01:04:08.152Z",
+      "lastCheckedAt": "2026-11-28T02:28:32.339Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 483,
+      "stars": 484,
       "pushedAt": "2026-06-09T14:47:07Z"
     },
     "aiskillstore/marketplace": {
@@ -796,14 +796,14 @@
     },
     "ajnart/self-host": {
       "firstSeenAt": "2026-11-14T00:39:34.700Z",
-      "lastCheckedAt": "2026-11-21T01:04:09.029Z",
+      "lastCheckedAt": "2026-11-28T02:28:33.134Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "Apache-2.0",
       "skillsPathOk": true,
-      "stars": 1599,
-      "pushedAt": "2026-11-16T15:38:54Z"
+      "stars": 1606,
+      "pushedAt": "2026-11-25T15:15:08Z"
     },
     "aktsmm/agent-skills": {
       "firstSeenAt": "2026-11-14T00:39:35.519Z",
@@ -873,51 +873,51 @@
     },
     "ancoleman/ai-design-components": {
       "firstSeenAt": "2026-11-14T00:39:40.368Z",
-      "lastCheckedAt": "2026-11-21T01:04:09.925Z",
+      "lastCheckedAt": "2026-11-28T02:28:35.945Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 533,
+      "stars": 534,
       "pushedAt": "2025-12-11T00:50:33Z"
     },
     "andyhuo520/vibe-knowledge": {
       "firstSeenAt": "2026-11-14T00:39:41.171Z",
-      "lastCheckedAt": "2026-11-21T01:04:10.768Z",
+      "lastCheckedAt": "2026-11-28T02:28:36.797Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 741,
+      "stars": 850,
       "pushedAt": "2026-10-28T15:30:54Z"
     },
     "anombyte93/prd-taskmaster": {
       "firstSeenAt": "2026-11-14T00:39:41.952Z",
-      "lastCheckedAt": "2026-11-21T01:04:11.544Z",
+      "lastCheckedAt": "2026-11-28T02:28:37.578Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 612,
+      "stars": 613,
       "pushedAt": "2026-11-04T23:27:54Z"
     },
     "antvis/ava": {
       "firstSeenAt": "2026-11-14T00:39:42.910Z",
-      "lastCheckedAt": "2026-11-21T01:04:12.386Z",
+      "lastCheckedAt": "2026-11-28T02:28:38.447Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
       "defaultLicense": "MIT",
       "skillsPathOk": true,
-      "stars": 1669,
-      "pushedAt": "2026-11-19T08:43:43Z"
+      "stars": 1676,
+      "pushedAt": "2026-11-26T08:27:35Z"
     },
     "anysiteio/agent-skills": {
       "firstSeenAt": "2026-11-14T00:39:43.780Z",
-      "lastCheckedAt": "2026-11-21T01:04:13.251Z",
+      "lastCheckedAt": "2026-11-28T02:28:39.286Z",
       "status": "dynamic",
       "reason": "adicionado a dynamic-sources",
       "path": "skills",
@@ -2234,6 +2234,50 @@
       "skillsPathOk": true,
       "stars": 0,
       "pushedAt": "2026-11-01T04:24:52Z"
+    },
+    "2016judea/brick-mortar-skills": {
+      "firstSeenAt": "2026-11-28T02:28:29.673Z",
+      "lastCheckedAt": "2026-11-28T02:28:30.609Z",
+      "status": "rejected",
+      "reason": "licença SPDX fora da allowlist / ausente",
+      "path": "skills",
+      "defaultLicense": null,
+      "skillsPathOk": true,
+      "stars": 0,
+      "pushedAt": "2026-11-23T13:49:01Z"
+    },
+    "abpaul/phxstack": {
+      "firstSeenAt": "2026-11-28T02:28:30.609Z",
+      "lastCheckedAt": "2026-11-28T02:28:31.448Z",
+      "status": "dynamic",
+      "reason": "adicionado a dynamic-sources",
+      "path": "skills",
+      "defaultLicense": "MIT",
+      "skillsPathOk": true,
+      "stars": 0,
+      "pushedAt": "2026-09-13T09:59:50Z"
+    },
+    "alencarljfrj/ui-skills": {
+      "firstSeenAt": "2026-11-28T02:28:33.134Z",
+      "lastCheckedAt": "2026-11-28T02:28:34.239Z",
+      "status": "rejected",
+      "reason": "licença SPDX fora da allowlist / ausente",
+      "path": "skills",
+      "defaultLicense": null,
+      "skillsPathOk": true,
+      "stars": 1,
+      "pushedAt": "2026-11-07T14:56:37Z"
+    },
+    "alexjustesen/obdb-skills": {
+      "firstSeenAt": "2026-11-28T02:28:34.239Z",
+      "lastCheckedAt": "2026-11-28T02:28:35.093Z",
+      "status": "rejected",
+      "reason": "licença SPDX fora da allowlist / ausente",
+      "path": "skills",
+      "defaultLicense": null,
+      "skillsPathOk": true,
+      "stars": 0,
+      "pushedAt": "2026-11-13T19:17:59Z"
     }
   }
 }
